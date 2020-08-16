@@ -4,6 +4,7 @@
 
 # Python
 /venv/*
+**/*.pyc
 
 # Videos
 /video_cache/*
