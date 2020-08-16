@@ -1,0 +1,2 @@
+# Get Course
+https://api.wanmen.org/4.0/content/lectures?courseId=5f276e2d52a0f097dfc51678

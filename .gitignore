@@ -1,0 +1,19 @@
+# PyCharm
+*.iml
+/.idea/*
+
+# Python
+/venv/*
+
+# Videos
+/video_cache/*
+/video_ready/*
+
+
+# Auth File
+/auth_curl/*
+
+
+# Download and Archive
+/download/*
+/download_archive/*

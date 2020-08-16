@@ -1,0 +1,3954 @@
+[
+  {
+    "_id": "5f276e548028944b062ea9e1",
+    "actions": {
+      "watch": false,
+      "download": false
+    },
+    "hide": false,
+    "order": 0,
+    "edDuration": 0,
+    "opDuration": 0,
+    "courseId": "5f276e2d52a0f097dfc51678",
+    "name": "Python进阶和面向对象",
+    "isPreset": false,
+    "seo": {
+      "keywords": "Python进阶和面向对象,商业数据分析(Python进阶和面向对象)",
+      "description": "万门教育金融课程分类下提供：商业数据分析，Python进阶和面向对象等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008981352！",
+      "title": "Python进阶和面向对象，商业数据分析_万门|大学"
+    },
+    "videoSize": {},
+    "videoDuration": 0,
+    "source": {
+      "lecId": "5c6f4ee57f596169020e1f79",
+      "courseId": "5c243172108a27759584d9bd"
+    },
+    "createdAt": "2020-08-03T01:54:28.422Z",
+    "updatedAt": "2020-08-03T01:54:28.423Z",
+    "children": [
+      {
+        "_id": "5f276e5480289430432ea9ea",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "hide": false,
+        "order": 0,
+        "parentId": "5f276e548028944b062ea9e1",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "Modules，Packages，and Programs（一）",
+        "isPreset": false,
+        "seo": {},
+        "videoDuration": 725.56,
+        "videoSize": {
+          "mobileLow": 59560,
+          "pcLow": 66736,
+          "pcMid": 59560,
+          "mobileMid": 103864,
+          "pcHigh": 103864
+        },
+        "isGeneratingAudio": true,
+        "audioPersistentId": "z1.0A1E1B437BDA1CF3F55DB506B591B3D5",
+        "audioSavedKey": "0fa8c67af5292adb52a634bf03c39a03.mp3",
+        "source": {
+          "lecId": "5c6f4f00799204471d5e5244",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.423Z",
+        "updatedAt": "2020-08-03T01:54:28.665Z",
+        "progress": 31,
+        "offset": 31,
+        "seconds": 225,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289445112ea9eb",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 1,
+        "parentId": "5f276e548028944b062ea9e1",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "Modules，Packages，and Programs（二）",
+        "isPreset": false,
+        "videoDuration": 719,
+        "videoSize": {
+          "mobileLow": 61572,
+          "pcHigh": 107532,
+          "pcMid": 61572,
+          "pcLow": 79184,
+          "mobileMid": 107532
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 719.177143,
+        "audioSize": 11507.296,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC521CA0C8732",
+        "audioSavedKey": "19adca685325b0ddf4b29baabbb5f777.m3u8",
+        "source": {
+          "lecId": "5c6f4f0a9b32bca439c04c85",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.423Z",
+        "updatedAt": "2020-08-03T01:54:28.423Z",
+        "progress": 54,
+        "offset": 54,
+        "seconds": 388,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289409802ea9ec",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 2,
+        "parentId": "5f276e548028944b062ea9e1",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "Python Standard Library",
+        "isPreset": false,
+        "videoDuration": 560.48,
+        "videoSize": {
+          "pcHigh": 73876,
+          "pcLow": 96976,
+          "mobileLow": 41996,
+          "pcMid": 41996,
+          "mobileMid": 73876
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 560.666122,
+        "audioSize": 8971.119,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC521E20C90EB",
+        "audioSavedKey": "3820111ed90eb1b1370eb7db7c250b43.m3u8",
+        "source": {
+          "lecId": "5c6f4f127f596137dd0e1f88",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.423Z",
+        "updatedAt": "2020-08-03T01:54:28.423Z",
+        "progress": 17,
+        "offset": 17,
+        "seconds": 95,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894ddf12ea9ed",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 3,
+        "parentId": "5f276e548028944b062ea9e1",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "Python System（一）",
+        "isPreset": false,
+        "videoDuration": 527.04,
+        "videoSize": {
+          "pcLow": 38280,
+          "mobileLow": 44436,
+          "pcHigh": 77908,
+          "mobileMid": 77908,
+          "pcMid": 44436
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 527.203265,
+        "audioSize": 8435.714,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC521F40CD1A4",
+        "audioSavedKey": "aaedee0d4775c4bd11f59a425ec9605e.m3u8",
+        "source": {
+          "lecId": "5c6f4f1a79920447365e524b",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.423Z",
+        "updatedAt": "2020-08-03T01:54:28.424Z",
+        "progress": 22,
+        "offset": 22,
+        "seconds": 116,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289480802ea9ee",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 4,
+        "parentId": "5f276e548028944b062ea9e1",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "Python System（二）",
+        "isPreset": false,
+        "videoDuration": 677.36,
+        "videoSize": {
+          "mobileLow": 57040,
+          "pcLow": 68556,
+          "pcMid": 57040,
+          "pcHigh": 99920,
+          "mobileMid": 99920
+        },
+        "isGeneratingAudio": true,
+        "audioPersistentId": "z1.0A1E1B437BDA1CF3F55DB7C40F166E29",
+        "audioSavedKey": "ac18e25e7a07df0e01e5069bfd44a45c.mp3",
+        "source": {
+          "lecId": "5c6f518c9b32bc3dd7c04d1a",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.424Z",
+        "updatedAt": "2020-08-03T01:54:28.424Z",
+        "progress": 12,
+        "offset": 12,
+        "seconds": 81,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e548028942cf82ea9ef",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 5,
+        "parentId": "5f276e548028944b062ea9e1",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "Python System（三）",
+        "isPreset": false,
+        "videoDuration": 886.24,
+        "videoSize": {
+          "mobileLow": 78384,
+          "pcLow": 77976,
+          "pcMid": 78384,
+          "mobileMid": 137504,
+          "pcHigh": 137504
+        },
+        "isGeneratingAudio": true,
+        "audioPersistentId": "z1.0A1E1A1839F5633CB05DB70F80030599",
+        "audioSavedKey": "7d19ef58ab7403a069de405c65333461.mp3",
+        "source": {
+          "lecId": "5c6f519d7f59615f560e204a",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.424Z",
+        "updatedAt": "2020-08-03T01:54:28.424Z",
+        "progress": 43,
+        "offset": 43,
+        "seconds": 381,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289488ab2ea9f0",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 6,
+        "parentId": "5f276e548028944b062ea9e1",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "Python System（四）",
+        "isPreset": false,
+        "videoDuration": 311,
+        "videoSize": {
+          "mobileLow": 28648,
+          "pcLow": 23300,
+          "pcHigh": 50540,
+          "mobileMid": 50540,
+          "pcMid": 28648
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 311.170612,
+        "audioSize": 4979.191,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC522350CEF89",
+        "audioSavedKey": "de508df37eaa1fef32553b6323257108.m3u8",
+        "source": {
+          "lecId": "5c6f51a97992044a585e532c",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.424Z",
+        "updatedAt": "2020-08-03T01:54:28.424Z",
+        "progress": 15,
+        "offset": 15,
+        "seconds": 47,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894508e2ea9f1",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 7,
+        "parentId": "5f276e548028944b062ea9e1",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "Advanced Python（一）",
+        "isPreset": false,
+        "videoDuration": 961.12,
+        "videoSize": {
+          "mobileLow": 73076,
+          "pcLow": 65080,
+          "pcMid": 73076,
+          "pcHigh": 136744,
+          "mobileMid": 136744
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 961.306122,
+        "audioSize": 15381.359,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC522410CF55A",
+        "audioSavedKey": "cbaa8f2665146cf8f58d763a313f475f.m3u8",
+        "source": {
+          "lecId": "5c6f51b59b32bc21f7c04d23",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.424Z",
+        "updatedAt": "2020-08-03T01:54:28.424Z",
+        "progress": 6,
+        "offset": 6,
+        "seconds": 58,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e548028944b822ea9f2",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 8,
+        "parentId": "5f276e548028944b062ea9e1",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "Advanced Python（二）",
+        "isPreset": false,
+        "videoDuration": 724.04,
+        "videoSize": {
+          "mobileLow": 64748,
+          "pcHigh": 113416,
+          "pcLow": 59252,
+          "pcMid": 64152,
+          "mobileMid": 113416
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 724.218776,
+        "audioSize": 11587.962,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5225F0D039E",
+        "audioSavedKey": "4dd4f9c9c523f6d83e6f14a68a8a18d7.m3u8",
+        "source": {
+          "lecId": "5c6f51c099248310911f359c",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.424Z",
+        "updatedAt": "2020-08-03T01:54:28.424Z",
+        "progress": 6,
+        "offset": 6,
+        "seconds": 43,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894223c2ea9f3",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 9,
+        "parentId": "5f276e548028944b062ea9e1",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "Advanced Python（三）",
+        "isPreset": false,
+        "videoDuration": 802.76,
+        "videoSize": {
+          "pcLow": 79596,
+          "mobileLow": 67116,
+          "pcHigh": 117328,
+          "pcMid": 67116,
+          "mobileMid": 117328
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 802.951837,
+        "audioSize": 12847.691,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC522770CD69B",
+        "audioSavedKey": "7cc013819f99bc83086434e905e64b1a.m3u8",
+        "source": {
+          "lecId": "5c6f51cd7f596173e90e2053",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.424Z",
+        "updatedAt": "2020-08-03T01:54:28.424Z",
+        "progress": 7,
+        "offset": 7,
+        "seconds": 56,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894fdf62ea9f4",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 10,
+        "parentId": "5f276e548028944b062ea9e1",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "Advanced Python（四）",
+        "isPreset": false,
+        "videoDuration": 844.08,
+        "videoSize": {
+          "mobileLow": 74136,
+          "pcLow": 88740,
+          "pcHigh": 129900,
+          "mobileMid": 129900,
+          "pcMid": 74136
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 844.251429,
+        "audioSize": 13508.484,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5228F0D1A0D",
+        "audioSavedKey": "ccf8541d5d40976748bee1e7924cfa3f.m3u8",
+        "source": {
+          "lecId": "5c6f51d87992043a485e5336",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.424Z",
+        "updatedAt": "2020-08-03T01:54:28.424Z",
+        "progress": 100,
+        "offset": 100,
+        "seconds": 844,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "5f276e54802894ec042ea9e2",
+    "actions": {
+      "watch": false,
+      "download": false
+    },
+    "hide": false,
+    "order": 1,
+    "edDuration": 0,
+    "opDuration": 0,
+    "courseId": "5f276e2d52a0f097dfc51678",
+    "name": "网络数据获取",
+    "isPreset": false,
+    "seo": {
+      "keywords": "网络数据获取,商业数据分析(网络数据获取)",
+      "description": "万门教育金融课程分类下提供：商业数据分析，网络数据获取等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008981353！",
+      "title": "网络数据获取，商业数据分析_万门|大学"
+    },
+    "videoSize": {},
+    "videoDuration": 0,
+    "source": {
+      "lecId": "5c774ec679920467215eeec4",
+      "courseId": "5c243172108a27759584d9bd"
+    },
+    "createdAt": "2020-08-03T01:54:28.425Z",
+    "updatedAt": "2020-08-03T01:54:28.425Z",
+    "children": [
+      {
+        "_id": "5f276e5480289413ec2ea9f6",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "hide": false,
+        "order": 0,
+        "parentId": "5f276e54802894ec042ea9e2",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "计算机网络基础",
+        "isPreset": false,
+        "seo": {},
+        "videoDuration": 482.52,
+        "videoSize": {
+          "mobileLow": 41300,
+          "pcLow": 31832,
+          "pcMid": 41300,
+          "mobileMid": 72760,
+          "pcHigh": 72760
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 482.690612,
+        "audioSize": 7723.511,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC50C02051E41",
+        "audioSavedKey": "adec052f0d2b5bd6c2526302b58e60d7.m3u8",
+        "source": {
+          "lecId": "5c774ee579920457845eeedd",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.425Z",
+        "updatedAt": "2020-08-03T01:54:28.425Z",
+        "progress": 15,
+        "offset": 15,
+        "seconds": 72,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e548028943f722ea9f7",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 1,
+        "parentId": "5f276e54802894ec042ea9e2",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "网站",
+        "isPreset": false,
+        "videoDuration": 563.44,
+        "videoSize": {
+          "mobileLow": 46800,
+          "pcHigh": 81524,
+          "pcLow": 29260,
+          "pcMid": 46792,
+          "mobileMid": 81532
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 563.591837,
+        "audioSize": 9017.931,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC522B50CF3CA",
+        "audioSavedKey": "2776b75bac5b116cec9a531a35199bbb.m3u8",
+        "source": {
+          "lecId": "5c774ef07992045a795eeee8",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.425Z",
+        "updatedAt": "2020-08-03T01:54:28.425Z",
+        "progress": 16,
+        "offset": 16,
+        "seconds": 90,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e548028941ec92ea9f8",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 2,
+        "parentId": "5f276e54802894ec042ea9e2",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "示例分析",
+        "isPreset": false,
+        "videoDuration": 863.799999,
+        "videoSize": {
+          "pcLow": 175656,
+          "mobileLow": 73608,
+          "mobileMid": 128232,
+          "pcMid": 73608,
+          "pcHigh": 128232
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 863.973878,
+        "audioSize": 13824.044,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC522C70CFC4C",
+        "audioSavedKey": "0795972cfa8a34889a288d68062f984b.m3u8",
+        "source": {
+          "lecId": "5c774ef99924834edc1fd235",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.425Z",
+        "updatedAt": "2020-08-03T01:54:28.425Z",
+        "progress": 25,
+        "offset": 25,
+        "seconds": 216,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894b6f02ea9f9",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 3,
+        "parentId": "5f276e54802894ec042ea9e2",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "知识回顾及预习",
+        "isPreset": false,
+        "videoDuration": 420.12,
+        "videoSize": {
+          "mobileLow": 32336,
+          "pcHigh": 56072,
+          "pcMid": 32336,
+          "pcLow": 79672,
+          "mobileMid": 56072
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 420.284082,
+        "audioSize": 6725.007,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC522E20D0A11",
+        "audioSavedKey": "8939e7b53dc7c7226ce8bf77d8cc4792.m3u8",
+        "source": {
+          "lecId": "5c774f007f59614a870ec88e",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.425Z",
+        "updatedAt": "2020-08-03T01:54:28.425Z",
+        "progress": 9,
+        "offset": 9,
+        "seconds": 38,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e548028946abd2ea9fa",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 4,
+        "parentId": "5f276e54802894ec042ea9e2",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "HTML，CSS，Browser（一）",
+        "isPreset": false,
+        "videoDuration": 896.88,
+        "videoSize": {
+          "pcHigh": 110540,
+          "pcLow": 67636,
+          "mobileLow": 69220,
+          "pcMid": 69220,
+          "mobileMid": 110540
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 897.044898,
+        "audioSize": 14353.18,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC522EF0D0FCF",
+        "audioSavedKey": "00703596de9a749ce9a22fa03718a3fa.m3u8",
+        "source": {
+          "lecId": "5c774f087f5961c8830ec896",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.425Z",
+        "updatedAt": "2020-08-03T01:54:28.425Z",
+        "progress": 7,
+        "offset": 7,
+        "seconds": 63,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289412592ea9fb",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 5,
+        "parentId": "5f276e54802894ec042ea9e2",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "HTML，CSS，Browser（二）",
+        "isPreset": false,
+        "videoDuration": 765.24,
+        "videoSize": {
+          "pcLow": 57040,
+          "mobileLow": 50752,
+          "pcHigh": 92728,
+          "mobileMid": 92728,
+          "pcMid": 50752
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 765.413878,
+        "audioSize": 12247.084,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC523080D1C12",
+        "audioSavedKey": "0db802c0a544e2ecfc5b0ebdca3a0513.m3u8",
+        "source": {
+          "lecId": "5c774f167992044cea5eeef0",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.425Z",
+        "updatedAt": "2020-08-03T01:54:28.425Z",
+        "progress": 15,
+        "offset": 15,
+        "seconds": 115,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894ba722ea9fc",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 6,
+        "parentId": "5f276e54802894ec042ea9e2",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "Crawl—BOSS直聘（一）",
+        "isPreset": false,
+        "videoDuration": 615,
+        "videoSize": {
+          "mobileLow": 55412,
+          "pcLow": 97172,
+          "pcMid": 55412,
+          "pcHigh": 96044,
+          "mobileMid": 96044
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 615.157551,
+        "audioSize": 9842.982,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5231F0D2758",
+        "audioSavedKey": "4343f18a4d902cc95e256fea030ba4ec.m3u8",
+        "source": {
+          "lecId": "5c774f209b32bcbf46c0e8f8",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.425Z",
+        "updatedAt": "2020-08-03T01:54:28.425Z",
+        "progress": 7,
+        "offset": 7,
+        "seconds": 43,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894c1dd2ea9fd",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 7,
+        "parentId": "5f276e54802894ec042ea9e2",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "Crawl—BOSS直聘（二）",
+        "isPreset": false,
+        "videoDuration": 831.479998,
+        "videoSize": {
+          "mobileLow": 73068,
+          "pcHigh": 128664,
+          "pcLow": 206440,
+          "pcMid": 73068,
+          "mobileMid": 128664
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 831.660408,
+        "audioSize": 13307.028,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC523360D3107",
+        "audioSavedKey": "b6b9038daf8e940f766c10969b41c354.m3u8",
+        "source": {
+          "lecId": "5c774f2b99248302091fd244",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.426Z",
+        "updatedAt": "2020-08-03T01:54:28.426Z",
+        "progress": 6,
+        "offset": 6,
+        "seconds": 50,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289463452ea9fe",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 8,
+        "parentId": "5f276e54802894ec042ea9e2",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "Crawl—BOSS直聘（三）",
+        "isPreset": false,
+        "videoDuration": 622.08,
+        "videoSize": {
+          "pcLow": 83660,
+          "mobileLow": 52724,
+          "pcHigh": 92256,
+          "pcMid": 52724,
+          "mobileMid": 92256
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 622.236735,
+        "audioSize": 9956.249,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC523540D3F79",
+        "audioSavedKey": "ce809deab80c9e797ea94a03b142423e.m3u8",
+        "source": {
+          "lecId": "5c774f34799204360f5eeefb",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.426Z",
+        "updatedAt": "2020-08-03T01:54:28.426Z",
+        "progress": 39,
+        "offset": 39,
+        "seconds": 243,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894396b2ea9ff",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 9,
+        "parentId": "5f276e54802894ec042ea9e2",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "Crawl—BOSS直聘（四）",
+        "isPreset": false,
+        "videoDuration": 1005.559999,
+        "videoSize": {
+          "mobileLow": 89836,
+          "pcLow": 196572,
+          "pcHigh": 163696,
+          "mobileMid": 163700,
+          "pcMid": 89832
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1005.740408,
+        "audioSize": 16092.308,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5236B0D4AB5",
+        "audioSavedKey": "f4790da9d4eb816a344148ca2993bc70.m3u8",
+        "source": {
+          "lecId": "5c774f3c9b32bc9584c0e906",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.426Z",
+        "updatedAt": "2020-08-03T01:54:28.426Z",
+        "progress": 10,
+        "offset": 10,
+        "seconds": 101,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894e3952eaa00",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 10,
+        "parentId": "5f276e54802894ec042ea9e2",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "Crawl—BOSS直聘（五）",
+        "isPreset": false,
+        "videoDuration": 770.559997,
+        "videoSize": {
+          "mobileLow": 63780,
+          "pcLow": 205796,
+          "mobileMid": 111048,
+          "pcHigh": 111048,
+          "pcMid": 63780
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 770.716735,
+        "audioSize": 12331.929,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5238E0D5BB3",
+        "audioSavedKey": "ddbf68a463d8fd4a5880b00e20fbc4fc.m3u8",
+        "source": {
+          "lecId": "5c774f489924835b8d1fd24a",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.426Z",
+        "updatedAt": "2020-08-03T01:54:28.426Z",
+        "progress": 6,
+        "offset": 6,
+        "seconds": 46,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e548028947d0f2eaa01",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 11,
+        "parentId": "5f276e54802894ec042ea9e2",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "Crawl—BOSS直聘（六）",
+        "isPreset": false,
+        "videoDuration": 789.839999,
+        "videoSize": {
+          "mobileLow": 72768,
+          "pcMid": 72768,
+          "pcHigh": 126892,
+          "mobileMid": 126892,
+          "pcLow": 138768
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 790.021224,
+        "audioSize": 12640.801,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC523A80D6834",
+        "audioSavedKey": "1bd5b2f6fcab790c803af015644c42c5.m3u8",
+        "source": {
+          "lecId": "5c774f547f59612bb20ec8a6",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.426Z",
+        "updatedAt": "2020-08-03T01:54:28.426Z",
+        "progress": 6,
+        "offset": 6,
+        "seconds": 47,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e548028947d782eaa02",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 12,
+        "parentId": "5f276e54802894ec042ea9e2",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "作业：英雄列表整合（一）",
+        "isPreset": false,
+        "videoDuration": 697.4,
+        "videoSize": {
+          "pcHigh": 99424,
+          "pcLow": 127720,
+          "pcMid": 57444,
+          "mobileLow": 57444,
+          "mobileMid": 99424
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 697.573878,
+        "audioSize": 11161.644,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC523C20D746C",
+        "audioSavedKey": "d4eae322ff0407097952fef19350af2b.m3u8",
+        "source": {
+          "lecId": "5c774f65799204d5b65eef05",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.426Z",
+        "updatedAt": "2020-08-03T01:54:28.426Z",
+        "progress": 10,
+        "offset": 10,
+        "seconds": 70,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894a29a2eaa03",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 13,
+        "parentId": "5f276e54802894ec042ea9e2",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "作业：英雄列表整合（二）",
+        "isPreset": false,
+        "videoDuration": 718.08,
+        "videoSize": {
+          "mobileLow": 63252,
+          "pcLow": 131092,
+          "pcHigh": 110904,
+          "mobileMid": 110904,
+          "pcMid": 63252
+        },
+        "isGeneratingAudio": true,
+        "audioPersistentId": "z1.0A1E1A1839F5633CB05DB39C614E0A93",
+        "audioSavedKey": "b0e1a24368b312f92374190c21d5b136.mp3",
+        "source": {
+          "lecId": "5c774f7e9b32bcb9fdc0e911",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.426Z",
+        "updatedAt": "2020-08-03T01:54:28.426Z",
+        "progress": 13,
+        "offset": 13,
+        "seconds": 93,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289414712eaa04",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 14,
+        "parentId": "5f276e54802894ec042ea9e2",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "作业：英雄列表整合（三）",
+        "isPreset": false,
+        "videoDuration": 877.68,
+        "videoSize": {
+          "mobileLow": 65088,
+          "pcLow": 204016,
+          "pcMid": 65088,
+          "mobileMid": 110304,
+          "pcHigh": 110304
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 877.844898,
+        "audioSize": 14045.98,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC523F10D8B85",
+        "audioSavedKey": "221f48327bace09ff85f6b25db872e8d.m3u8",
+        "source": {
+          "lecId": "5c774f8a9924835fa51fd254",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.426Z",
+        "updatedAt": "2020-08-03T01:54:28.426Z",
+        "progress": 37,
+        "offset": 37,
+        "seconds": 325,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "5f276e5480289452042ea9e3",
+    "actions": {
+      "watch": false,
+      "download": false
+    },
+    "hide": false,
+    "order": 2,
+    "edDuration": 0,
+    "opDuration": 0,
+    "courseId": "5f276e2d52a0f097dfc51678",
+    "name": "概率论基本概念",
+    "isPreset": false,
+    "seo": {
+      "keywords": "概率论基本概念,商业数据分析(概率论基本概念)",
+      "description": "万门教育金融课程分类下提供：商业数据分析，概率论基本概念等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008981354！",
+      "title": "概率论基本概念，商业数据分析_万门|大学"
+    },
+    "videoSize": {},
+    "videoDuration": 0,
+    "source": {
+      "lecId": "5c774fba9b32bc5c78c0e918",
+      "courseId": "5c243172108a27759584d9bd"
+    },
+    "createdAt": "2020-08-03T01:54:28.426Z",
+    "updatedAt": "2020-08-03T01:54:28.426Z",
+    "children": [
+      {
+        "_id": "5f276e548028941e2c2eaa06",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "hide": false,
+        "order": 0,
+        "parentId": "5f276e5480289452042ea9e3",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "课程简述及小测试",
+        "isPreset": false,
+        "seo": {},
+        "videoDuration": 754.64,
+        "videoSize": {
+          "mobileLow": 57704,
+          "pcHigh": 78760,
+          "pcMid": 57704,
+          "mobileMid": 78760,
+          "pcLow": 23876
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 754.782041,
+        "audioSize": 12076.974,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5240B0D97AD",
+        "audioSavedKey": "2886543cd26ace97da2b1de5d3c8048f.m3u8",
+        "source": {
+          "lecId": "5c774fd9799204786b5eef18",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.426Z",
+        "updatedAt": "2020-08-03T01:54:28.426Z",
+        "progress": 23,
+        "offset": 23,
+        "seconds": 174,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289492bf2eaa07",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 1,
+        "parentId": "5f276e5480289452042ea9e3",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "自然科学vs数学",
+        "isPreset": false,
+        "videoDuration": 513.88,
+        "videoSize": {
+          "pcHigh": 56848,
+          "pcMid": 38868,
+          "pcLow": 17120,
+          "mobileLow": 38868,
+          "mobileMid": 56848
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 514.011429,
+        "audioSize": 8224.644,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5241E0DA116",
+        "audioSavedKey": "6692b85e25cf55a9d70f7f2364b3f51b.m3u8",
+        "source": {
+          "lecId": "5c774fea9b32bc12d8c0e926",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.427Z",
+        "updatedAt": "2020-08-03T01:54:28.427Z",
+        "progress": 13,
+        "offset": 13,
+        "seconds": 67,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894441d2eaa08",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 2,
+        "parentId": "5f276e5480289452042ea9e3",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "随机试验",
+        "isPreset": false,
+        "videoDuration": 690.56,
+        "videoSize": {
+          "mobileLow": 48368,
+          "pcLow": 20828,
+          "pcHigh": 59072,
+          "mobileMid": 59072,
+          "pcMid": 48368
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 690.703673,
+        "audioSize": 11051.72,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5242C0DE01D",
+        "audioSavedKey": "3a010677bf3b65a3954774422fd31334.m3u8",
+        "source": {
+          "lecId": "5c774ff97f59616fda0ec8b9",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.427Z",
+        "updatedAt": "2020-08-03T01:54:28.427Z",
+        "progress": 14,
+        "offset": 14,
+        "seconds": 97,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e548028945a2c2eaa09",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 3,
+        "parentId": "5f276e5480289452042ea9e3",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "古典概型（一）",
+        "isPreset": false,
+        "videoDuration": 416.08,
+        "videoSize": {
+          "mobileLow": 24992,
+          "pcLow": 13576,
+          "pcMid": 24992,
+          "mobileMid": 39032,
+          "pcHigh": 39032
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 416.235102,
+        "audioSize": 6660.223,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC504630321D5",
+        "audioSavedKey": "5c297726c41b2e307edaa38851995ebf.m3u8",
+        "source": {
+          "lecId": "5c77500679920445d45eef1e",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.427Z",
+        "updatedAt": "2020-08-03T01:54:28.427Z",
+        "progress": 37,
+        "offset": 37,
+        "seconds": 154,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e548028945f162eaa0a",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 4,
+        "parentId": "5f276e5480289452042ea9e3",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "古典概型（二）",
+        "isPreset": false,
+        "videoDuration": 797.2,
+        "videoSize": {
+          "mobileLow": 68820,
+          "pcMid": 68820,
+          "pcHigh": 118424,
+          "mobileMid": 118424,
+          "pcLow": 27768
+        },
+        "isGeneratingAudio": true,
+        "audioPersistentId": "z1.0A1E1A1839F5633CB05DB49BC98779E2",
+        "audioSavedKey": "680790f4aca587c5e48c5ac633c0ce25.mp3",
+        "source": {
+          "lecId": "5c7750109b32bc0b16c0e934",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.427Z",
+        "updatedAt": "2020-08-03T01:54:28.427Z",
+        "progress": 6,
+        "offset": 6,
+        "seconds": 48,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894a2042eaa0b",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 5,
+        "parentId": "5f276e5480289452042ea9e3",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "条件概率",
+        "isPreset": false,
+        "videoDuration": 575.32,
+        "videoSize": {
+          "pcLow": 20692,
+          "pcHigh": 88012,
+          "pcMid": 49960,
+          "mobileLow": 49964,
+          "mobileMid": 88012
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 575.451429,
+        "audioSize": 9207.684,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC524610DF929",
+        "audioSavedKey": "a4c1df2c54b62d905842990b5507cc8d.m3u8",
+        "source": {
+          "lecId": "5c775024799204c30d5eef32",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.427Z",
+        "updatedAt": "2020-08-03T01:54:28.427Z",
+        "progress": 8,
+        "offset": 8,
+        "seconds": 46,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289478f72eaa0c",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 6,
+        "parentId": "5f276e5480289452042ea9e3",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "贝叶斯公式（一）",
+        "isPreset": false,
+        "videoDuration": 593.84,
+        "videoSize": {
+          "mobileLow": 50036,
+          "pcLow": 20676,
+          "pcHigh": 85984,
+          "mobileMid": 85984,
+          "pcMid": 50036
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 593.946122,
+        "audioSize": 9503.599,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC524730DCB3C",
+        "audioSavedKey": "eb95e929dd1d439d205142b3f13cd4e0.m3u8",
+        "source": {
+          "lecId": "5c7750359b32bce612c0e94a",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.427Z",
+        "updatedAt": "2020-08-03T01:54:28.427Z",
+        "progress": 12,
+        "offset": 12,
+        "seconds": 71,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289455812eaa0d",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 7,
+        "parentId": "5f276e5480289452042ea9e3",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "贝叶斯公式（二）",
+        "isPreset": false,
+        "videoDuration": 609.32,
+        "videoSize": {
+          "mobileLow": 53096,
+          "pcLow": 21160,
+          "pcMid": 53096,
+          "mobileMid": 85760,
+          "pcHigh": 85760
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 609.462857,
+        "audioSize": 9751.867,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC524850E0B8F",
+        "audioSavedKey": "ed3fc08928b41f5ad3f208d6a12efff4.m3u8",
+        "source": {
+          "lecId": "5c77503f7f596124cf0ec8dc",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.427Z",
+        "updatedAt": "2020-08-03T01:54:28.427Z",
+        "progress": 6,
+        "offset": 6,
+        "seconds": 37,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894db3f2eaa0e",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 8,
+        "parentId": "5f276e5480289452042ea9e3",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "独立性",
+        "isPreset": false,
+        "videoDuration": 783.68,
+        "videoSize": {
+          "mobileLow": 67276,
+          "pcMid": 67276,
+          "pcHigh": 93736,
+          "mobileMid": 93736,
+          "pcLow": 25040
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 783.830204,
+        "audioSize": 12541.745,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC524990DDDB1",
+        "audioSavedKey": "690aea647eb86920a72666f2c23f11ad.m3u8",
+        "source": {
+          "lecId": "5c77504a79920442b85eef3f",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.427Z",
+        "updatedAt": "2020-08-03T01:54:28.427Z",
+        "progress": 62,
+        "offset": 62,
+        "seconds": 486,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "5f276e54802894970d2ea9e4",
+    "actions": {
+      "watch": false,
+      "download": false
+    },
+    "hide": false,
+    "order": 3,
+    "edDuration": 0,
+    "opDuration": 0,
+    "courseId": "5f276e2d52a0f097dfc51678",
+    "name": "随机变量及其分布（上）",
+    "isPreset": false,
+    "seo": {
+      "keywords": "随机变量及其分布（上）,商业数据分析(随机变量及其分布（上）)",
+      "description": "万门教育金融课程分类下提供：商业数据分析，随机变量及其分布（上）等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008981355！",
+      "title": "随机变量及其分布（上），商业数据分析_万门|大学"
+    },
+    "videoSize": {},
+    "videoDuration": 0,
+    "source": {
+      "lecId": "5c7750bd9924831f7a1fd2aa",
+      "courseId": "5c243172108a27759584d9bd"
+    },
+    "createdAt": "2020-08-03T01:54:28.427Z",
+    "updatedAt": "2020-08-03T01:54:28.427Z",
+    "children": [
+      {
+        "_id": "5f276e54802894f5092eaa10",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "hide": false,
+        "order": 0,
+        "parentId": "5f276e54802894970d2ea9e4",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "随机变量",
+        "isPreset": false,
+        "seo": {},
+        "videoDuration": 736.4,
+        "videoSize": {
+          "pcLow": 22908,
+          "pcHigh": 77416,
+          "pcMid": 57264,
+          "mobileLow": 57264,
+          "mobileMid": 77416
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 736.496327,
+        "audioSize": 11784.403,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC524B00E206D",
+        "audioSavedKey": "0d3084933550f55c0f766b90064e2eb8.m3u8",
+        "source": {
+          "lecId": "5c7750cf799204f6b15eef65",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.427Z",
+        "updatedAt": "2020-08-03T01:54:28.427Z",
+        "progress": 100,
+        "offset": 100,
+        "seconds": 736,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e548028948ada2eaa11",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 1,
+        "parentId": "5f276e54802894970d2ea9e4",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "0-1分布和伯努利实验（一）",
+        "isPreset": false,
+        "videoDuration": 499.36,
+        "videoSize": {
+          "pcLow": 16508,
+          "mobileLow": 35652,
+          "pcHigh": 51752,
+          "mobileMid": 51752,
+          "pcMid": 35652
+        },
+        "isGeneratingAudio": true,
+        "audioPersistentId": "z1.0A1E1B437BDA1CF3F55DB6FDEEFD5EF9",
+        "audioSavedKey": "605771ecc4b00602d8411fe9bf730b4d.mp3",
+        "source": {
+          "lecId": "5c7751289b32bc45b6c0e97b",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.427Z",
+        "updatedAt": "2020-08-03T01:54:28.427Z",
+        "progress": 17,
+        "offset": 17,
+        "seconds": 85,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289498df2eaa12",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 2,
+        "parentId": "5f276e54802894970d2ea9e4",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "伯努利实验例题讲解（一）",
+        "isPreset": false,
+        "videoDuration": 974.68,
+        "videoSize": {
+          "pcLow": 37908,
+          "mobileLow": 81448,
+          "mobileMid": 117348,
+          "pcMid": 81448,
+          "pcHigh": 117348
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 974.811429,
+        "audioSize": 15597.444,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC524D30DF9C9",
+        "audioSavedKey": "7748cdd7c2428d043319cfb885726298.m3u8",
+        "source": {
+          "lecId": "5c77513099248392501fd2c3",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.427Z",
+        "updatedAt": "2020-08-03T01:54:28.427Z",
+        "progress": 3,
+        "offset": 3,
+        "seconds": 29,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e548028946e0f2eaa13",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 3,
+        "parentId": "5f276e54802894970d2ea9e4",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "伯努利实验例题讲解（二）",
+        "isPreset": false,
+        "videoDuration": 430.88,
+        "videoSize": {
+          "mobileLow": 34660,
+          "pcHigh": 58136,
+          "pcLow": 15976,
+          "pcMid": 34660,
+          "mobileMid": 58136
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 431.046531,
+        "audioSize": 6897.206,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC524F00E3FE3",
+        "audioSavedKey": "96e30006f308b9f66cd2ec7480bb2e05.m3u8",
+        "source": {
+          "lecId": "5c775138992483e1ee1fd2cf",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.427Z",
+        "updatedAt": "2020-08-03T01:54:28.427Z",
+        "progress": 100,
+        "offset": 100,
+        "seconds": 431,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289414782eaa14",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 4,
+        "parentId": "5f276e54802894970d2ea9e4",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "随机变量分布函数（一）",
+        "isPreset": false,
+        "videoDuration": 729.76,
+        "videoSize": {
+          "pcLow": 23940,
+          "pcHigh": 99468,
+          "pcMid": 63224,
+          "mobileLow": 63224,
+          "mobileMid": 99468
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 729.861224,
+        "audioSize": 11678.241,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC525010E1011",
+        "audioSavedKey": "4b859f9ed5033f4b1a0312eab8216aa3.m3u8",
+        "source": {
+          "lecId": "5c7751657992047c305eefbf",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.428Z",
+        "updatedAt": "2020-08-03T01:54:28.428Z",
+        "progress": 13,
+        "offset": 13,
+        "seconds": 95,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e548028941b5e2eaa15",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 5,
+        "parentId": "5f276e54802894970d2ea9e4",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "随机变量分布函数（二）",
+        "isPreset": false,
+        "videoDuration": 695.599999,
+        "videoSize": {
+          "pcLow": 22860,
+          "mobileLow": 59908,
+          "pcHigh": 86508,
+          "mobileMid": 86508,
+          "pcMid": 59908
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 695.745306,
+        "audioSize": 11132.386,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC525180E1B7C",
+        "audioSavedKey": "46a1b38b3fcd05e4eaf78f4061534c25.m3u8",
+        "source": {
+          "lecId": "5c77553899248373051fd3d2",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.428Z",
+        "updatedAt": "2020-08-03T01:54:28.428Z",
+        "progress": 6,
+        "offset": 6,
+        "seconds": 42,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e548028940bbe2eaa16",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 6,
+        "parentId": "5f276e54802894970d2ea9e4",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "随机变量分布函数（三）",
+        "isPreset": false,
+        "videoDuration": 663.24,
+        "videoSize": {
+          "mobileLow": 56420,
+          "pcLow": 21324,
+          "mobileMid": 80212,
+          "pcMid": 56420,
+          "pcHigh": 80212
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 663.405714,
+        "audioSize": 10614.953,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5252E0E5EFC",
+        "audioSavedKey": "09310419120192e95a7956847f50be4e.m3u8",
+        "source": {
+          "lecId": "5c77554d7f596133c70ec9e4",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.428Z",
+        "updatedAt": "2020-08-03T01:54:28.428Z",
+        "progress": 6,
+        "offset": 6,
+        "seconds": 40,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894f4f62eaa17",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 7,
+        "parentId": "5f276e54802894970d2ea9e4",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "随机变量分布函数（四）",
+        "isPreset": false,
+        "videoDuration": 329.08,
+        "videoSize": {
+          "mobileLow": 23668,
+          "pcMid": 23668,
+          "mobileMid": 37856,
+          "pcHigh": 37856,
+          "pcLow": 11680
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 329.221224,
+        "audioSize": 5268.001,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC525430E31EB",
+        "audioSavedKey": "8eb0380ac01b341ba7658a1f0db7396c.m3u8",
+        "source": {
+          "lecId": "5c775559799204bbfd5ef094",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.428Z",
+        "updatedAt": "2020-08-03T01:54:28.428Z",
+        "progress": 93,
+        "offset": 93,
+        "seconds": 306,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894d37a2eaa18",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 8,
+        "parentId": "5f276e54802894970d2ea9e4",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "随机变量分布函数（五）",
+        "isPreset": false,
+        "videoDuration": 758.76,
+        "videoSize": {
+          "pcLow": 24704,
+          "pcMid": 65552,
+          "pcHigh": 99956,
+          "mobileLow": 65552,
+          "mobileMid": 99956
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 758.909388,
+        "audioSize": 12143.012,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5254F0E37C6",
+        "audioSavedKey": "8abb89b07ad9fb7c2081e335e2a69869.m3u8",
+        "source": {
+          "lecId": "5c7755829b32bc9a20c0ea72",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.428Z",
+        "updatedAt": "2020-08-03T01:54:28.428Z",
+        "progress": 81,
+        "offset": 81,
+        "seconds": 615,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "5f276e5480289469c42ea9e5",
+    "actions": {
+      "watch": false,
+      "download": false
+    },
+    "hide": false,
+    "order": 4,
+    "edDuration": 0,
+    "opDuration": 0,
+    "courseId": "5f276e2d52a0f097dfc51678",
+    "name": "随机变量及其分布（下）",
+    "isPreset": false,
+    "seo": {
+      "keywords": "随机变量及其分布（下）,商业数据分析(随机变量及其分布（下）)",
+      "description": "万门教育金融课程分类下提供：商业数据分析，随机变量及其分布（下）等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008981356！",
+      "title": "随机变量及其分布（下），商业数据分析_万门|大学"
+    },
+    "videoSize": {},
+    "videoDuration": 0,
+    "source": {
+      "lecId": "5c77559599248334811fd3f8",
+      "courseId": "5c243172108a27759584d9bd"
+    },
+    "createdAt": "2020-08-03T01:54:28.428Z",
+    "updatedAt": "2020-08-03T01:54:28.428Z",
+    "children": [
+      {
+        "_id": "5f276e548028941def2eaa1a",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "hide": false,
+        "order": 0,
+        "parentId": "5f276e5480289469c42ea9e5",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "分布函数例题及贝叶斯公式回顾",
+        "isPreset": false,
+        "seo": {},
+        "videoDuration": 797.84,
+        "videoSize": {
+          "pcLow": 24980,
+          "pcHigh": 78616,
+          "mobileLow": 63492,
+          "mobileMid": 78616,
+          "pcMid": 63492
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 797.988571,
+        "audioSize": 12768.279,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC525670E7AEC",
+        "audioSavedKey": "9209d10c50c23e20dc2528fe5063b8eb.m3u8",
+        "source": {
+          "lecId": "5c7755c69b32bcb824c0ea8d",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.428Z",
+        "updatedAt": "2020-08-03T01:54:28.428Z",
+        "progress": 6,
+        "offset": 6,
+        "seconds": 48,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894e03b2eaa1b",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 1,
+        "parentId": "5f276e5480289469c42ea9e5",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "贝叶斯公式例题（一）",
+        "isPreset": false,
+        "videoDuration": 619.8,
+        "videoSize": {
+          "mobileLow": 51188,
+          "pcLow": 20500,
+          "mobileMid": 67752,
+          "pcMid": 51188,
+          "pcHigh": 67752
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 619.937959,
+        "audioSize": 9919.469,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5257D0E4E8D",
+        "audioSavedKey": "dcdcd310188164ed539ec7b068473d14.m3u8",
+        "source": {
+          "lecId": "5c7755cf992483638a1fd41a",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.428Z",
+        "updatedAt": "2020-08-03T01:54:28.428Z",
+        "progress": 1,
+        "offset": 1,
+        "seconds": 6,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289440592eaa1c",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 2,
+        "parentId": "5f276e5480289469c42ea9e5",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "贝叶斯公式例题（二）",
+        "isPreset": false,
+        "videoDuration": 841.12,
+        "videoSize": {
+          "mobileLow": 73092,
+          "pcHigh": 105644,
+          "pcMid": 73092,
+          "mobileMid": 105644,
+          "pcLow": 27836
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 841.221224,
+        "audioSize": 13460.001,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5258F0E5731",
+        "audioSavedKey": "1122884aa1969092720112a2cb77f089.m3u8",
+        "source": {
+          "lecId": "5c7755d979920457415ef0b3",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.428Z",
+        "updatedAt": "2020-08-03T01:54:28.428Z",
+        "progress": 9,
+        "offset": 9,
+        "seconds": 76,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894190c2eaa1d",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 3,
+        "parentId": "5f276e5480289469c42ea9e5",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "贝叶斯定理思想归纳",
+        "isPreset": false,
+        "videoDuration": 549.68,
+        "videoSize": {
+          "pcLow": 18496,
+          "mobileLow": 42940,
+          "pcHigh": 61904,
+          "mobileMid": 61908,
+          "pcMid": 42936
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 549.851429,
+        "audioSize": 8798.084,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC525AB0E9D49",
+        "audioSavedKey": "40d70ad97bca6ca856ecf090415c66a2.m3u8",
+        "source": {
+          "lecId": "5c7755e49b32bc1c03c0ea9e",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.428Z",
+        "updatedAt": "2020-08-03T01:54:28.428Z",
+        "progress": 20,
+        "offset": 20,
+        "seconds": 110,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289433da2eaa1e",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 4,
+        "parentId": "5f276e5480289469c42ea9e5",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "贝叶斯定理应用总结及分布函数",
+        "isPreset": false,
+        "videoDuration": 344.76,
+        "videoSize": {
+          "pcLow": 12492,
+          "mobileLow": 23956,
+          "pcMid": 23956,
+          "pcHigh": 39480,
+          "mobileMid": 39480
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 344.920816,
+        "audioSize": 5519.195,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC525BC0EA6EC",
+        "audioSavedKey": "f4057afca0f0ba788829d99581545246.m3u8",
+        "source": {
+          "lecId": "5c7755ed9924830fde1fd423",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.428Z",
+        "updatedAt": "2020-08-03T01:54:28.428Z",
+        "progress": 18,
+        "offset": 18,
+        "seconds": 62,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894c16e2eaa1f",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 5,
+        "parentId": "5f276e5480289469c42ea9e5",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "正态分布例题讲解（一）",
+        "isPreset": false,
+        "videoDuration": 689.36,
+        "videoSize": {
+          "mobileLow": 59384,
+          "pcLow": 23352,
+          "pcHigh": 89832,
+          "mobileMid": 89832,
+          "pcMid": 59384
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 689.502041,
+        "audioSize": 11032.494,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC525C70EAC1F",
+        "audioSavedKey": "d3d2a96026347eb72ecfa0569d095913.m3u8",
+        "source": {
+          "lecId": "5c7755f599248316f91fd42c",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.428Z",
+        "updatedAt": "2020-08-03T01:54:28.428Z",
+        "progress": 12,
+        "offset": 12,
+        "seconds": 83,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894beb22eaa20",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 6,
+        "parentId": "5f276e5480289469c42ea9e5",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "正态分布例题讲解（二）",
+        "isPreset": false,
+        "videoDuration": 323.12,
+        "videoSize": {
+          "mobileLow": 21620,
+          "pcHigh": 37000,
+          "pcMid": 21620,
+          "pcLow": 11588,
+          "mobileMid": 37000
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 323.291429,
+        "audioSize": 5173.124,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC525DF0E7F99",
+        "audioSavedKey": "88966a06782b365459a26a13572ef415.m3u8",
+        "source": {
+          "lecId": "5c7755fd7f596141820eca1e",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.428Z",
+        "updatedAt": "2020-08-03T01:54:28.428Z",
+        "progress": 15,
+        "offset": 15,
+        "seconds": 48,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e548028944a512eaa21",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 7,
+        "parentId": "5f276e5480289469c42ea9e5",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "离散型分布函数",
+        "isPreset": false,
+        "videoDuration": 294.56,
+        "videoSize": {
+          "pcLow": 9764,
+          "mobileLow": 13888,
+          "pcHigh": 21136,
+          "mobileMid": 21136,
+          "pcMid": 13888
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 294.713469,
+        "audioSize": 4715.877,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC525E90E84E1",
+        "audioSavedKey": "e0785616ae42b0afbcfa88608415870b.m3u8",
+        "source": {
+          "lecId": "5c775605799204b8625ef0bf",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.428Z",
+        "updatedAt": "2020-08-03T01:54:28.428Z",
+        "progress": 21,
+        "offset": 21,
+        "seconds": 62,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e548028949ca42eaa22",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 8,
+        "parentId": "5f276e5480289469c42ea9e5",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "连续型分布函数",
+        "isPreset": false,
+        "videoDuration": 584.72,
+        "videoSize": {
+          "mobileLow": 41152,
+          "pcMid": 41152,
+          "mobileMid": 55680,
+          "pcHigh": 55680,
+          "pcLow": 19060
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 584.829388,
+        "audioSize": 9357.732,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC525F10E88E2",
+        "audioSavedKey": "ccea604fa97e74a2419dab8a9307bda4.m3u8",
+        "source": {
+          "lecId": "5c7756129b32bc3dddc0eaac",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.428Z",
+        "updatedAt": "2020-08-03T01:54:28.428Z",
+        "progress": 18,
+        "offset": 18,
+        "seconds": 105,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289457712eaa23",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 9,
+        "parentId": "5f276e5480289469c42ea9e5",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "正态分布例题讲解（三）",
+        "isPreset": false,
+        "videoDuration": 431.28,
+        "videoSize": {
+          "pcLow": 14212,
+          "pcHigh": 37680,
+          "mobileLow": 25332,
+          "mobileMid": 37680,
+          "pcMid": 25332
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 431.438367,
+        "audioSize": 6903.475,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC526010E91C9",
+        "audioSavedKey": "4d50933fd9fc3c886d76ba3ac009cc0f.m3u8",
+        "source": {
+          "lecId": "5c77561a7f596151120eca29",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.428Z",
+        "updatedAt": "2020-08-03T01:54:28.429Z",
+        "progress": 14,
+        "offset": 14,
+        "seconds": 60,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "5f276e5480289422962ea9e6",
+    "actions": {
+      "watch": false,
+      "download": false
+    },
+    "hide": false,
+    "order": 5,
+    "edDuration": 0,
+    "opDuration": 0,
+    "courseId": "5f276e2d52a0f097dfc51678",
+    "name": "随机变量的数字特征",
+    "isPreset": false,
+    "seo": {
+      "keywords": "随机变量的数字特征,商业数据分析(随机变量的数字特征)",
+      "description": "万门教育金融课程分类下提供：商业数据分析，随机变量的数字特征等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008981357！",
+      "title": "随机变量的数字特征，商业数据分析_万门|大学"
+    },
+    "videoSize": {},
+    "videoDuration": 0,
+    "source": {
+      "lecId": "5c77562879920468ef5ef0c9",
+      "courseId": "5c243172108a27759584d9bd"
+    },
+    "createdAt": "2020-08-03T01:54:28.429Z",
+    "updatedAt": "2020-08-03T01:54:28.429Z",
+    "children": [
+      {
+        "_id": "5f276e5480289471fa2eaa25",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "hide": false,
+        "order": 0,
+        "parentId": "5f276e5480289422962ea9e6",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "离散型分布函数的数学期望",
+        "isPreset": false,
+        "seo": {},
+        "videoDuration": 543.72,
+        "videoSize": {
+          "mobileLow": 34904,
+          "pcHigh": 45056,
+          "pcMid": 34900,
+          "pcLow": 17196,
+          "mobileMid": 45060
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 543.869388,
+        "audioSize": 8702.372,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4EED3FD28F7",
+        "audioSavedKey": "7429a6d3f69b3c9fd0248cf0dec033db.m3u8",
+        "source": {
+          "lecId": "5c77563a9b32bc0667c0eab4",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.429Z",
+        "updatedAt": "2020-08-03T01:54:28.429Z",
+        "progress": 7,
+        "offset": 7,
+        "seconds": 38,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289447652eaa26",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 1,
+        "parentId": "5f276e5480289422962ea9e6",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "连续型分布函数的数学期望",
+        "isPreset": false,
+        "videoDuration": 355.48,
+        "videoSize": {
+          "mobileLow": 20824,
+          "pcLow": 12244,
+          "mobileMid": 33232,
+          "pcMid": 20824,
+          "pcHigh": 33232
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 355.63102,
+        "audioSize": 5690.558,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5261C0ED695",
+        "audioSavedKey": "8bca1bc9ec82131a89f018c4fa0ac48d.m3u8",
+        "source": {
+          "lecId": "5c775643992483c99a1fd43c",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.429Z",
+        "updatedAt": "2020-08-03T01:54:28.429Z",
+        "progress": 8,
+        "offset": 8,
+        "seconds": 28,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894ef032eaa27",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 2,
+        "parentId": "5f276e5480289422962ea9e6",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "例题讲解（一）",
+        "isPreset": false,
+        "videoDuration": 710.68,
+        "videoSize": {
+          "pcLow": 23084,
+          "pcHigh": 81616,
+          "mobileLow": 59556,
+          "mobileMid": 81616,
+          "pcMid": 59556
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 710.817959,
+        "audioSize": 11373.549,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4F060FD9785",
+        "audioSavedKey": "8f7bb875c0ef071c4993cdc8aafd34e6.m3u8",
+        "source": {
+          "lecId": "5c77565079920473fe5ef0d8",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.429Z",
+        "updatedAt": "2020-08-03T01:54:28.429Z",
+        "progress": 9,
+        "offset": 9,
+        "seconds": 64,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289439972eaa28",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 3,
+        "parentId": "5f276e5480289422962ea9e6",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "例题讲解（二）",
+        "isPreset": false,
+        "videoDuration": 649.2,
+        "videoSize": {
+          "mobileLow": 51032,
+          "pcHigh": 64940,
+          "pcLow": 20980,
+          "pcMid": 51032,
+          "mobileMid": 64940
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 649.351837,
+        "audioSize": 10390.091,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5263B0EAEEB",
+        "audioSavedKey": "3d4c1b99dc8a43390f879f5d000fc1fc.m3u8",
+        "source": {
+          "lecId": "5c7756599b32bc707dc0eabd",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.429Z",
+        "updatedAt": "2020-08-03T01:54:28.429Z",
+        "progress": 6,
+        "offset": 6,
+        "seconds": 39,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289435b32eaa29",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 4,
+        "parentId": "5f276e5480289422962ea9e6",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "例题讲解（三）",
+        "isPreset": false,
+        "videoDuration": 592.88,
+        "videoSize": {
+          "pcHigh": 61868,
+          "pcLow": 19668,
+          "mobileLow": 46056,
+          "mobileMid": 61868,
+          "pcMid": 46056
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 593.031837,
+        "audioSize": 9488.971,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5264D0EB78E",
+        "audioSavedKey": "521e3f6b7af7edfab2d930855b21011b.m3u8",
+        "source": {
+          "lecId": "5c77566099248349f21fd449",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.429Z",
+        "updatedAt": "2020-08-03T01:54:28.429Z",
+        "progress": 6,
+        "offset": 6,
+        "seconds": 36,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289469852eaa2a",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 5,
+        "parentId": "5f276e5480289422962ea9e6",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "正态分布的标准差定义",
+        "isPreset": false,
+        "videoDuration": 462.52,
+        "videoSize": {
+          "mobileLow": 33376,
+          "pcMid": 33376,
+          "mobileMid": 50708,
+          "pcHigh": 50708,
+          "pcLow": 15952
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 462.680816,
+        "audioSize": 7403.355,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5265E0EC10F",
+        "audioSavedKey": "09a6b844b2c7d0109ac1ecb5556608ed.m3u8",
+        "source": {
+          "lecId": "5c7756687f59616c7a0eca37",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.429Z",
+        "updatedAt": "2020-08-03T01:54:28.429Z",
+        "progress": 17,
+        "offset": 17,
+        "seconds": 79,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e548028946bb92eaa2b",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 6,
+        "parentId": "5f276e5480289422962ea9e6",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "数学期望及例题讲解",
+        "isPreset": false,
+        "videoDuration": 739.96,
+        "videoSize": {
+          "pcHigh": 65748,
+          "pcLow": 23052,
+          "mobileLow": 52728,
+          "mobileMid": 65748,
+          "pcMid": 52728
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 740.101224,
+        "audioSize": 11842.081,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5266C0F0006",
+        "audioSavedKey": "bfa6d56d0006baa65556a339f9e268c6.m3u8",
+        "source": {
+          "lecId": "5c7756707f596192da0eca3f",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.429Z",
+        "updatedAt": "2020-08-03T01:54:28.429Z",
+        "progress": 26,
+        "offset": 26,
+        "seconds": 192,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894814e2eaa2c",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 7,
+        "parentId": "5f276e5480289422962ea9e6",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "方差及例题讲解",
+        "isPreset": false,
+        "videoDuration": 563.88,
+        "videoSize": {
+          "pcLow": 18140,
+          "mobileLow": 39928,
+          "mobileMid": 58168,
+          "pcMid": 39924,
+          "pcHigh": 58164
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 564.035918,
+        "audioSize": 9025.036,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC526800F09C1",
+        "audioSavedKey": "b112c25801dcd9ab9d6e25cbf3c4309d.m3u8",
+        "source": {
+          "lecId": "5c7756799b32bc7e11c0ead3",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.429Z",
+        "updatedAt": "2020-08-03T01:54:28.429Z",
+        "progress": 0,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "5f276e54802894d3752ea9e7",
+    "actions": {
+      "watch": false,
+      "download": false
+    },
+    "hide": false,
+    "order": 6,
+    "edDuration": 0,
+    "opDuration": 0,
+    "courseId": "5f276e2d52a0f097dfc51678",
+    "name": "多维随机变量",
+    "isPreset": false,
+    "seo": {
+      "keywords": "多维随机变量,商业数据分析(多维随机变量)",
+      "description": "万门教育金融课程分类下提供：商业数据分析，多维随机变量等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008981358！",
+      "title": "多维随机变量，商业数据分析_万门|大学"
+    },
+    "videoSize": {},
+    "videoDuration": 0,
+    "source": {
+      "lecId": "5c7756897f596197580eca49",
+      "courseId": "5c243172108a27759584d9bd"
+    },
+    "createdAt": "2020-08-03T01:54:28.429Z",
+    "updatedAt": "2020-08-03T01:54:28.429Z",
+    "children": [
+      {
+        "_id": "5f276e54802894141a2eaa2e",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "hide": false,
+        "order": 0,
+        "parentId": "5f276e54802894d3752ea9e7",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "二维随机变量（一）",
+        "isPreset": false,
+        "seo": {},
+        "videoDuration": 755.72,
+        "videoSize": {
+          "pcLow": 24912,
+          "pcHigh": 90652,
+          "mobileLow": 64664,
+          "mobileMid": 90652,
+          "pcMid": 64664
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 755.879184,
+        "audioSize": 12094.528,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC526900F129E",
+        "audioSavedKey": "625fa8b10d04498a6fad3ace9d2369eb.m3u8",
+        "source": {
+          "lecId": "5c77569c9b32bc4bd9c0eae0",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.429Z",
+        "updatedAt": "2020-08-03T01:54:28.429Z",
+        "progress": 10,
+        "offset": 10,
+        "seconds": 76,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894051a2eaa2f",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 1,
+        "parentId": "5f276e54802894d3752ea9e7",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "二维随机变量（二）",
+        "isPreset": false,
+        "videoDuration": 806.88,
+        "videoSize": {
+          "mobileLow": 64228,
+          "pcHigh": 84828,
+          "pcMid": 64228,
+          "pcLow": 25592,
+          "mobileMid": 84828
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 807.026939,
+        "audioSize": 12912.893,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC526A90EE7AC",
+        "audioSavedKey": "c0277b12249d1a3c427ee9fa87f40c24.m3u8",
+        "source": {
+          "lecId": "5c7756a59924832e851fd462",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.429Z",
+        "updatedAt": "2020-08-03T01:54:28.429Z",
+        "progress": 7,
+        "offset": 7,
+        "seconds": 56,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e548028945c4b2eaa30",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 2,
+        "parentId": "5f276e54802894d3752ea9e7",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "二维随机变量（三）",
+        "isPreset": false,
+        "videoDuration": 768.72,
+        "videoSize": {
+          "mobileLow": 57404,
+          "pcLow": 24548,
+          "pcMid": 57404,
+          "mobileMid": 82460,
+          "pcHigh": 82460
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 768.862041,
+        "audioSize": 12302.254,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC526C00EF435",
+        "audioSavedKey": "4dffe4dc47bd1c0ed6cae557c25a5b5b.m3u8",
+        "source": {
+          "lecId": "5c7756b27f5961e3460eca55",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.429Z",
+        "updatedAt": "2020-08-03T01:54:28.429Z",
+        "progress": 5,
+        "offset": 5,
+        "seconds": 38,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894d9fe2eaa31",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 3,
+        "parentId": "5f276e54802894d3752ea9e7",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "N维随机变量（一）",
+        "isPreset": false,
+        "videoDuration": 376.4,
+        "videoSize": {
+          "mobileLow": 20324,
+          "pcHigh": 31432,
+          "pcMid": 20324,
+          "pcLow": 12432,
+          "mobileMid": 31432
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 376.502857,
+        "audioSize": 6024.507,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC526D90F0019",
+        "audioSavedKey": "6b2390d9d1a7dae2eeae84311eedadab.m3u8",
+        "source": {
+          "lecId": "5c7756bb7992046cf35ef102",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.429Z",
+        "updatedAt": "2020-08-03T01:54:28.429Z",
+        "progress": 18,
+        "offset": 18,
+        "seconds": 68,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e548028946e3e2eaa32",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 4,
+        "parentId": "5f276e54802894d3752ea9e7",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "N维随机变量（二）",
+        "isPreset": false,
+        "videoDuration": 615.2,
+        "videoSize": {
+          "mobileLow": 45756,
+          "pcLow": 20012,
+          "pcHigh": 64484,
+          "mobileMid": 64484,
+          "pcMid": 45756
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 615.366531,
+        "audioSize": 9846.326,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC526E30F056E",
+        "audioSavedKey": "fea0efed0b3153998beb74811aa2a457.m3u8",
+        "source": {
+          "lecId": "5c7756c39b32bc8294c0eae7",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.429Z",
+        "updatedAt": "2020-08-03T01:54:28.429Z",
+        "progress": 46,
+        "offset": 46,
+        "seconds": 283,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e548028942ac12eaa33",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 5,
+        "parentId": "5f276e54802894d3752ea9e7",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "中心极限定理（一）",
+        "isPreset": false,
+        "videoDuration": 561.4,
+        "videoSize": {
+          "mobileLow": 40232,
+          "pcLow": 18448,
+          "pcHigh": 59372,
+          "pcMid": 40228,
+          "mobileMid": 59376
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 561.554286,
+        "audioSize": 8985.33,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC526F50F0E7F",
+        "audioSavedKey": "8eaf2c7ebe3cf92b88603f21c5347217.m3u8",
+        "source": {
+          "lecId": "5c7756cb99248362751fd46f",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.430Z",
+        "updatedAt": "2020-08-03T01:54:28.430Z",
+        "progress": 36,
+        "offset": 36,
+        "seconds": 202,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e548028945bfa2eaa34",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 6,
+        "parentId": "5f276e54802894d3752ea9e7",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "中心极限定理（二）",
+        "isPreset": false,
+        "videoDuration": 780.96,
+        "videoSize": {
+          "mobileLow": 67144,
+          "pcLow": 25548,
+          "mobileMid": 90660,
+          "pcMid": 67144,
+          "pcHigh": 90660
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 781.113469,
+        "audioSize": 12498.277,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC527070F186A",
+        "audioSavedKey": "0627fb272839e350591f16250cab28b7.m3u8",
+        "source": {
+          "lecId": "5c7756d47f59614b0a0eca5c",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.430Z",
+        "updatedAt": "2020-08-03T01:54:28.430Z",
+        "progress": 8,
+        "offset": 8,
+        "seconds": 62,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289427412eaa35",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 7,
+        "parentId": "5f276e54802894d3752ea9e7",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "随机样本与箱线图",
+        "isPreset": false,
+        "videoDuration": 637.52,
+        "videoSize": {
+          "mobileLow": 43516,
+          "pcHigh": 57724,
+          "pcMid": 43516,
+          "pcLow": 19984,
+          "mobileMid": 57724
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 637.675102,
+        "audioSize": 10203.263,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5271E0F5B35",
+        "audioSavedKey": "1ffaade61a033e91689734df71b552cd.m3u8",
+        "source": {
+          "lecId": "5c7756db7f5961ca3a0eca68",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.430Z",
+        "updatedAt": "2020-08-03T01:54:28.430Z",
+        "progress": 16,
+        "offset": 16,
+        "seconds": 102,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289440af2eaa36",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 8,
+        "parentId": "5f276e54802894d3752ea9e7",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "SPSS数据分析",
+        "isPreset": false,
+        "videoDuration": 876.08,
+        "videoSize": {
+          "pcLow": 71564,
+          "mobileLow": 75188,
+          "pcMid": 75188,
+          "pcHigh": 132056,
+          "mobileMid": 132056
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 876.251429,
+        "audioSize": 14020.484,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4F455FEB24E",
+        "audioSavedKey": "cd80cd94462a5a7c783a8537cd65566d.m3u8",
+        "source": {
+          "lecId": "5c7756e47f59614b3c0eca75",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.430Z",
+        "updatedAt": "2020-08-03T01:54:28.430Z",
+        "progress": 0,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "5f276e54802894dd142ea9e8",
+    "actions": {
+      "watch": false,
+      "download": false
+    },
+    "hide": false,
+    "order": 7,
+    "edDuration": 0,
+    "opDuration": 0,
+    "courseId": "5f276e2d52a0f097dfc51678",
+    "name": "数理统计及SPSS应用",
+    "isPreset": false,
+    "seo": {
+      "keywords": "数理统计及SPSS应用,商业数据分析(数理统计及SPSS应用)",
+      "description": "万门教育金融课程分类下提供：商业数据分析，数理统计及SPSS应用等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008981359！",
+      "title": "数理统计及SPSS应用，商业数据分析_万门|大学"
+    },
+    "videoSize": {},
+    "videoDuration": 0,
+    "source": {
+      "lecId": "5c7756f69b32bc21f2c0eaf4",
+      "courseId": "5c243172108a27759584d9bd"
+    },
+    "createdAt": "2020-08-03T01:54:28.430Z",
+    "updatedAt": "2020-08-03T01:54:28.430Z",
+    "children": [
+      {
+        "_id": "5f276e5480289424472eaa38",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "hide": false,
+        "order": 0,
+        "parentId": "5f276e54802894dd142ea9e8",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "T检验理论推导和前提",
+        "isPreset": false,
+        "seo": {},
+        "videoDuration": 468.88,
+        "videoSize": {
+          "pcLow": 15496,
+          "mobileLow": 29172,
+          "pcMid": 29172,
+          "mobileMid": 43524,
+          "pcHigh": 43524
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 469.028571,
+        "audioSize": 7504.919,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5274B0F3BAC",
+        "audioSavedKey": "fb9251d706ddc89f0856200f608d1d21.m3u8",
+        "source": {
+          "lecId": "5c77570b7f5961d9c40eca92",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.430Z",
+        "updatedAt": "2020-08-03T01:54:28.430Z",
+        "progress": 16,
+        "offset": 16,
+        "seconds": 75,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289453e42eaa39",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 1,
+        "parentId": "5f276e54802894dd142ea9e8",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "单样本t检验（一）",
+        "isPreset": false,
+        "videoDuration": 651.4,
+        "videoSize": {
+          "mobileLow": 54716,
+          "pcLow": 42684,
+          "pcMid": 54716,
+          "pcHigh": 94384,
+          "mobileMid": 94384
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 651.546122,
+        "audioSize": 10425.199,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC527590F41E7",
+        "audioSavedKey": "47c8180d8a7ad62aeae9172ab2fc71dc.m3u8",
+        "source": {
+          "lecId": "5c7757147f59619cb10eca99",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.430Z",
+        "updatedAt": "2020-08-03T01:54:28.430Z",
+        "progress": 10,
+        "offset": 10,
+        "seconds": 65,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289445ac2eaa3a",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 2,
+        "parentId": "5f276e54802894dd142ea9e8",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "单样本t检验（二）",
+        "isPreset": false,
+        "videoDuration": 820.64,
+        "videoSize": {
+          "pcHigh": 125600,
+          "pcLow": 68000,
+          "pcMid": 71640,
+          "mobileLow": 71640,
+          "mobileMid": 125600
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 820.793469,
+        "audioSize": 13133.157,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5276F0F4D0C",
+        "audioSavedKey": "3e161aa18071244fc6c6b5c39c2d4e98.m3u8",
+        "source": {
+          "lecId": "5c77571c7f59614b450eca9f",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.430Z",
+        "updatedAt": "2020-08-03T01:54:28.430Z",
+        "progress": 9,
+        "offset": 9,
+        "seconds": 74,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e548028947a092eaa3b",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 3,
+        "parentId": "5f276e54802894dd142ea9e8",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "独立样本t检验（一）",
+        "isPreset": false,
+        "videoDuration": 463.279999,
+        "videoSize": {
+          "mobileLow": 40352,
+          "pcLow": 35560,
+          "pcHigh": 71180,
+          "mobileMid": 71180,
+          "pcMid": 40352
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 463.438367,
+        "audioSize": 7415.475,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5278C0F5BDD",
+        "audioSavedKey": "8d6bb0562a340bee9d49b5f6d900f844.m3u8",
+        "source": {
+          "lecId": "5c775724799204b03e5ef114",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.430Z",
+        "updatedAt": "2020-08-03T01:54:28.430Z",
+        "progress": 7,
+        "offset": 7,
+        "seconds": 32,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894c89f2eaa3c",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 4,
+        "parentId": "5f276e54802894dd142ea9e8",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "独立样本t检验（二）",
+        "isPreset": false,
+        "videoDuration": 570.88,
+        "videoSize": {
+          "mobileLow": 48808,
+          "pcMid": 48808,
+          "mobileMid": 85308,
+          "pcHigh": 85308,
+          "pcLow": 42128
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 571.036735,
+        "audioSize": 9137.049,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5279C0F9CD8",
+        "audioSavedKey": "6ce162b9f1297bdcb78b07a4f7545325.m3u8",
+        "source": {
+          "lecId": "5c77572e9b32bc309ec0eb06",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.430Z",
+        "updatedAt": "2020-08-03T01:54:28.430Z",
+        "progress": 19,
+        "offset": 19,
+        "seconds": 108,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289480982eaa3d",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 5,
+        "parentId": "5f276e54802894dd142ea9e8",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "配对样本t检验（一）",
+        "isPreset": false,
+        "videoDuration": 444.44,
+        "videoSize": {
+          "pcMid": 37880,
+          "mobileMid": 66080,
+          "pcLow": 41152,
+          "pcHigh": 66080,
+          "mobileLow": 37880
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 444.577959,
+        "audioSize": 7113.709,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC527AF0F6EE4",
+        "audioSavedKey": "ac060e6613fff32938cc1f67faf11392.m3u8",
+        "source": {
+          "lecId": "5c775737992483381e1fd48f",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.430Z",
+        "updatedAt": "2020-08-03T01:54:28.430Z",
+        "progress": 28,
+        "offset": 28,
+        "seconds": 124,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e548028943be32eaa3e",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 6,
+        "parentId": "5f276e54802894dd142ea9e8",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "配对样本t检验（二）",
+        "isPreset": false,
+        "videoDuration": 507.04,
+        "videoSize": {
+          "mobileLow": 35908,
+          "pcHigh": 63424,
+          "mobileMid": 63424,
+          "pcLow": 28508,
+          "pcMid": 35908
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 507.193469,
+        "audioSize": 8115.557,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC527C00FAE6E",
+        "audioSavedKey": "1cfa32805f7ec57dfbe69cb51ad26ea1.m3u8",
+        "source": {
+          "lecId": "5c77573f7f596154000ecaa8",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.430Z",
+        "updatedAt": "2020-08-03T01:54:28.430Z",
+        "progress": 18,
+        "offset": 18,
+        "seconds": 91,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894a29e2eaa3f",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 7,
+        "parentId": "5f276e54802894dd142ea9e8",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "方差分析",
+        "isPreset": false,
+        "videoDuration": 505.8,
+        "videoSize": {
+          "pcHigh": 54196,
+          "pcMid": 35480,
+          "mobileMid": 54196,
+          "pcLow": 16880,
+          "mobileLow": 35480
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 505.965714,
+        "audioSize": 8095.913,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC527D00FB73E",
+        "audioSavedKey": "5389768afa2300c1a26333cbd20cc555.m3u8",
+        "source": {
+          "lecId": "5c775747799204c9eb5ef11b",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.430Z",
+        "updatedAt": "2020-08-03T01:54:28.430Z",
+        "progress": 10,
+        "offset": 10,
+        "seconds": 51,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894b2282eaa40",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 8,
+        "parentId": "5f276e54802894dd142ea9e8",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "单因素方差分析（一）",
+        "isPreset": false,
+        "videoDuration": 816.44,
+        "videoSize": {
+          "mobileLow": 71624,
+          "pcHigh": 122976,
+          "pcLow": 49992,
+          "mobileMid": 122976,
+          "pcMid": 71624
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 816.587755,
+        "audioSize": 13065.866,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC527DF0FBEAE",
+        "audioSavedKey": "6e541cbc1738aa0ba973540122543e93.m3u8",
+        "source": {
+          "lecId": "5c77575079920430b95ef125",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.430Z",
+        "updatedAt": "2020-08-03T01:54:28.430Z",
+        "progress": 12,
+        "offset": 12,
+        "seconds": 98,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e548028940d512eaa41",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 9,
+        "parentId": "5f276e54802894dd142ea9e8",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "单因素方差分析（二）",
+        "isPreset": false,
+        "videoDuration": 676.64,
+        "videoSize": {
+          "pcLow": 76508,
+          "mobileLow": 57216,
+          "pcMid": 57216,
+          "pcHigh": 99808,
+          "mobileMid": 99808
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 676.806531,
+        "audioSize": 10829.366,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC527F90FCBED",
+        "audioSavedKey": "1c5492422ea4c879b2f64b5d7c3a373d.m3u8",
+        "source": {
+          "lecId": "5c77575899248316641fd49e",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.430Z",
+        "updatedAt": "2020-08-03T01:54:28.430Z",
+        "progress": 21,
+        "offset": 21,
+        "seconds": 142,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894ea772eaa42",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 10,
+        "parentId": "5f276e54802894dd142ea9e8",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "两因素方差分析",
+        "isPreset": false,
+        "videoDuration": 862.799999,
+        "videoSize": {
+          "mobileLow": 75436,
+          "mobileMid": 132224,
+          "pcMid": 75436,
+          "pcHigh": 132224,
+          "pcLow": 79304
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 862.955102,
+        "audioSize": 13807.743,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC528120FD952",
+        "audioSavedKey": "9c44496d843ebfad35f53260afb30c2a.m3u8",
+        "source": {
+          "lecId": "5c7757617f59618fcf0ecab6",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.431Z",
+        "updatedAt": "2020-08-03T01:54:28.431Z",
+        "progress": 12,
+        "offset": 12,
+        "seconds": 104,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e548028942ab12eaa43",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 11,
+        "parentId": "5f276e54802894dd142ea9e8",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "卡方检验（一）",
+        "isPreset": false,
+        "videoDuration": 901.8,
+        "videoSize": {
+          "mobileLow": 81552,
+          "pcLow": 45864,
+          "pcHigh": 152964,
+          "mobileMid": 152964,
+          "pcMid": 81552
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 901.955918,
+        "audioSize": 14431.756,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC528300FE8B3",
+        "audioSavedKey": "38c1b642ea0db8208584cddccfc08291.m3u8",
+        "source": {
+          "lecId": "5c775888799204a31b5ef164",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.431Z",
+        "updatedAt": "2020-08-03T01:54:28.431Z",
+        "progress": 12,
+        "offset": 12,
+        "seconds": 108,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e548028943af02eaa44",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 12,
+        "parentId": "5f276e54802894dd142ea9e8",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "卡方检验（二）",
+        "isPreset": false,
+        "videoDuration": 669.32,
+        "videoSize": {
+          "pcLow": 32664,
+          "mobileLow": 55420,
+          "pcHigh": 97632,
+          "mobileMid": 97632,
+          "pcMid": 55420
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 669.466122,
+        "audioSize": 10711.919,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5284F0FC1A1",
+        "audioSavedKey": "29b6db7d925cd575a658c060e8e95423.m3u8",
+        "source": {
+          "lecId": "5c77589599248396351fd4e0",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.431Z",
+        "updatedAt": "2020-08-03T01:54:28.431Z",
+        "progress": 10,
+        "offset": 10,
+        "seconds": 67,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289467c72eaa45",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 13,
+        "parentId": "5f276e54802894dd142ea9e8",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "卡方检验（三）",
+        "isPreset": false,
+        "videoDuration": 425.88,
+        "videoSize": {
+          "mobileLow": 31732,
+          "pcLow": 31340,
+          "pcMid": 31732,
+          "mobileMid": 55348,
+          "pcHigh": 55348
+        },
+        "audioDuration": 426.030623,
+        "audioSize": 7.593,
+        "source": {
+          "lecId": "5c7758b49b32bcdbc5c0eb5e",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.431Z",
+        "updatedAt": "2020-08-03T01:54:28.431Z",
+        "progress": 9,
+        "offset": 9,
+        "seconds": 38,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e5480289411162eaa46",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 14,
+        "parentId": "5f276e54802894dd142ea9e8",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "简单线性回归（一）",
+        "isPreset": false,
+        "videoDuration": 633.56,
+        "videoSize": {
+          "pcLow": 45668,
+          "mobileLow": 52392,
+          "mobileMid": 91512,
+          "pcHigh": 91512,
+          "pcMid": 52392
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 633.70449,
+        "audioSize": 10139.733,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC528750FD4D1",
+        "audioSavedKey": "a8f8b2449bf60199323c5ac1cdec49f3.m3u8",
+        "source": {
+          "lecId": "5c77592979920418165ef17a",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.431Z",
+        "updatedAt": "2020-08-03T01:54:28.431Z",
+        "progress": 10,
+        "offset": 10,
+        "seconds": 63,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "5f276e54802894a2d22eaa47",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "seo": {},
+        "hide": false,
+        "order": 15,
+        "parentId": "5f276e54802894dd142ea9e8",
+        "courseId": "5f276e2d52a0f097dfc51678",
+        "name": "简单线性回归（二）",
+        "isPreset": false,
+        "videoDuration": 656.76,
+        "videoSize": {
+          "mobileLow": 53548,
+          "pcLow": 45632,
+          "pcHigh": 91660,
+          "pcMid": 53548,
+          "mobileMid": 91660
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 656.901224,
+        "audioSize": 10510.881,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC528891016FB",
+        "audioSavedKey": "5a055d32f38ff9b656ea175289d5d068.m3u8",
+        "source": {
+          "lecId": "5c7759359b32bc08f2c0eb6f",
+          "courseId": "5c243172108a27759584d9bd"
+        },
+        "createdAt": "2020-08-03T01:54:28.431Z",
+        "updatedAt": "2020-08-03T01:54:28.431Z",
+        "progress": 0,
+        "hasTopic": false,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  }
+]

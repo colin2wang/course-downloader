@@ -1,0 +1,63 @@
+{
+  "_id": "5f276e5480289445112ea9eb",
+  "actions": {
+    "watch": true,
+    "download": true
+  },
+  "seo": {},
+  "hide": false,
+  "order": 1,
+  "hls": {
+    "mobileLow": "https://media.wanmen.org/559816c2-56f3-49be-a38f-13822c532835_mobile_low.m3u8?sign=a8d508727480391086fc1d5e1b9095f0&t=5f388af8&r=c75cfde62247be3faafbd354e09f33d6",
+    "pcLow": "https://media.wanmen.org/559816c2-56f3-49be-a38f-13822c532835_pc_low.m3u8?sign=3636a50cd283b73803b9e79e94e61872&t=5f388af8&r=c75cfde62247be3faafbd354e09f33d6",
+    "pcHigh": "https://media.wanmen.org/559816c2-56f3-49be-a38f-13822c532835_pc_high.m3u8?sign=4dc5d0d3e716e2e65216d9c0d57dfadd&t=5f388af8&r=c75cfde62247be3faafbd354e09f33d6",
+    "pcMid": "https://media.wanmen.org/559816c2-56f3-49be-a38f-13822c532835_pc_mid.m3u8?sign=0f28ee3bc71f6d35757c79337284a0ab&t=5f388af8&r=c75cfde62247be3faafbd354e09f33d6",
+    "mobileMid": "https://media.wanmen.org/559816c2-56f3-49be-a38f-13822c532835_mobile_mid.m3u8?sign=361539dd0f7b3bb4430552c7a8c16145&t=5f388af8&r=c75cfde62247be3faafbd354e09f33d6"
+  },
+  "parentId": "5f276e548028944b062ea9e1",
+  "courseId": "5f276e2d52a0f097dfc51678",
+  "name": "Modules，Packages，and Programs（二）",
+  "isPreset": false,
+  "video": {
+    "_id": "5c6e6e7fc98a1c37ab8d6d52",
+    "hls": {
+      "mobileLow": "https://media.wanmen.org/559816c2-56f3-49be-a38f-13822c532835_mobile_low.m3u8?sign=a8d508727480391086fc1d5e1b9095f0&t=5f388af8&r=c75cfde62247be3faafbd354e09f33d6",
+      "pcLow": "https://media.wanmen.org/559816c2-56f3-49be-a38f-13822c532835_pc_low.m3u8?sign=3636a50cd283b73803b9e79e94e61872&t=5f388af8&r=c75cfde62247be3faafbd354e09f33d6",
+      "pcHigh": "https://media.wanmen.org/559816c2-56f3-49be-a38f-13822c532835_pc_high.m3u8?sign=4dc5d0d3e716e2e65216d9c0d57dfadd&t=5f388af8&r=c75cfde62247be3faafbd354e09f33d6",
+      "pcMid": "https://media.wanmen.org/559816c2-56f3-49be-a38f-13822c532835_pc_mid.m3u8?sign=0f28ee3bc71f6d35757c79337284a0ab&t=5f388af8&r=c75cfde62247be3faafbd354e09f33d6",
+      "mobileMid": "https://media.wanmen.org/559816c2-56f3-49be-a38f-13822c532835_mobile_mid.m3u8?sign=361539dd0f7b3bb4430552c7a8c16145&t=5f388af8&r=c75cfde62247be3faafbd354e09f33d6"
+    }
+  },
+  "videoDuration": 719,
+  "videoSize": {
+    "mobileLow": 61572,
+    "pcHigh": 107532,
+    "pcMid": 61572,
+    "pcLow": 79184,
+    "mobileMid": 107532
+  },
+  "isGeneratingAudio": true,
+  "audio": {
+    "_id": "5db82c5c7db28b3ebf4d8897",
+    "name": "Modules，Packages，and Programs（二）",
+    "url": "https://audio.wanmen.org/15d9438d8123bad619b58986ef243a33.mp3",
+    "createdAt": "2019-10-29T12:11:08.766Z",
+    "updatedAt": "2019-10-29T12:11:08.766Z"
+  },
+  "audioDuration": 719.177143,
+  "audioSize": 11507.296,
+  "audioPersistentId": "z1.0A1E1A185C9055E7F15EC521CA0C8732",
+  "audioSavedKey": "19adca685325b0ddf4b29baabbb5f777.m3u8",
+  "source": {
+    "lecId": "5c6f4f0a9b32bca439c04c85",
+    "courseId": "5c243172108a27759584d9bd"
+  },
+  "createdAt": "2020-08-03T01:54:28.423Z",
+  "updatedAt": "2020-08-03T01:54:28.423Z",
+  "quizStatus": {
+    "has_quiz_pack": false,
+    "attempt_status": "Fresh",
+    "quiz_pack_id": "",
+    "attempt_id": ""
+  }
+}

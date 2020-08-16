@@ -1,0 +1,2 @@
+# Get Lecture
+https://api.wanmen.org/4.0/content/lectures/5f276e5480289445112ea9eb?routeId=main
