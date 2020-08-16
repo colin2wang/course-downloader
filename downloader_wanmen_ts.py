@@ -1,10 +1,12 @@
+import _thread
 import json
 import urllib.request
 import re
 import os
+from utils.thread_utils import CountDownLatch
 
 
-def start_download(path):
+def start_download(path, latch):
     files = os.listdir(path)
     for fi in files:
         fi_d = os.path.join(path, fi)
@@ -25,9 +27,12 @@ def start_download(path):
             with open(filename, 'r', encoding='utf-8') as f:
                 json_obj = json.loads(f.read())
                 video = json_obj['hls']['pcHigh']
-                url_sample = re.sub(r'\.m3u8.*', '0.ts', video)
 
-                url_tmpl = re.sub(r'[0-9]+.ts', '%d.ts', url_sample)
+                # url_sample = re.sub(r'\.m3u8.*', '0.ts', video)
+                # url_tmpl = re.sub(r'[0-9]+.ts', '%d.ts', url_sample)
+
+                url_sample = re.sub(r'\.m3u8.*', '00000.ts', video)
+                url_tmpl = re.sub(r'[0-9]{5}.ts', '%05d.ts', url_sample)
 
                 filename_tmpl = 'Wanmen-%05d.ts'
 
@@ -52,5 +57,18 @@ def start_download(path):
                         print('Stop due to exception: ' + e.__str__())
                         break
 
+    latch.count_down()
 
-start_download('download\\wanmen')
+def gather_batch(path):
+    files = os.listdir(path)
+    size = len(files)
+    latch = CountDownLatch(size)
+    for fi in files:
+        folder_name = os.path.join(path, fi)
+        if os.path.isdir(folder_name):
+            _thread.start_new_thread(start_download, (folder_name, latch,))
+
+    latch.a_wait()
+
+
+gather_batch('download\\wanmen\\586d23485f07127674135d32')

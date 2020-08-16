@@ -1,0 +1,2711 @@
+[
+  {
+    "_id": "586d23555f0712767415af8c",
+    "createdAt": "2017-02-21T17:35:35.506Z",
+    "courseId": "586d23485f07127674135d32",
+    "order": 1,
+    "hide": false,
+    "name": "市场营销学导论",
+    "updatedAt": "2019-10-31T02:44:43.365Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "市场营销学导论,市场营销学(市场营销学导论)",
+      "description": "万门教育技能进阶课程分类下提供：市场营销学，市场营销学导论等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988569！",
+      "title": "市场营销学导论，市场营销学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674158b36",
+        "createdAt": "2017-02-21T17:35:35.509Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415af8c",
+        "order": 1,
+        "hide": false,
+        "name": "市场营销学概述",
+        "updatedAt": "2020-05-20T08:52:02.531Z",
+        "actions": {
+          "download": true,
+          "watch": true
+        },
+        "isPreset": true,
+        "videoDuration": 523.76,
+        "videoSize": {
+          "pcMid": 40688,
+          "mobileMid": 40696,
+          "mobileLow": 40696,
+          "pcLow": 40688,
+          "pcHigh": 40688
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 523.833469,
+        "audioSize": 8381.797,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4EFB2FD66C8",
+        "audioSavedKey": "776c368ef8e5c3538303f17001f56840.m3u8",
+        "progress": 7,
+        "offset": 7,
+        "seconds": 37,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158b37",
+        "createdAt": "2017-02-21T17:35:35.511Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415af8c",
+        "order": 2,
+        "hide": false,
+        "name": "市场营销的内涵",
+        "updatedAt": "2020-05-20T08:15:15.179Z",
+        "actions": {
+          "download": true,
+          "watch": true
+        },
+        "isPreset": true,
+        "videoDuration": 1164.12,
+        "videoSize": {
+          "pcLow": 90320,
+          "pcMid": 90320,
+          "mobileMid": 90324,
+          "mobileLow": 90324,
+          "pcHigh": 90320
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1164.199184,
+        "audioSize": 18627.648,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4E713FB10BD",
+        "audioSavedKey": "43196faa85b17fc575c7ab34c23f4a96.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158b38",
+        "createdAt": "2017-02-21T17:35:35.514Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415af8c",
+        "order": 3,
+        "hide": false,
+        "name": "市场营销的重要性",
+        "updatedAt": "2020-05-20T09:10:37.634Z",
+        "actions": {
+          "download": true,
+          "watch": true
+        },
+        "isPreset": true,
+        "videoDuration": 858.4,
+        "videoSize": {
+          "mobileLow": 66560,
+          "pcMid": 66560,
+          "pcHigh": 66560,
+          "mobileMid": 66560,
+          "pcLow": 66560
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 858.462041,
+        "audioSize": 13735.854,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4F40DFE9E5E",
+        "audioSavedKey": "338a448bb7690757f4e18f2e4a73768f.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415afb5",
+    "createdAt": "2017-02-21T17:35:35.577Z",
+    "courseId": "586d23485f07127674135d32",
+    "order": 2,
+    "hide": false,
+    "name": "市场营销理念的演变",
+    "updatedAt": "2019-10-31T02:44:43.365Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "市场营销理念的演变,市场营销学(市场营销理念的演变)",
+      "description": "万门教育技能进阶课程分类下提供：市场营销学，市场营销理念的演变等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988570！",
+      "title": "市场营销理念的演变，市场营销学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674158bc7",
+        "createdAt": "2017-02-21T17:35:35.579Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415afb5",
+        "order": 1,
+        "hide": false,
+        "name": "市场营销观念",
+        "updatedAt": "2020-05-20T10:08:17.954Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 845.64,
+        "videoSize": {
+          "mobileLow": 65636,
+          "pcMid": 65636,
+          "pcHigh": 65636,
+          "pcLow": 65636,
+          "mobileMid": 65636
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 845.714286,
+        "audioSize": 13531.89,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC50191023135",
+        "audioSavedKey": "00ea917294597f6aec105e8413af22de.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158bc8",
+        "createdAt": "2017-02-21T17:35:35.581Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415afb5",
+        "order": 2,
+        "hide": false,
+        "name": "市场营销组合的演变",
+        "updatedAt": "2020-05-20T11:11:05.540Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 802.72,
+        "videoSize": {
+          "mobileLow": 62308,
+          "pcLow": 62308,
+          "mobileMid": 62308,
+          "pcHigh": 62308,
+          "pcMid": 62308
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 802.76898,
+        "audioSize": 12844.765,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC510490614B4",
+        "audioSavedKey": "278ae85942b17078a3e8def671d61a44.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415afb6",
+    "createdAt": "2017-02-21T17:35:35.644Z",
+    "courseId": "586d23485f07127674135d32",
+    "order": 3,
+    "hide": false,
+    "name": "战略计划与市场营销管理",
+    "updatedAt": "2019-10-31T02:44:43.366Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "战略计划与市场营销管理,市场营销学(战略计划与市场营销管理)",
+      "description": "万门教育技能进阶课程分类下提供：市场营销学，战略计划与市场营销管理等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988571！",
+      "title": "战略计划与市场营销管理，市场营销学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674158bc9",
+        "createdAt": "2017-02-21T17:35:35.647Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415afb6",
+        "order": 1,
+        "hide": false,
+        "name": "战略计划与市场导向",
+        "updatedAt": "2020-05-20T15:10:23.442Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1289,
+        "videoSize": {
+          "pcMid": 99992,
+          "pcLow": 99992,
+          "mobileMid": 99992,
+          "pcHigh": 99992,
+          "mobileLow": 99992
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1289.06449,
+        "audioSize": 20625.493,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5485F217B3E",
+        "audioSavedKey": "1850f03b13495ddddf89565ab3c7cdab.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158bca",
+        "createdAt": "2017-02-21T17:35:35.649Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415afb6",
+        "order": 2,
+        "hide": false,
+        "name": "市场营销管理概述",
+        "updatedAt": "2020-05-20T14:03:51.338Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 961.88,
+        "videoSize": {
+          "mobileLow": 74640,
+          "pcLow": 74640,
+          "pcHigh": 74640,
+          "pcMid": 74640,
+          "mobileMid": 74640
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 961.959184,
+        "audioSize": 15391.808,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC538C71917DE",
+        "audioSavedKey": "db17db317af29e819fe5fbc647ddb05a.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415afdf",
+    "createdAt": "2017-02-21T17:35:35.725Z",
+    "courseId": "586d23485f07127674135d32",
+    "order": 4,
+    "hide": false,
+    "name": "市场营销环境分析",
+    "updatedAt": "2019-10-31T02:44:43.366Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "市场营销环境分析,市场营销学(市场营销环境分析)",
+      "description": "万门教育技能进阶课程分类下提供：市场营销学，市场营销环境分析等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988572！",
+      "title": "市场营销环境分析，市场营销学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674158c4a",
+        "createdAt": "2017-02-21T17:35:35.727Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415afdf",
+        "order": 1,
+        "hide": false,
+        "name": "市场营销环境概述",
+        "updatedAt": "2020-05-21T02:46:29.994Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 635.2,
+        "videoSize": {
+          "mobileLow": 49224,
+          "pcMid": 49224,
+          "mobileMid": 49224,
+          "pcHigh": 49224,
+          "pcLow": 49224
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 635.271837,
+        "audioSize": 10164.811,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5EB853AF1D7",
+        "audioSavedKey": "6cd50234db029c6cc1f55c198fa7889c.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158c4b",
+        "createdAt": "2017-02-21T17:35:35.730Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415afdf",
+        "order": 2,
+        "hide": false,
+        "name": "市场营销宏观环境",
+        "updatedAt": "2020-05-21T03:15:16.180Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1354.36,
+        "videoSize": {
+          "pcMid": 104904,
+          "mobileMid": 104904,
+          "mobileLow": 104904,
+          "pcHigh": 104904,
+          "pcLow": 104904
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1354.422857,
+        "audioSize": 21671.227,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5F2443CE501",
+        "audioSavedKey": "396ddc2f24d3957e421e8fa8138d67b1.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158c4c",
+        "createdAt": "2017-02-21T17:35:35.732Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415afdf",
+        "order": 3,
+        "hide": false,
+        "name": "市场营销中观环境",
+        "updatedAt": "2020-05-21T03:40:59.058Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 802.12,
+        "videoSize": {
+          "pcMid": 62132,
+          "pcLow": 62132,
+          "mobileMid": 62132,
+          "mobileLow": 62132,
+          "pcHigh": 62132
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 802.168163,
+        "audioSize": 12835.152,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5F84B3E5927",
+        "audioSavedKey": "2006ce724ab02a38f68f835f8011468f.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158c4d",
+        "createdAt": "2017-02-21T17:35:35.735Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415afdf",
+        "order": 4,
+        "hide": false,
+        "name": "市场营销微观环境",
+        "updatedAt": "2020-05-21T07:13:34.319Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 555.88,
+        "videoSize": {
+          "pcHigh": 43124,
+          "pcLow": 43124,
+          "mobileLow": 43128,
+          "pcMid": 43124,
+          "mobileMid": 43128
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 555.937959,
+        "audioSize": 8895.469,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC62A1E4A3AD5",
+        "audioSavedKey": "4844e0a0452566ead73f601ecec3894a.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415afe0",
+    "createdAt": "2017-02-21T17:35:35.797Z",
+    "courseId": "586d23485f07127674135d32",
+    "order": 5,
+    "hide": false,
+    "name": "市场调研与需求预测",
+    "updatedAt": "2019-10-31T02:44:43.366Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "市场调研与需求预测,市场营销学(市场调研与需求预测)",
+      "description": "万门教育技能进阶课程分类下提供：市场营销学，市场调研与需求预测等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988573！",
+      "title": "市场调研与需求预测，市场营销学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674158c4e",
+        "createdAt": "2017-02-21T17:35:35.800Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415afe0",
+        "order": 1,
+        "hide": false,
+        "name": "市场调研",
+        "updatedAt": "2020-05-20T16:27:46.389Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1093.28,
+        "videoSize": {
+          "mobileLow": 84732,
+          "mobileMid": 84732,
+          "pcLow": 84728,
+          "pcHigh": 84728,
+          "pcMid": 84728
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1093.355102,
+        "audioSize": 17494.143,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC55A82284FEE",
+        "audioSavedKey": "19ed88b32261c9854df9a8d08c9402cf.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158c4f",
+        "createdAt": "2017-02-21T17:35:35.802Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415afe0",
+        "order": 2,
+        "hide": false,
+        "name": "市场需求预测",
+        "updatedAt": "2020-05-21T02:03:40.511Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1106.08,
+        "videoSize": {
+          "mobileMid": 85760,
+          "mobileLow": 85760,
+          "pcMid": 85756,
+          "pcLow": 85756,
+          "pcHigh": 85756
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1106.155102,
+        "audioSize": 17698.943,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5E17C380521",
+        "audioSavedKey": "5967b9d3a39bf7387a4a56ddf83e1354.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b00e",
+    "createdAt": "2017-02-21T17:35:35.875Z",
+    "courseId": "586d23485f07127674135d32",
+    "order": 6,
+    "hide": false,
+    "name": "消费者市场",
+    "updatedAt": "2019-10-31T02:44:43.366Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "消费者市场,市场营销学(消费者市场)",
+      "description": "万门教育技能进阶课程分类下提供：市场营销学，消费者市场等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988574！",
+      "title": "消费者市场，市场营销学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674158cea",
+        "createdAt": "2017-02-21T17:35:35.878Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b00e",
+        "order": 1,
+        "hide": false,
+        "name": "消费者市场概述",
+        "updatedAt": "2020-05-20T14:48:39.191Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 614.24,
+        "videoSize": {
+          "mobileLow": 47660,
+          "pcHigh": 47656,
+          "pcMid": 47656,
+          "pcLow": 47656,
+          "mobileMid": 47660
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 614.29551,
+        "audioSize": 9829.19,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC543471EB040",
+        "audioSavedKey": "94385bbc69b150f811e3c84555a85e30.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158ceb",
+        "createdAt": "2017-02-21T17:35:35.884Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b00e",
+        "order": 2,
+        "hide": false,
+        "name": "影响消费者行为的因素",
+        "updatedAt": "2020-05-20T15:01:31.787Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 991.16,
+        "videoSize": {
+          "mobileLow": 76848,
+          "pcLow": 76848,
+          "mobileMid": 76848,
+          "pcMid": 76848,
+          "pcHigh": 76848
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 991.216327,
+        "audioSize": 15859.923,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5464B203ED5",
+        "audioSavedKey": "088b88bf13246193aac2c37438bbd31e.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158cec",
+        "createdAt": "2017-02-21T17:35:35.887Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b00e",
+        "order": 3,
+        "hide": false,
+        "name": "消费者购买行为与决策",
+        "updatedAt": "2020-05-21T05:46:52.160Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 882.8,
+        "videoSize": {
+          "mobileLow": 68452,
+          "mobileMid": 68452,
+          "pcMid": 68452,
+          "pcHigh": 68452,
+          "pcLow": 68452
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 882.860408,
+        "audioSize": 14126.228,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC615CC45325B",
+        "audioSavedKey": "ca9b9175f0f014ab36e0a06247bbc89b.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b042",
+    "createdAt": "2017-02-21T17:35:35.951Z",
+    "courseId": "586d23485f07127674135d32",
+    "order": 7,
+    "hide": false,
+    "name": "组织市场",
+    "updatedAt": "2019-10-31T02:44:43.366Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "组织市场,市场营销学(组织市场)",
+      "description": "万门教育技能进阶课程分类下提供：市场营销学，组织市场等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988575！",
+      "title": "组织市场，市场营销学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674158d6d",
+        "createdAt": "2017-02-21T17:35:35.954Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b042",
+        "order": 1,
+        "hide": false,
+        "name": "组织市场概述",
+        "updatedAt": "2020-05-20T08:55:21.423Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 219.04,
+        "videoSize": {
+          "mobileLow": 17048,
+          "pcHigh": 17048,
+          "pcLow": 17048,
+          "mobileMid": 17048,
+          "pcMid": 17048
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 219.036735,
+        "audioSize": 3505.049,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC4F079FDD5F4",
+        "audioSavedKey": "35e0328a991088a16f74d5045b421d3b.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158d6e",
+        "createdAt": "2017-02-21T17:35:35.956Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b042",
+        "order": 2,
+        "hide": false,
+        "name": "产业市场购买行为",
+        "updatedAt": "2019-10-26T00:43:58.083Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 459.16,
+        "videoSize": {
+          "mobileLow": 35664,
+          "pcLow": 35664,
+          "pcHigh": 35664,
+          "mobileMid": 35664,
+          "pcMid": 35664
+        },
+        "isGeneratingAudio": true,
+        "audioPersistentId": "z1.0A1E1B437BDA1CF3F55DB396CE4D8C13",
+        "audioSavedKey": "fc1453ad22e818f8613a272ae3190245.mp3",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158d6f",
+        "createdAt": "2017-02-21T17:35:35.958Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b042",
+        "order": 3,
+        "hide": false,
+        "name": "中间商购买行为",
+        "updatedAt": "2020-05-21T00:45:35.243Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 272.04,
+        "videoSize": {
+          "pcLow": 21124,
+          "mobileLow": 21124,
+          "pcHigh": 21124,
+          "pcMid": 21124,
+          "mobileMid": 21124
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 272.065306,
+        "audioSize": 4353.506,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5CF2F33F946",
+        "audioSavedKey": "1802e2168a8801f8f9eba0e62ed4e0e6.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158d70",
+        "createdAt": "2017-02-21T17:35:35.961Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b042",
+        "order": 4,
+        "hide": false,
+        "name": "政府采购行为",
+        "updatedAt": "2020-05-22T04:57:48.971Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 266.56,
+        "videoSize": {
+          "pcHigh": 20712,
+          "mobileLow": 20712,
+          "mobileMid": 20712,
+          "pcLow": 20712,
+          "pcMid": 20712
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 266.579592,
+        "audioSize": 4265.735,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC75BCC95A157",
+        "audioSavedKey": "4fb3d6d09a13802a048d3cba00fa7f48.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b04b",
+    "createdAt": "2017-02-21T17:35:36.025Z",
+    "courseId": "586d23485f07127674135d32",
+    "order": 8,
+    "hide": false,
+    "name": "目标市场战略",
+    "updatedAt": "2019-10-31T02:44:43.366Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "目标市场战略,市场营销学(目标市场战略)",
+      "description": "万门教育技能进阶课程分类下提供：市场营销学，目标市场战略等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988576！",
+      "title": "目标市场战略，市场营销学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674158d91",
+        "createdAt": "2017-02-21T17:35:36.028Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b04b",
+        "order": 1,
+        "hide": false,
+        "name": "市场细分与目标市场选择",
+        "updatedAt": "2020-05-21T00:23:23.158Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 601.4,
+        "videoSize": {
+          "mobileLow": 46688,
+          "pcHigh": 46684,
+          "pcLow": 46684,
+          "mobileMid": 46688,
+          "pcMid": 46684
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 601.417143,
+        "audioSize": 9623.136,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5C9FB32D033",
+        "audioSavedKey": "e0f8009cfc1ef5ad9d891be024cfb949.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158d92",
+        "createdAt": "2017-02-21T17:35:36.030Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b04b",
+        "order": 2,
+        "hide": false,
+        "name": "市场定位",
+        "updatedAt": "2020-05-22T05:02:21.398Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1313.72,
+        "videoSize": {
+          "mobileLow": 102124,
+          "pcLow": 102124,
+          "pcMid": 102124,
+          "mobileMid": 102124,
+          "pcHigh": 102124
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1313.724082,
+        "audioSize": 21020.047,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC75CDD95D9E9",
+        "audioSavedKey": "1f715c4c416af4e587c9999dabf7f25e.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b071",
+    "createdAt": "2017-02-21T17:35:36.110Z",
+    "courseId": "586d23485f07127674135d32",
+    "order": 9,
+    "hide": false,
+    "name": "市场竞争战略",
+    "updatedAt": "2019-10-31T02:44:43.366Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "市场竞争战略,市场营销学(市场竞争战略)",
+      "description": "万门教育技能进阶课程分类下提供：市场营销学，市场竞争战略等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988577！",
+      "title": "市场竞争战略，市场营销学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674158de8",
+        "createdAt": "2017-02-21T17:35:36.113Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b071",
+        "order": 1,
+        "hide": false,
+        "name": "竞争者分析",
+        "updatedAt": "2020-05-21T03:30:48.092Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 613.84,
+        "videoSize": {
+          "mobileLow": 47628,
+          "mobileMid": 47628,
+          "pcMid": 47624,
+          "pcHigh": 47624,
+          "pcLow": 47624
+        },
+        "audioDuration": 613.865723,
+        "audioSize": 10.812,
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158de9",
+        "createdAt": "2017-02-21T17:35:36.115Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b071",
+        "order": 2,
+        "hide": false,
+        "name": "基本竞争战略",
+        "updatedAt": "2020-05-22T02:02:05.311Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1245.52,
+        "videoSize": {
+          "mobileLow": 96628,
+          "mobileMid": 96628,
+          "pcHigh": 96624,
+          "pcLow": 96624,
+          "pcMid": 96624
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1245.54449,
+        "audioSize": 19929.173,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC7329D8B36BA",
+        "audioSavedKey": "829dd102cf174f91fa1e87c6ffdc05e7.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158dea",
+        "createdAt": "2017-02-21T17:35:36.117Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b071",
+        "order": 3,
+        "hide": false,
+        "name": "市场地位与竞争战略",
+        "updatedAt": "2020-05-20T17:30:27.927Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 846.56,
+        "videoSize": {
+          "mobileLow": 65652,
+          "pcHigh": 65652,
+          "mobileMid": 65652,
+          "pcMid": 65652,
+          "pcLow": 65652
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 846.576327,
+        "audioSize": 13545.683,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC569332B00D0",
+        "audioSavedKey": "5a885f2203fb3133813ba1d60cf8cba1.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158deb",
+        "createdAt": "2017-02-21T17:35:36.120Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b071",
+        "order": 4,
+        "hide": false,
+        "name": "战略联盟",
+        "updatedAt": "2020-05-20T09:09:58.762Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 529.24,
+        "videoSize": {
+          "mobileLow": 41072,
+          "pcHigh": 41068,
+          "mobileMid": 41072,
+          "pcLow": 41068,
+          "pcMid": 41068
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 529.266939,
+        "audioSize": 8468.733,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC4F3E6FECA6D",
+        "audioSavedKey": "a960599bff6de0c30244df1d28e31554.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b094",
+    "createdAt": "2017-02-21T17:35:36.183Z",
+    "courseId": "586d23485f07127674135d32",
+    "order": 10,
+    "hide": false,
+    "name": "新产品开发战略",
+    "updatedAt": "2019-10-31T02:44:43.366Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "新产品开发战略,市场营销学(新产品开发战略)",
+      "description": "万门教育技能进阶课程分类下提供：市场营销学，新产品开发战略等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988578！",
+      "title": "新产品开发战略，市场营销学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674158e48",
+        "createdAt": "2017-02-21T17:35:36.185Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b094",
+        "order": 1,
+        "hide": false,
+        "name": "新产品开发的必要性和过程",
+        "updatedAt": "2020-05-20T08:51:01.267Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 352.2,
+        "videoSize": {
+          "mobileLow": 27352,
+          "pcHigh": 27352,
+          "pcMid": 27352,
+          "pcLow": 27352,
+          "mobileMid": 27352
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 352.20898,
+        "audioSize": 5635.805,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4EF75FD55C6",
+        "audioSavedKey": "44259b9511157af91b6c14eae448bd39.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158e49",
+        "createdAt": "2017-02-21T17:35:36.188Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b094",
+        "order": 2,
+        "hide": false,
+        "name": "新产品的采用和扩散",
+        "updatedAt": "2020-05-20T09:06:40.224Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 728,
+        "videoSize": {
+          "mobileLow": 56428,
+          "mobileMid": 56428,
+          "pcHigh": 56428,
+          "pcLow": 56428,
+          "pcMid": 56428
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 728.032653,
+        "audioSize": 11648.984,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4F320FE5BFB",
+        "audioSavedKey": "87aabff66d4d379711f2f6477d03e5d4.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b0a5",
+    "createdAt": "2017-02-21T17:35:36.251Z",
+    "courseId": "586d23485f07127674135d32",
+    "order": 11,
+    "hide": false,
+    "name": "品牌策略（上）",
+    "updatedAt": "2019-10-31T02:44:43.366Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "品牌策略（上）,市场营销学(品牌策略（上）)",
+      "description": "万门教育技能进阶课程分类下提供：市场营销学，品牌策略（上）等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988579！",
+      "title": "品牌策略（上），市场营销学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674158e85",
+        "createdAt": "2017-02-21T17:35:36.254Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b0a5",
+        "order": 1,
+        "hide": false,
+        "name": "品牌概述",
+        "updatedAt": "2020-05-20T11:40:03.017Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1742.84,
+        "videoSize": {
+          "pcMid": 135024,
+          "mobileLow": 135028,
+          "mobileMid": 135028,
+          "pcLow": 135024,
+          "pcHigh": 135024
+        },
+        "audioDuration": 1742.867236,
+        "audioSize": 30.474,
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158e86",
+        "createdAt": "2017-02-21T17:35:36.257Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b0a5",
+        "order": 2,
+        "hide": false,
+        "name": "品牌识别",
+        "updatedAt": "2020-05-20T12:04:19.646Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1667.4,
+        "videoSize": {
+          "mobileLow": 129112,
+          "pcMid": 129108,
+          "mobileMid": 129112,
+          "pcLow": 129108,
+          "pcHigh": 129108
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1667.422041,
+        "audioSize": 26679.214,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC51CC30A8802",
+        "audioSavedKey": "eadeabf38147d8f2df4efea5ec38f6bd.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158e87",
+        "createdAt": "2017-02-21T17:35:36.260Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b0a5",
+        "order": 3,
+        "hide": false,
+        "name": "品牌符号",
+        "updatedAt": "2020-05-22T02:02:13.089Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1332.52,
+        "videoSize": {
+          "pcLow": 103256,
+          "pcMid": 103256,
+          "pcHigh": 103256,
+          "mobileLow": 103256,
+          "mobileMid": 103256
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1332.532245,
+        "audioSize": 21320.977,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC732A58B38B5",
+        "audioSavedKey": "0c17e2ceecf246ee37601c97c1eae85a.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b0a6",
+    "createdAt": "2017-02-21T17:35:36.327Z",
+    "courseId": "586d23485f07127674135d32",
+    "order": 12,
+    "hide": false,
+    "name": "品牌策略（下）",
+    "updatedAt": "2019-10-31T02:44:43.366Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "品牌策略（下）,市场营销学(品牌策略（下）)",
+      "description": "万门教育技能进阶课程分类下提供：市场营销学，品牌策略（下）等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988580！",
+      "title": "品牌策略（下），市场营销学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674158e88",
+        "createdAt": "2017-02-21T17:35:36.330Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b0a6",
+        "order": 1,
+        "hide": false,
+        "name": "品牌传播策略",
+        "updatedAt": "2020-05-20T08:53:20.858Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 2520.56,
+        "videoSize": {
+          "mobileMid": 195520,
+          "pcMid": 195520,
+          "mobileLow": 195520,
+          "pcHigh": 195516,
+          "pcLow": 195520
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 2520.581224,
+        "audioSize": 40329.761,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4F000FD7CA8",
+        "audioSavedKey": "def80aa73e28544cd407bb5ee576e9bc.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158e89",
+        "createdAt": "2017-02-21T17:35:36.332Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b0a6",
+        "order": 2,
+        "hide": false,
+        "name": "品牌提升策略",
+        "updatedAt": "2020-05-20T23:15:16.994Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1535.88,
+        "videoSize": {
+          "pcHigh": 118952,
+          "mobileLow": 118952,
+          "mobileMid": 118952,
+          "pcLow": 118952,
+          "pcMid": 118952
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1535.89551,
+        "audioSize": 24574.79,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5BA0430E554",
+        "audioSavedKey": "30080c9172b4ed33a3214fab14300a2e.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b0f4",
+    "createdAt": "2017-02-21T17:35:36.394Z",
+    "courseId": "586d23485f07127674135d32",
+    "order": 13,
+    "hide": false,
+    "name": "定价策略",
+    "updatedAt": "2019-10-31T02:44:43.366Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "定价策略,市场营销学(定价策略)",
+      "description": "万门教育技能进阶课程分类下提供：市场营销学，定价策略等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988581！",
+      "title": "定价策略，市场营销学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674158f61",
+        "createdAt": "2017-02-21T17:35:36.397Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b0f4",
+        "order": 1,
+        "hide": false,
+        "name": "影响定价的因素",
+        "updatedAt": "2020-05-20T23:15:34.110Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 916.76,
+        "videoSize": {
+          "mobileLow": 71012,
+          "mobileMid": 71012,
+          "pcLow": 71012,
+          "pcHigh": 71012,
+          "pcMid": 71012
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 916.793469,
+        "audioSize": 14669.157,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5BA1630E6F5",
+        "audioSavedKey": "b2e0e1798e1ff87b133d09a9b46a7aee.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158f62",
+        "createdAt": "2017-02-21T17:35:36.400Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b0f4",
+        "order": 2,
+        "hide": false,
+        "name": "定价方法",
+        "updatedAt": "2020-05-20T23:31:05.161Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 986.28,
+        "videoSize": {
+          "mobileLow": 76344,
+          "pcHigh": 76344,
+          "pcMid": 76344,
+          "mobileMid": 76344,
+          "pcLow": 76344
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 986.279184,
+        "audioSize": 15780.928,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5BDB9314738",
+        "audioSavedKey": "530b634296c2dd6e80004c3eeaec8bf2.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158f63",
+        "createdAt": "2017-02-21T17:35:36.402Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b0f4",
+        "order": 3,
+        "hide": false,
+        "name": "定价策略",
+        "updatedAt": "2020-05-20T09:22:43.859Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 950.08,
+        "videoSize": {
+          "mobileLow": 73540,
+          "pcHigh": 73540,
+          "pcLow": 73540,
+          "pcMid": 73540,
+          "mobileMid": 73540
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 950.099592,
+        "audioSize": 15202.055,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC4F6E3FF9A45",
+        "audioSavedKey": "bcd546dd763cd123eb0e21f1ffeecb02.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158f64",
+        "createdAt": "2017-02-21T17:35:36.405Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b0f4",
+        "order": 4,
+        "hide": false,
+        "name": "价格调整",
+        "updatedAt": "2020-05-20T14:00:25.303Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 639.32,
+        "videoSize": {
+          "mobileMid": 49468,
+          "pcLow": 49468,
+          "pcMid": 49468,
+          "pcHigh": 49468,
+          "mobileLow": 49468
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 639.346939,
+        "audioSize": 10230.013,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC537F918A33D",
+        "audioSavedKey": "7be16937e04fda894b79189a8023f26b.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b11c",
+    "createdAt": "2017-02-21T17:35:36.469Z",
+    "courseId": "586d23485f07127674135d32",
+    "order": 14,
+    "hide": false,
+    "name": "分销策略",
+    "updatedAt": "2019-10-31T02:44:43.366Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "分销策略,市场营销学(分销策略)",
+      "description": "万门教育技能进阶课程分类下提供：市场营销学，分销策略等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988582！",
+      "title": "分销策略，市场营销学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674158fd2",
+        "createdAt": "2017-02-21T17:35:36.471Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b11c",
+        "order": 1,
+        "hide": false,
+        "name": "分销渠道概述",
+        "updatedAt": "2020-05-20T14:00:29.691Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1703.56,
+        "videoSize": {
+          "mobileLow": 131824,
+          "pcMid": 131816,
+          "mobileMid": 131824,
+          "pcLow": 131816,
+          "pcHigh": 131820
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1703.57551,
+        "audioSize": 27257.67,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC537FD186D57",
+        "audioSavedKey": "45bb6cb2d1c44da8dee8e562ef8263b9.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158fd3",
+        "createdAt": "2017-02-21T17:35:36.474Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b11c",
+        "order": 2,
+        "hide": false,
+        "name": "渠道参与者",
+        "updatedAt": "2020-05-20T15:42:13.185Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 2104.88,
+        "videoSize": {
+          "mobileLow": 163004,
+          "pcLow": 163004,
+          "mobileMid": 163004,
+          "pcMid": 163004,
+          "pcHigh": 163008
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 2104.894694,
+        "audioSize": 33678.777,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC54FD5249390",
+        "audioSavedKey": "efb5bf54d4d9b571be195ba974ab3ea6.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158fd4",
+        "createdAt": "2017-02-21T17:35:36.476Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b11c",
+        "order": 3,
+        "hide": false,
+        "name": "分销渠道环境",
+        "updatedAt": "2020-05-21T03:22:34.231Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1519.84,
+        "videoSize": {
+          "mobileMid": 117744,
+          "mobileLow": 117744,
+          "pcLow": 117744,
+          "pcHigh": 117744,
+          "pcMid": 117744
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1519.856327,
+        "audioSize": 24318.163,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5F3FA3D61AB",
+        "audioSavedKey": "572802ebba04504bf7c6f516d7b5ae1b.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158fd5",
+        "createdAt": "2017-02-21T17:35:36.479Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b11c",
+        "order": 4,
+        "hide": false,
+        "name": "分销渠道策略",
+        "updatedAt": "2020-05-21T03:47:58.543Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 697.64,
+        "videoSize": {
+          "pcMid": 54076,
+          "mobileLow": 54076,
+          "mobileMid": 54076,
+          "pcHigh": 54076,
+          "pcLow": 54076
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 697.652245,
+        "audioSize": 11162.897,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5F9EE3EC789",
+        "audioSavedKey": "5b0a11cd50704f3f2f5a53afdfc035b3.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b13c",
+    "createdAt": "2017-02-21T17:35:36.546Z",
+    "courseId": "586d23485f07127674135d32",
+    "order": 15,
+    "hide": false,
+    "name": "沟通与促销策略",
+    "updatedAt": "2019-10-31T02:44:43.366Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "沟通与促销策略,市场营销学(沟通与促销策略)",
+      "description": "万门教育技能进阶课程分类下提供：市场营销学，沟通与促销策略等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988583！",
+      "title": "沟通与促销策略，市场营销学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f0712767415903b",
+        "createdAt": "2017-02-21T17:35:36.548Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b13c",
+        "order": 1,
+        "hide": false,
+        "name": "促销组合",
+        "updatedAt": "2020-05-20T12:35:57.780Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 383.04,
+        "videoSize": {
+          "mobileLow": 29732,
+          "pcMid": 29732,
+          "pcHigh": 29732,
+          "pcLow": 29732,
+          "mobileMid": 29732
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 383.085714,
+        "audioSize": 6129.833,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5242D0DA8CF",
+        "audioSavedKey": "8ed72cc66329c240a533a1b8737dc4f4.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415903c",
+        "createdAt": "2017-02-21T17:35:36.551Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b13c",
+        "order": 2,
+        "hide": false,
+        "name": "促销活动流程管理",
+        "updatedAt": "2020-05-20T12:36:37.619Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 568.72,
+        "videoSize": {
+          "mobileMid": 44092,
+          "pcHigh": 44088,
+          "pcMid": 44088,
+          "mobileLow": 44092,
+          "pcLow": 44088
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 568.737959,
+        "audioSize": 9100.269,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC524550DF410",
+        "audioSavedKey": "bc92264b53be53da98220c5240072136.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415903d",
+        "createdAt": "2017-02-21T17:35:36.553Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b13c",
+        "order": 3,
+        "hide": false,
+        "name": "广告策略",
+        "updatedAt": "2019-10-27T01:14:19.117Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1126.72,
+        "videoSize": {
+          "mobileLow": 87412,
+          "mobileMid": 87412,
+          "pcLow": 87404,
+          "pcHigh": 87408,
+          "pcMid": 87404
+        },
+        "isGeneratingAudio": true,
+        "audioPersistentId": "z1.0A1E1B437BDA1CF3F55DB4EF6B8D645F",
+        "audioSavedKey": "de37d7ae491a13cdf7eb06cf5aef7520.mp3",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415903e",
+        "createdAt": "2017-02-21T17:35:36.556Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b13c",
+        "order": 4,
+        "hide": false,
+        "name": "销售促进策略",
+        "updatedAt": "2020-05-20T12:38:20.438Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 947.48,
+        "videoSize": {
+          "pcMid": 73464,
+          "pcLow": 73464,
+          "mobileLow": 73464,
+          "mobileMid": 73464,
+          "pcHigh": 73464
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 947.513469,
+        "audioSize": 15160.677,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC524BC0DEE10",
+        "audioSavedKey": "e87c4692eba1fba680fd5b0e4bbe7bb6.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415903f",
+        "createdAt": "2017-02-21T17:35:36.558Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b13c",
+        "order": 5,
+        "hide": false,
+        "name": "公共关系策略",
+        "updatedAt": "2020-05-20T12:38:56.706Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 646.96,
+        "videoSize": {
+          "mobileLow": 50200,
+          "pcMid": 50200,
+          "mobileMid": 50200,
+          "pcHigh": 50200,
+          "pcLow": 50200
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 647.000816,
+        "audioSize": 10352.475,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC524E00E00C0",
+        "audioSavedKey": "371c3c51af6ae078c9b49f742e472a70.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b15e",
+    "createdAt": "2017-02-21T17:35:36.621Z",
+    "courseId": "586d23485f07127674135d32",
+    "order": 16,
+    "hide": false,
+    "name": "市场营销计划",
+    "updatedAt": "2019-10-31T02:44:43.366Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "市场营销计划,市场营销学(市场营销计划)",
+      "description": "万门教育技能进阶课程分类下提供：市场营销学，市场营销计划等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988584！",
+      "title": "市场营销计划，市场营销学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f071276741590b7",
+        "createdAt": "2017-02-21T17:35:36.623Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b15e",
+        "order": 1,
+        "hide": false,
+        "name": "市场营销计划的内容",
+        "updatedAt": "2020-05-20T12:39:30.394Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 676.6,
+        "videoSize": {
+          "pcHigh": 52476,
+          "pcLow": 52476,
+          "pcMid": 52476,
+          "mobileLow": 52476,
+          "mobileMid": 52476
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 676.623673,
+        "audioSize": 10826.44,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC525020E105B",
+        "audioSavedKey": "de6d5fc372e61a278901530c9a371dea.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741590b8",
+        "createdAt": "2017-02-21T17:35:36.626Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b15e",
+        "order": 2,
+        "hide": false,
+        "name": "市场营销预算的确定",
+        "updatedAt": "2020-05-20T12:40:02.099Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 538.12,
+        "videoSize": {
+          "pcLow": 41760,
+          "mobileLow": 41768,
+          "pcMid": 41760,
+          "pcHigh": 41760,
+          "mobileMid": 41768
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 538.148571,
+        "audioSize": 8610.839,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC525220E57FF",
+        "audioSavedKey": "f9d8f13c5cbf75b097e4623cd4d7d06f.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b15f",
+    "createdAt": "2017-02-21T17:35:36.691Z",
+    "courseId": "586d23485f07127674135d32",
+    "order": 17,
+    "hide": false,
+    "name": "市场营销组织",
+    "updatedAt": "2019-10-31T02:44:43.366Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "市场营销组织,市场营销学(市场营销组织)",
+      "description": "万门教育技能进阶课程分类下提供：市场营销学，市场营销组织等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988585！",
+      "title": "市场营销组织，市场营销学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f071276741590b9",
+        "createdAt": "2017-02-21T17:35:36.693Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b15f",
+        "order": 1,
+        "hide": false,
+        "name": "市场营销组织概述",
+        "updatedAt": "2020-05-20T12:40:31.935Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 580.96,
+        "videoSize": {
+          "pcMid": 45076,
+          "mobileMid": 45080,
+          "pcLow": 45076,
+          "pcHigh": 45076,
+          "mobileLow": 45080
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 580.989388,
+        "audioSize": 9296.292,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5253F0E2F6A",
+        "audioSavedKey": "1d3025163905e817e0f39e9d0a8a2f76.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741590ba",
+        "createdAt": "2017-02-21T17:35:36.695Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b15f",
+        "order": 2,
+        "hide": false,
+        "name": "市场营销组织类型",
+        "updatedAt": "2020-05-20T08:47:16.624Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 464.28,
+        "videoSize": {
+          "pcLow": 36056,
+          "mobileMid": 36056,
+          "mobileLow": 36056,
+          "pcMid": 36056,
+          "pcHigh": 36056
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 464.300408,
+        "audioSize": 7429.268,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC4EE94FD4F7C",
+        "audioSavedKey": "4d4085890e7a400e3430637f8c4f0822.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741590bb",
+        "createdAt": "2017-02-21T17:35:36.698Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b15f",
+        "order": 3,
+        "hide": false,
+        "name": "市场营销组织设计",
+        "updatedAt": "2020-05-20T08:55:09.301Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 810.32,
+        "videoSize": {
+          "mobileLow": 62880,
+          "pcHigh": 62880,
+          "pcLow": 62880,
+          "pcMid": 62880,
+          "mobileMid": 62880
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 810.318367,
+        "audioSize": 12965.555,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4F06DFD9AED",
+        "audioSavedKey": "867f7d3a4061d7df9f3520f50fb75001.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b18e",
+    "createdAt": "2017-02-21T17:35:36.760Z",
+    "courseId": "586d23485f07127674135d32",
+    "order": 18,
+    "hide": false,
+    "name": "市场营销执行",
+    "updatedAt": "2019-10-31T02:44:43.366Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "市场营销执行,市场营销学(市场营销执行)",
+      "description": "万门教育技能进阶课程分类下提供：市场营销学，市场营销执行等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988586！",
+      "title": "市场营销执行，市场营销学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f0712767415914f",
+        "createdAt": "2017-02-21T17:35:36.762Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b18e",
+        "order": 1,
+        "hide": false,
+        "name": "市场营销执行过程",
+        "updatedAt": "2020-05-20T09:08:47.985Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 366.84,
+        "videoSize": {
+          "mobileLow": 28488,
+          "pcHigh": 28488,
+          "pcLow": 28488,
+          "mobileMid": 28488,
+          "pcMid": 28488
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 366.837551,
+        "audioSize": 5869.862,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC4F39FFEB763",
+        "audioSavedKey": "ff2401192252d0d0a31564be8b3f8f36.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159150",
+        "createdAt": "2017-02-21T17:35:36.764Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b18e",
+        "order": 2,
+        "hide": false,
+        "name": "市场营销执行中的问题",
+        "updatedAt": "2020-05-20T09:15:01.458Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 593.44,
+        "videoSize": {
+          "mobileLow": 46056,
+          "pcMid": 46052,
+          "pcHigh": 46052,
+          "pcLow": 46052,
+          "mobileMid": 46056
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 593.449796,
+        "audioSize": 9495.658,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4F515FEE5D0",
+        "audioSavedKey": "5687494a445326c36a61da56b4ab062b.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b19b",
+    "createdAt": "2017-02-21T17:35:36.834Z",
+    "courseId": "586d23485f07127674135d32",
+    "order": 19,
+    "hide": false,
+    "name": "市场营销控制",
+    "updatedAt": "2019-10-31T02:44:43.366Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "市场营销控制,市场营销学(市场营销控制)",
+      "description": "万门教育技能进阶课程分类下提供：市场营销学，市场营销控制等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988587！",
+      "title": "市场营销控制，市场营销学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f0712767415917a",
+        "createdAt": "2017-02-21T17:35:36.837Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b19b",
+        "order": 1,
+        "hide": false,
+        "name": "年度计划控制",
+        "updatedAt": "2020-05-20T09:25:04.980Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 473.56,
+        "videoSize": {
+          "mobileLow": 36768,
+          "pcMid": 36768,
+          "pcHigh": 36768,
+          "mobileMid": 36768,
+          "pcLow": 36768
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 473.573878,
+        "audioSize": 7577.644,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4F770FF8875",
+        "audioSavedKey": "c6fa111e19294bd2205ef5599deefe35.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415917b",
+        "createdAt": "2017-02-21T17:35:36.839Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b19b",
+        "order": 2,
+        "hide": false,
+        "name": "盈利能力控制",
+        "updatedAt": "2020-05-20T09:33:06.091Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 394.48,
+        "videoSize": {
+          "mobileLow": 30584,
+          "pcMid": 30584,
+          "mobileMid": 30584,
+          "pcLow": 30584,
+          "pcHigh": 30584
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 394.501224,
+        "audioSize": 6312.481,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4F952000A29",
+        "audioSavedKey": "899d22d1794088b1d376088ae9128ada.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415917c",
+        "createdAt": "2017-02-21T17:35:36.842Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b19b",
+        "order": 3,
+        "hide": false,
+        "name": "营销效率控制",
+        "updatedAt": "2020-05-20T09:39:50.224Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 458.44,
+        "videoSize": {
+          "pcHigh": 35588,
+          "mobileLow": 35588,
+          "pcMid": 35588,
+          "pcLow": 35588,
+          "mobileMid": 35588
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 458.475102,
+        "audioSize": 7336.063,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4FAE6007670",
+        "audioSavedKey": "a684d2164515f8e6b0c4e53e02247b9d.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415917d",
+        "createdAt": "2017-02-21T17:35:36.844Z",
+        "courseId": "586d23485f07127674135d32",
+        "parentId": "586d23555f0712767415b19b",
+        "order": 4,
+        "hide": false,
+        "name": "战略控制及市场营销审计",
+        "updatedAt": "2020-05-20T09:48:01.080Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 355.68,
+        "videoSize": {
+          "mobileLow": 27624,
+          "pcLow": 27624,
+          "pcMid": 27624,
+          "pcHigh": 27624,
+          "mobileMid": 27624
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 355.709388,
+        "audioSize": 5691.812,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4FCD000F836",
+        "audioSavedKey": "deb7c5903e4403fcf5950d73ade62e24.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  }
+]

@@ -20,12 +20,12 @@ def parse_header(path, required=[]):
 
 
 def header_wanmen():
-    header_list = parse_header('../auth_curl/wanmen_lecture.txt', ['authorization', 'x-app', 'x-token', 'x-time', 'authority'])
+    header_list = parse_header('auth_curl/wanmen_lecture.txt', ['authorization', 'x-app', 'x-token', 'x-time', 'authority'])
     header_list.append(('user-agent',
                         'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000'))
     return header_list
 
 
 if __name__ == '__main__':
-    header = parse_header('../auth_curl/wanmen_lecture.txt', ['authorization', 'x-app', 'x-token', 'x-time', 'authority'])
+    header = header_wanmen()
     print(header)

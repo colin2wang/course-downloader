@@ -8,6 +8,7 @@
 
 # Videos
 /video_cache/*
+/video_cache_all/*
 /video_ready/*
 
 
