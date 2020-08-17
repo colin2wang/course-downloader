@@ -1,6 +1,8 @@
 import json
 import os
 import urllib.request
+
+from downloader_wanmen_constants import COURSE_ID
 from utils.auth_utils import header_wanmen
 
 
@@ -19,10 +21,11 @@ def get_course_detail(idx, course_id, filename):
 
 maximum_batch_size = 5
 
-if __name__ == '__main__':
+
+def download_course_lectures(c_id):
     index = 0
     batch_idx = 1
-    with open("site_data/wanmen/course/586d23485f07127674135d32.json", 'r', encoding='utf-8') as f:
+    with open("site_data/wanmen/course/{0}.json".format(c_id), 'r', encoding='utf-8') as f:
         json_obj = json.loads(f.read())
         g_idx = 0
         for group in json_obj:
@@ -46,3 +49,7 @@ if __name__ == '__main__':
                 if index >= maximum_batch_size:
                     index = 0
                     batch_idx += 1
+
+
+if __name__ == '__main__':
+    download_course_lectures(COURSE_ID)

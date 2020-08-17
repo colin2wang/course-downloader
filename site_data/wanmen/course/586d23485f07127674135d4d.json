@@ -1,0 +1,5581 @@
+[
+  {
+    "_id": "586d23555f0712767415b182",
+    "createdAt": "2017-02-21T17:36:13.464Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 1,
+    "hide": false,
+    "name": "预备知识",
+    "updatedAt": "2019-10-31T02:39:18.513Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "预备知识,线性代数(预备知识)",
+      "description": "万门教育大学数学课程分类下提供：线性代数，预备知识等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988081！",
+      "title": "预备知识，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674159124",
+        "createdAt": "2017-02-21T17:36:13.468Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b182",
+        "order": 1,
+        "hide": false,
+        "name": "什么是线性代数",
+        "updatedAt": "2019-09-24T19:15:30.502Z",
+        "actions": {
+          "download": true,
+          "watch": true
+        },
+        "isPreset": true,
+        "videoDuration": 446.56,
+        "videoSize": {
+          "mobileLow": 34904,
+          "pcMid": 34904,
+          "pcLow": 34904,
+          "pcHigh": 34904,
+          "mobileMid": 34904
+        },
+        "audioDuration": 446.6155,
+        "audioSize": 7145.893,
+        "progress": 8,
+        "offset": 8,
+        "seconds": 36,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159125",
+        "createdAt": "2017-02-21T17:36:13.471Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b182",
+        "order": 2,
+        "hide": false,
+        "name": "多项式基础",
+        "updatedAt": "2020-05-20T13:31:29.593Z",
+        "actions": {
+          "download": true,
+          "watch": true
+        },
+        "isPreset": true,
+        "videoDuration": 668.92,
+        "videoSize": {
+          "mobileLow": 51916,
+          "pcHigh": 51916,
+          "pcMid": 51916,
+          "mobileMid": 51916,
+          "pcLow": 51916
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 668.969796,
+        "audioSize": 10703.978,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC53131148BEB",
+        "audioSavedKey": "8171cd26473322487f36ccd7be62150d.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159126",
+        "createdAt": "2017-02-21T17:36:13.473Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b182",
+        "order": 3,
+        "hide": false,
+        "name": "排列与逆序",
+        "updatedAt": "2020-05-20T17:52:58.360Z",
+        "actions": {
+          "download": true,
+          "watch": true
+        },
+        "isPreset": true,
+        "videoDuration": 1255.2,
+        "videoSize": {
+          "mobileLow": 97336,
+          "mobileMid": 97336,
+          "pcMid": 97336,
+          "pcLow": 97336,
+          "pcHigh": 97336
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1255.262041,
+        "audioSize": 20084.654,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC56E7A2BF0C7",
+        "audioSavedKey": "ae2ea5a7b884a07c95b473210597fe72.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159127",
+        "createdAt": "2017-02-21T17:36:13.476Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b182",
+        "order": 4,
+        "hide": false,
+        "name": "连加号",
+        "updatedAt": "2020-05-20T09:28:01.627Z",
+        "actions": {
+          "download": true,
+          "watch": true
+        },
+        "isPreset": true,
+        "videoDuration": 329.2,
+        "videoSize": {
+          "mobileLow": 25576,
+          "pcLow": 25576,
+          "pcMid": 25576,
+          "pcHigh": 25576,
+          "mobileMid": 25576
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 329.247347,
+        "audioSize": 5268.419,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4F821FFB803",
+        "audioSavedKey": "f93907b40ac1e9582f0d917680a6534b.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b19e",
+    "createdAt": "2017-02-21T17:36:13.554Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 2,
+    "hide": false,
+    "name": "行列式",
+    "updatedAt": "2019-10-31T02:39:18.513Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "行列式,线性代数(行列式)",
+      "description": "万门教育大学数学课程分类下提供：线性代数，行列式等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988082！",
+      "title": "行列式，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674159183",
+        "createdAt": "2017-02-21T17:36:13.558Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b19e",
+        "order": 1,
+        "hide": false,
+        "name": "二阶与三阶行列式",
+        "updatedAt": "2020-05-20T14:55:37.738Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 611.48,
+        "videoSize": {
+          "mobileLow": 47428,
+          "pcLow": 47424,
+          "mobileMid": 47428,
+          "pcHigh": 47424,
+          "pcMid": 47424
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 611.526531,
+        "audioSize": 9784.886,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC544E91FC176",
+        "audioSavedKey": "a1ff6b4479701d78e5ce7deaa28f1240.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159184",
+        "createdAt": "2017-02-21T17:36:13.560Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b19e",
+        "order": 2,
+        "hide": false,
+        "name": "n阶行列式的定义",
+        "updatedAt": "2020-05-20T14:55:39.378Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1205.84,
+        "videoSize": {
+          "mobileLow": 93496,
+          "pcHigh": 93496,
+          "pcLow": 93492,
+          "mobileMid": 93496,
+          "pcMid": 93492
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1205.890612,
+        "audioSize": 19294.711,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC544EB1F89F0",
+        "audioSavedKey": "da167b0c6ba5eb1e8cc5d5b14030e3a7.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159185",
+        "createdAt": "2017-02-21T17:36:13.563Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b19e",
+        "order": 3,
+        "hide": false,
+        "name": "用定义计算行列式",
+        "updatedAt": "2020-05-20T14:55:40.173Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 821.08,
+        "videoSize": {
+          "mobileLow": 63700,
+          "pcLow": 63700,
+          "pcMid": 63700,
+          "pcHigh": 63700,
+          "mobileMid": 63700
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 821.106939,
+        "audioSize": 13138.173,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC544EB1FC1AA",
+        "audioSavedKey": "536186ac65c1eeddd260aadd21685152.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b1d3",
+    "createdAt": "2017-02-21T17:36:13.633Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 3,
+    "hide": false,
+    "name": "行列式的性质",
+    "updatedAt": "2019-10-31T02:39:18.513Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "行列式的性质,线性代数(行列式的性质)",
+      "description": "万门教育大学数学课程分类下提供：线性代数，行列式的性质等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988083！",
+      "title": "行列式的性质，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674159243",
+        "createdAt": "2017-02-21T17:36:13.636Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b1d3",
+        "order": 1,
+        "hide": false,
+        "name": "行列式的性质(一)",
+        "updatedAt": "2020-05-21T00:16:18.706Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1491.68,
+        "videoSize": {
+          "mobileLow": 115516,
+          "pcHigh": 115516,
+          "pcLow": 115516,
+          "pcMid": 115516,
+          "mobileMid": 115516
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1491.722449,
+        "audioSize": 23868.021,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5C852328F0D",
+        "audioSavedKey": "b791783cb6aa3c61043192e3055e2cd8.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159244",
+        "createdAt": "2017-02-21T17:36:13.638Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b1d3",
+        "order": 2,
+        "hide": false,
+        "name": "行列式的性质(二)",
+        "updatedAt": "2020-05-21T03:41:44.852Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 405.32,
+        "videoSize": {
+          "mobileLow": 31404,
+          "pcLow": 31404,
+          "pcHigh": 31404,
+          "mobileMid": 31404,
+          "pcMid": 31404
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 405.394286,
+        "audioSize": 6486.77,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5F8783E6552",
+        "audioSavedKey": "42b46019f6562cc5d5351924e418fc8f.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159245",
+        "createdAt": "2017-02-21T17:36:13.640Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b1d3",
+        "order": 3,
+        "hide": false,
+        "name": "用行列式的性质进行计算",
+        "updatedAt": "2020-05-21T07:40:35.195Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 776.6,
+        "videoSize": {
+          "mobileLow": 60188,
+          "pcLow": 60188,
+          "pcMid": 60188,
+          "pcHigh": 60188,
+          "mobileMid": 60188
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 776.646531,
+        "audioSize": 12426.806,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC630734BB8DB",
+        "audioSavedKey": "42040055334d51ec76b5f1db4f23600c.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b1e1",
+    "createdAt": "2017-02-21T17:36:13.709Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 4,
+    "hide": false,
+    "name": "行列式按行(列)展开",
+    "updatedAt": "2019-10-31T02:39:18.513Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "行列式按行(列)展开,线性代数(行列式按行(列)展开)",
+      "description": "万门教育大学数学课程分类下提供：线性代数，行列式按行(列)展开等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988084！",
+      "title": "行列式按行(列)展开，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674159277",
+        "createdAt": "2017-02-21T17:36:13.711Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b1e1",
+        "order": 1,
+        "hide": false,
+        "name": "代数余子式",
+        "updatedAt": "2020-05-21T08:02:31.857Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 496.12,
+        "videoSize": {
+          "mobileLow": 38596,
+          "mobileMid": 38596,
+          "pcLow": 38592,
+          "pcHigh": 38592,
+          "pcMid": 38592
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 496.169796,
+        "audioSize": 7939.178,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC635974D62CE",
+        "audioSavedKey": "aed0c3acb78ae18c86f3534f115a3d41.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159278",
+        "createdAt": "2017-02-21T17:36:13.714Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b1e1",
+        "order": 2,
+        "hide": false,
+        "name": "行列式按一行(列)的展开",
+        "updatedAt": "2020-05-21T19:13:57.338Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1560.04,
+        "videoSize": {
+          "mobileLow": 121248,
+          "pcHigh": 121240,
+          "pcLow": 121248,
+          "mobileMid": 121248,
+          "pcMid": 121248
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1560.084898,
+        "audioSize": 24961.82,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC6D2F5806FCE",
+        "audioSavedKey": "82d24537f8c9e95401894992772dc5ce.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159279",
+        "createdAt": "2017-02-21T17:36:13.716Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b1e1",
+        "order": 3,
+        "hide": false,
+        "name": "范德蒙行列式",
+        "updatedAt": "2020-05-21T19:34:35.636Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1151.24,
+        "videoSize": {
+          "mobileLow": 89288,
+          "pcLow": 89284,
+          "pcHigh": 89284,
+          "pcMid": 89284,
+          "mobileMid": 89288
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1151.294694,
+        "audioSize": 18421.177,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC6D7CB80BFDB",
+        "audioSavedKey": "2a30d48ee1899914761b5925332ccd42.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415927a",
+        "createdAt": "2017-02-21T17:36:13.718Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b1e1",
+        "order": 4,
+        "hide": false,
+        "name": "行列式按多行(列)的展开",
+        "updatedAt": "2020-05-20T11:44:03.742Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 693.48,
+        "videoSize": {
+          "mobileLow": 53784,
+          "pcLow": 53784,
+          "mobileMid": 53784,
+          "pcHigh": 53784,
+          "pcMid": 53784
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 693.524898,
+        "audioSize": 11096.86,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5180308BCAA",
+        "audioSavedKey": "8295b1db84f0f570fc341ce482060bea.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b286",
+    "createdAt": "2017-02-21T17:36:13.788Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 5,
+    "hide": false,
+    "name": "行列式的计算",
+    "updatedAt": "2019-10-31T02:39:18.513Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "行列式的计算,线性代数(行列式的计算)",
+      "description": "万门教育大学数学课程分类下提供：线性代数，行列式的计算等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988085！",
+      "title": "行列式的计算，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f0712767415949a",
+        "createdAt": "2017-02-21T17:36:13.792Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b286",
+        "order": 1,
+        "hide": false,
+        "name": "基本篇",
+        "updatedAt": "2020-05-20T15:21:47.547Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1389,
+        "videoSize": {
+          "mobileLow": 108464,
+          "pcHigh": 108464,
+          "pcLow": 108464,
+          "pcMid": 108464,
+          "mobileMid": 108464
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1389.061224,
+        "audioSize": 22225.441,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC54B0B22838F",
+        "audioSavedKey": "ee0bd4fa7792b988d094e484a4e797a1.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415949b",
+        "createdAt": "2017-02-21T17:36:13.795Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b286",
+        "order": 2,
+        "hide": false,
+        "name": "技巧篇I—利用行列式性质",
+        "updatedAt": "2020-05-20T13:03:56.722Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1334.52,
+        "videoSize": {
+          "mobileLow": 104372,
+          "pcLow": 104372,
+          "pcHigh": 104372,
+          "pcMid": 104372,
+          "mobileMid": 104372
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1334.569796,
+        "audioSize": 21353.578,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC52ABC1107DD",
+        "audioSavedKey": "48c64a19bb775cafa6b0a87014e1d5bf.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415949c",
+        "createdAt": "2017-02-21T17:36:13.798Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b286",
+        "order": 3,
+        "hide": false,
+        "name": "技巧篇II—利用行列式的展开",
+        "updatedAt": "2020-05-20T10:03:20.313Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 847.24,
+        "videoSize": {
+          "mobileLow": 66224,
+          "pcLow": 66224,
+          "mobileMid": 66224,
+          "pcHigh": 66224,
+          "pcMid": 66224
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 847.307755,
+        "audioSize": 13557.386,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5006801E4D4",
+        "audioSavedKey": "96f1a896916d851677d5e36315a50b05.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415949d",
+        "createdAt": "2017-02-21T17:36:13.800Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b286",
+        "order": 4,
+        "hide": false,
+        "name": "提高篇",
+        "updatedAt": "2020-05-20T10:03:34.719Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1496.4,
+        "videoSize": {
+          "mobileLow": 117044,
+          "pcLow": 117044,
+          "mobileMid": 117044,
+          "pcHigh": 117044,
+          "pcMid": 117044
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1496.450612,
+        "audioSize": 23943.671,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC50076022043",
+        "audioSavedKey": "9f3c873b82a6fc04fa4d77a7e5d17adb.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b29a",
+    "createdAt": "2017-02-21T17:36:13.870Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 6,
+    "hide": false,
+    "name": "克莱姆法则",
+    "updatedAt": "2019-10-31T02:39:18.513Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "克莱姆法则,线性代数(克莱姆法则)",
+      "description": "万门教育大学数学课程分类下提供：线性代数，克莱姆法则等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988086！",
+      "title": "克莱姆法则，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f071276741594d5",
+        "createdAt": "2017-02-21T17:36:13.873Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b29a",
+        "order": 1,
+        "hide": false,
+        "name": "二元和三元线性方程组",
+        "updatedAt": "2020-05-20T10:18:30.024Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 719.52,
+        "videoSize": {
+          "mobileLow": 55704,
+          "pcHigh": 55700,
+          "pcLow": 55704,
+          "pcMid": 55704,
+          "mobileMid": 55704
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 719.56898,
+        "audioSize": 11513.565,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC503F50305D2",
+        "audioSavedKey": "e846cf21f6fbff4b1ad9b2eb9123926a.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741594d6",
+        "createdAt": "2017-02-21T17:36:13.876Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b29a",
+        "order": 2,
+        "hide": false,
+        "name": "克莱姆法则",
+        "updatedAt": "2020-05-20T10:31:45.273Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 915.36,
+        "videoSize": {
+          "mobileLow": 70988,
+          "pcLow": 70988,
+          "mobileMid": 70988,
+          "pcHigh": 70988,
+          "pcMid": 70988
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 915.40898,
+        "audioSize": 14647.005,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC507110398C4",
+        "audioSavedKey": "830f45f537850a161f5ad09535f8a9c9.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741594d7",
+        "createdAt": "2017-02-21T17:36:13.878Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b29a",
+        "order": 3,
+        "hide": false,
+        "name": "法则用于计算",
+        "updatedAt": "2020-05-20T10:47:29.002Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 399.6,
+        "videoSize": {
+          "mobileLow": 31020,
+          "pcMid": 31020,
+          "pcHigh": 31020,
+          "mobileMid": 31020,
+          "pcLow": 31020
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 399.647347,
+        "audioSize": 6394.819,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC50AC004917D",
+        "audioSavedKey": "f7c3a3a183f06298500abf5f6484203f.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741594d8",
+        "createdAt": "2017-02-21T17:36:13.881Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b29a",
+        "order": 4,
+        "hide": false,
+        "name": "法则的理论意义",
+        "updatedAt": "2020-05-20T10:59:47.909Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 823.52,
+        "videoSize": {
+          "mobileLow": 63688,
+          "pcMid": 63688,
+          "mobileMid": 63688,
+          "pcLow": 63688,
+          "pcHigh": 63688
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 823.588571,
+        "audioSize": 13177.879,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC50DA3058E63",
+        "audioSavedKey": "28b33cafcb9cfbf8bdf81a90686c1fdb.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b2b3",
+    "createdAt": "2017-02-21T17:36:13.954Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 7,
+    "hide": false,
+    "name": "矩阵",
+    "updatedAt": "2019-10-31T02:39:18.513Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "矩阵,线性代数(矩阵)",
+      "description": "万门教育大学数学课程分类下提供：线性代数，矩阵等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988087！",
+      "title": "矩阵，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674159524",
+        "createdAt": "2017-02-21T17:36:13.957Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2b3",
+        "order": 1,
+        "hide": false,
+        "name": "矩阵的概念",
+        "updatedAt": "2020-05-20T11:15:33.103Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 566.08,
+        "videoSize": {
+          "mobileLow": 43936,
+          "pcLow": 43932,
+          "mobileMid": 43936,
+          "pcHigh": 43932,
+          "pcMid": 43932
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 566.151837,
+        "audioSize": 9058.891,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC51155069908",
+        "audioSavedKey": "dfedcb6ed6a3888bf1404539b4b8a919.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159525",
+        "createdAt": "2017-02-21T17:36:13.959Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2b3",
+        "order": 2,
+        "hide": false,
+        "name": "矩阵的线性运算",
+        "updatedAt": "2020-05-20T11:29:31.776Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 989.56,
+        "videoSize": {
+          "mobileLow": 76736,
+          "mobileMid": 76736,
+          "pcHigh": 76736,
+          "pcMid": 76736,
+          "pcLow": 76736
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 989.622857,
+        "audioSize": 15834.427,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5149B0798D9",
+        "audioSavedKey": "1f8bd950b4e1d7ea5b7eee7f80f3943a.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159526",
+        "createdAt": "2017-02-21T17:36:13.961Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2b3",
+        "order": 3,
+        "hide": false,
+        "name": "线性空间",
+        "updatedAt": "2019-10-27T19:08:10.152Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 787,
+        "videoSize": {
+          "mobileLow": 61052,
+          "mobileMid": 61052,
+          "pcLow": 61052,
+          "pcMid": 61052,
+          "pcHigh": 61052
+        },
+        "isGeneratingAudio": true,
+        "audioPersistentId": "z1.0A1E1B437BDA1CF3F55DB5EB1ACCD519",
+        "audioSavedKey": "63a7c355fc44ff22c2f1b42525c72065.mp3",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b2bb",
+    "createdAt": "2017-02-21T17:36:14.025Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 8,
+    "hide": false,
+    "name": "矩阵乘法",
+    "updatedAt": "2019-10-31T02:39:18.513Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "矩阵乘法,线性代数(矩阵乘法)",
+      "description": "万门教育大学数学课程分类下提供：线性代数，矩阵乘法等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988088！",
+      "title": "矩阵乘法，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f0712767415953e",
+        "createdAt": "2017-02-21T17:36:14.028Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2bb",
+        "order": 1,
+        "hide": false,
+        "name": " 矩阵乘法的定义",
+        "updatedAt": "2020-05-21T07:14:31.659Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1251.96,
+        "videoSize": {
+          "mobileLow": 96996,
+          "pcHigh": 96996,
+          "pcLow": 96996,
+          "pcMid": 96996,
+          "mobileMid": 96996
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1252.022857,
+        "audioSize": 20032.827,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC62A574A4A42",
+        "audioSavedKey": "2606addc0b2668bbfe385b9e5b0d8260.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415953f",
+        "createdAt": "2017-02-21T17:36:14.030Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2bb",
+        "order": 2,
+        "hide": false,
+        "name": "矩阵乘法的性质（一）",
+        "updatedAt": "2020-05-20T15:25:04.603Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 522.2,
+        "videoSize": {
+          "mobileLow": 40464,
+          "mobileMid": 40464,
+          "pcHigh": 40460,
+          "pcLow": 40460,
+          "pcMid": 40460
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 522.266122,
+        "audioSize": 8356.719,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC54BD0231450",
+        "audioSavedKey": "61a294e1fee306b36be5d73a48821999.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159540",
+        "createdAt": "2017-02-21T17:36:14.033Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2bb",
+        "order": 3,
+        "hide": false,
+        "name": "矩阵乘法的性质（二）",
+        "updatedAt": "2020-05-21T02:41:02.253Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 800.24,
+        "videoSize": {
+          "mobileLow": 62048,
+          "mobileMid": 62048,
+          "pcMid": 62048,
+          "pcLow": 62048,
+          "pcHigh": 62048
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 800.287347,
+        "audioSize": 12805.059,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5EA3E3A92D7",
+        "audioSavedKey": "3c2e35d6e2eb42f00c8c5fc8c0154da6.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159541",
+        "createdAt": "2017-02-21T17:36:14.035Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2bb",
+        "order": 4,
+        "hide": false,
+        "name": "矩阵乘法的性质（三）",
+        "updatedAt": "2020-05-21T02:57:48.173Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 347.96,
+        "videoSize": {
+          "mobileLow": 26984,
+          "mobileMid": 26984,
+          "pcLow": 26984,
+          "pcMid": 26984,
+          "pcHigh": 26984
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 348.003265,
+        "audioSize": 5568.514,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5EE2C3BB836",
+        "audioSavedKey": "11f0416539d187fa4bb647de1b4373ce.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159542",
+        "createdAt": "2017-02-21T17:36:14.037Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2bb",
+        "order": 5,
+        "hide": false,
+        "name": "矩阵的其他运算（一）",
+        "updatedAt": "2019-10-28T23:55:26.543Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 993.12,
+        "videoSize": {
+          "pcHigh": 77076,
+          "mobileLow": 77076,
+          "pcMid": 77076,
+          "pcLow": 77076,
+          "mobileMid": 77076
+        },
+        "isGeneratingAudio": true,
+        "audioPersistentId": "z1.0A1E1B437BDA1CF3F55DB77FEE0CA526",
+        "audioSavedKey": "e216d84cf81f4f297f66e046ce6020c7.mp3",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159543",
+        "createdAt": "2017-02-21T17:36:14.040Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2bb",
+        "order": 6,
+        "hide": false,
+        "name": "矩阵的其他运算（二）",
+        "updatedAt": "2020-05-21T02:33:26.453Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1041,
+        "videoSize": {
+          "pcHigh": 80892,
+          "mobileMid": 80892,
+          "pcMid": 80892,
+          "pcLow": 80892,
+          "mobileLow": 80892
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1041.057959,
+        "audioSize": 16657.389,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5E8763A11D1",
+        "audioSavedKey": "9fa9206ffa1fac40dde802289f2002de.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b2c9",
+    "createdAt": "2017-02-21T17:36:14.103Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 9,
+    "hide": false,
+    "name": " 特殊矩阵",
+    "updatedAt": "2019-10-31T02:39:18.513Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": " 特殊矩阵,线性代数( 特殊矩阵)",
+      "description": "万门教育大学数学课程分类下提供：线性代数， 特殊矩阵等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988089！",
+      "title": " 特殊矩阵，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674159572",
+        "createdAt": "2017-02-21T17:36:14.105Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2c9",
+        "order": 1,
+        "hide": false,
+        "name": " 对角矩阵",
+        "updatedAt": "2019-10-27T01:11:35.372Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 842.08,
+        "videoSize": {
+          "mobileLow": 65152,
+          "mobileMid": 65152,
+          "pcMid": 65152,
+          "pcHigh": 65152,
+          "pcLow": 65152
+        },
+        "isGeneratingAudio": true,
+        "audioPersistentId": "z1.0A1E1B437BDA1CF3F55DB4EEC78D4F26",
+        "audioSavedKey": "32d506a189c54ce90e63f425c799602d.mp3",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159573",
+        "createdAt": "2017-02-21T17:36:14.109Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2c9",
+        "order": 2,
+        "hide": false,
+        "name": "三角形矩阵",
+        "updatedAt": "2020-05-21T03:03:05.800Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 674.48,
+        "videoSize": {
+          "mobileLow": 52300,
+          "mobileMid": 52300,
+          "pcMid": 52300,
+          "pcLow": 52300,
+          "pcHigh": 52300
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 674.533878,
+        "audioSize": 10793.004,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5EF693C1488",
+        "audioSavedKey": "cfa4582fcf6ec7df7e10aa54d479bd16.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159574",
+        "createdAt": "2017-02-21T17:36:14.112Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2c9",
+        "order": 3,
+        "hide": false,
+        "name": " 对称矩阵",
+        "updatedAt": "2020-05-21T03:29:22.083Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 856.08,
+        "videoSize": {
+          "mobileLow": 66376,
+          "pcHigh": 66376,
+          "pcLow": 66376,
+          "pcMid": 66376,
+          "mobileMid": 66376
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 856.137143,
+        "audioSize": 13698.656,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5F5923DD116",
+        "audioSavedKey": "d18210afc6751b13af231d77f9710eea.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b2ca",
+    "createdAt": "2017-02-21T17:36:14.181Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 10,
+    "hide": false,
+    "name": "矩阵的逆",
+    "updatedAt": "2019-10-31T02:39:18.513Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "矩阵的逆,线性代数(矩阵的逆)",
+      "description": "万门教育大学数学课程分类下提供：线性代数，矩阵的逆等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988090！",
+      "title": "矩阵的逆，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674159575",
+        "createdAt": "2017-02-21T17:36:14.183Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2ca",
+        "order": 1,
+        "hide": false,
+        "name": "逆矩阵的概念",
+        "updatedAt": "2020-05-21T03:43:40.540Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 866.4,
+        "videoSize": {
+          "mobileLow": 67108,
+          "mobileMid": 67108,
+          "pcMid": 67108,
+          "pcLow": 67108,
+          "pcHigh": 67108
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 866.45551,
+        "audioSize": 13863.75,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5F8EC3E8416",
+        "audioSavedKey": "5020eb79f39a33428ef53d9364d1d2bd.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159576",
+        "createdAt": "2017-02-21T17:36:14.186Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2ca",
+        "order": 2,
+        "hide": false,
+        "name": "用伴随矩阵求逆（一）",
+        "updatedAt": "2020-05-20T23:24:35.069Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1035.8,
+        "videoSize": {
+          "mobileLow": 80348,
+          "mobileMid": 80348,
+          "pcMid": 80348,
+          "pcLow": 80348,
+          "pcHigh": 80352
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1035.859592,
+        "audioSize": 16574.215,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5BC33315564",
+        "audioSavedKey": "c20459b4193f91c33424505768e9095e.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159577",
+        "createdAt": "2017-02-21T17:36:14.188Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2ca",
+        "order": 3,
+        "hide": false,
+        "name": "用伴随矩阵求逆（二）",
+        "updatedAt": "2020-05-20T23:25:32.144Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 919.08,
+        "videoSize": {
+          "mobileLow": 71168,
+          "pcMid": 71168,
+          "mobileMid": 71168,
+          "pcHigh": 71168,
+          "pcLow": 71168
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 919.118367,
+        "audioSize": 14706.355,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5BC6C315B35",
+        "audioSavedKey": "1d738808b74dec54f7aa14b539e597e6.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159578",
+        "createdAt": "2017-02-21T17:36:14.191Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2ca",
+        "order": 4,
+        "hide": false,
+        "name": "逆矩阵的性质",
+        "updatedAt": "2020-05-20T23:41:32.799Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 740.36,
+        "videoSize": {
+          "mobileLow": 57480,
+          "pcHigh": 57480,
+          "mobileMid": 57480,
+          "pcLow": 57480,
+          "pcMid": 57480
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 740.440816,
+        "audioSize": 11847.515,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5C02C318B79",
+        "audioSavedKey": "f5ed8b6e483da767de1e40164dc02a0a.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159579",
+        "createdAt": "2017-02-21T17:36:14.193Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2ca",
+        "order": 5,
+        "hide": false,
+        "name": " 伴随矩阵的性质（一）",
+        "updatedAt": "2020-05-20T23:53:41.004Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 643.52,
+        "videoSize": {
+          "pcHigh": 50032,
+          "mobileMid": 50032,
+          "pcLow": 50032,
+          "pcMid": 50032,
+          "mobileLow": 50032
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 643.578776,
+        "audioSize": 10297.722,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5C30431DF1A",
+        "audioSavedKey": "a9a8b4ed11db3cde60563915e19c2cbe.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415957a",
+        "createdAt": "2017-02-21T17:36:14.195Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2ca",
+        "order": 6,
+        "hide": false,
+        "name": "伴随矩阵的性质（二）",
+        "updatedAt": "2020-05-21T00:04:15.188Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 714.32,
+        "videoSize": {
+          "pcMid": 55368,
+          "pcHigh": 55368,
+          "mobileMid": 55368,
+          "pcLow": 55368,
+          "mobileLow": 55368
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 714.370612,
+        "audioSize": 11430.391,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5C57F322D7F",
+        "audioSavedKey": "c78cadab126ce7b643ae79cf0a313394.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b2cb",
+    "createdAt": "2017-02-21T17:36:14.261Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 11,
+    "hide": false,
+    "name": "分块矩阵",
+    "updatedAt": "2019-10-31T02:39:18.513Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "分块矩阵,线性代数(分块矩阵)",
+      "description": "万门教育大学数学课程分类下提供：线性代数，分块矩阵等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988091！",
+      "title": "分块矩阵，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f0712767415957b",
+        "createdAt": "2017-02-21T17:36:14.265Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2cb",
+        "order": 1,
+        "hide": false,
+        "name": " 矩阵的分块",
+        "updatedAt": "2020-05-21T23:17:42.651Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 510,
+        "videoSize": {
+          "mobileLow": 39564,
+          "mobileMid": 39564,
+          "pcMid": 39560,
+          "pcHigh": 39560,
+          "pcLow": 39560
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 510.040816,
+        "audioSize": 8161.115,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC70C16845AAC",
+        "audioSavedKey": "d7d58d76729a520536bc5600e0417c6e.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415957c",
+        "createdAt": "2017-02-21T17:36:14.267Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2cb",
+        "order": 2,
+        "hide": false,
+        "name": "分块矩阵的乘法",
+        "updatedAt": "2020-05-21T23:26:00.788Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 908.88,
+        "videoSize": {
+          "mobileLow": 70404,
+          "pcHigh": 70408,
+          "pcMid": 70404,
+          "pcLow": 70404,
+          "mobileMid": 70404
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 908.930612,
+        "audioSize": 14543.351,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC70E08848FBB",
+        "audioSavedKey": "ce2b04e9139fb4182aae3e52e1bc88f4.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415957d",
+        "createdAt": "2017-02-21T17:36:14.270Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2cb",
+        "order": 3,
+        "hide": false,
+        "name": "分块矩阵的行列式",
+        "updatedAt": "2020-05-21T23:40:57.913Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 803,
+        "videoSize": {
+          "mobileLow": 62236,
+          "pcMid": 62236,
+          "pcHigh": 62236,
+          "pcLow": 62236,
+          "mobileMid": 62236
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 803.056327,
+        "audioSize": 12849.363,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC7118984C2FD",
+        "audioSavedKey": "2cdd43faba7528c4aef6b02aa43611d7.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b2e5",
+    "createdAt": "2017-02-21T17:36:14.348Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 12,
+    "hide": false,
+    "name": " 矩阵的初等变换",
+    "updatedAt": "2019-10-31T02:39:18.513Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": " 矩阵的初等变换,线性代数( 矩阵的初等变换)",
+      "description": "万门教育大学数学课程分类下提供：线性代数， 矩阵的初等变换等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988092！",
+      "title": " 矩阵的初等变换，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f071276741595d4",
+        "createdAt": "2017-02-21T17:36:14.350Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2e5",
+        "order": 1,
+        "hide": false,
+        "name": "初等变换",
+        "updatedAt": "2020-05-21T02:28:27.608Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 323,
+        "videoSize": {
+          "mobileLow": 25020,
+          "pcHigh": 25024,
+          "pcLow": 25020,
+          "mobileMid": 25020,
+          "pcMid": 25020
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 323.056327,
+        "audioSize": 5169.363,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5E74B39866E",
+        "audioSavedKey": "23f10e130b3abe8ccbef8f3d93accba7.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741595d5",
+        "createdAt": "2017-02-21T17:36:14.353Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2e5",
+        "order": 2,
+        "hide": false,
+        "name": "初等矩阵",
+        "updatedAt": "2020-05-21T02:30:03.859Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1336.12,
+        "videoSize": {
+          "mobileLow": 103452,
+          "mobileMid": 103452,
+          "pcMid": 103452,
+          "pcLow": 103452,
+          "pcHigh": 103452
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1336.189388,
+        "audioSize": 21379.492,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5E7AB39A133",
+        "audioSavedKey": "bd90940321ac270bef8ab02dc3246abb.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741595d6",
+        "createdAt": "2017-02-21T17:36:14.356Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2e5",
+        "order": 3,
+        "hide": false,
+        "name": "矩阵等价（一）",
+        "updatedAt": "2020-05-21T03:22:56.321Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 600.96,
+        "videoSize": {
+          "mobileLow": 46680,
+          "pcLow": 46676,
+          "mobileMid": 46680,
+          "pcHigh": 46676,
+          "pcMid": 46676
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 601.025306,
+        "audioSize": 9616.866,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5F4103D300E",
+        "audioSavedKey": "5d2bb38416ebce1041e22873ddae4b48.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741595d7",
+        "createdAt": "2017-02-21T17:36:14.358Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2e5",
+        "order": 4,
+        "hide": false,
+        "name": "矩阵等价（二）",
+        "updatedAt": "2020-05-21T03:51:55.493Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 616.48,
+        "videoSize": {
+          "mobileLow": 47868,
+          "pcMid": 47864,
+          "pcLow": 47864,
+          "mobileMid": 47868,
+          "pcHigh": 47864
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 616.542041,
+        "audioSize": 9865.134,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5FADB3F0384",
+        "audioSavedKey": "6a6d60cd10a11e5451809bb1906a4912.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741595de",
+        "createdAt": "2017-02-21T17:36:14.361Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2e5",
+        "order": 5,
+        "hide": false,
+        "name": " 关于初等变换的重要定理",
+        "updatedAt": "2020-05-21T03:04:52.813Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 595.2,
+        "videoSize": {
+          "mobileMid": 46200,
+          "pcHigh": 46196,
+          "pcLow": 46196,
+          "pcMid": 46196,
+          "mobileLow": 46200
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 595.252245,
+        "audioSize": 9524.497,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5EFD43BFB20",
+        "audioSavedKey": "713238661ce6dab2149a68798a13a737.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741595df",
+        "createdAt": "2017-02-21T17:36:14.363Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2e5",
+        "order": 6,
+        "hide": false,
+        "name": " 用初等变换求逆",
+        "updatedAt": "2020-05-20T14:42:04.825Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 638.52,
+        "videoSize": {
+          "mobileLow": 49532,
+          "pcHigh": 49532,
+          "pcMid": 49532,
+          "mobileMid": 49532,
+          "pcLow": 49532
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 638.589388,
+        "audioSize": 10217.892,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC541BC1DE0AD",
+        "audioSavedKey": "417f98d042b9b1221e7dc3995e675914.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b2e6",
+    "createdAt": "2017-02-21T17:36:14.436Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 13,
+    "hide": false,
+    "name": "矩阵的秩",
+    "updatedAt": "2019-10-31T02:39:18.514Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "矩阵的秩,线性代数(矩阵的秩)",
+      "description": "万门教育大学数学课程分类下提供：线性代数，矩阵的秩等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988093！",
+      "title": "矩阵的秩，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f071276741595d8",
+        "createdAt": "2017-02-21T17:36:14.440Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2e6",
+        "order": 1,
+        "hide": false,
+        "name": "秩的概念（一）",
+        "updatedAt": "2020-05-20T12:07:31.727Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 675,
+        "videoSize": {
+          "mobileLow": 52292,
+          "pcLow": 52292,
+          "pcMid": 52292,
+          "pcHigh": 52288,
+          "mobileMid": 52292
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 675.056327,
+        "audioSize": 10801.363,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC51D830AA064",
+        "audioSavedKey": "7046dc84c68818dc21f39358bc9b9488.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741595d9",
+        "createdAt": "2017-02-21T17:36:14.443Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2e6",
+        "order": 2,
+        "hide": false,
+        "name": " 秩的概念（二）",
+        "updatedAt": "2020-05-21T21:31:34.771Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 380.6,
+        "videoSize": {
+          "mobileLow": 29524,
+          "mobileMid": 29524,
+          "pcHigh": 29524,
+          "pcLow": 29524,
+          "pcMid": 29524
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 380.656327,
+        "audioSize": 6090.963,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC6F3368272A5",
+        "audioSavedKey": "672b1f2b9aa7f024028f4789c1ca2690.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741595da",
+        "createdAt": "2017-02-21T17:36:14.447Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2e6",
+        "order": 3,
+        "hide": false,
+        "name": "秩的性质",
+        "updatedAt": "2020-05-21T21:31:47.792Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 822.52,
+        "videoSize": {
+          "mobileLow": 63708,
+          "mobileMid": 63708,
+          "pcHigh": 63708,
+          "pcMid": 63708,
+          "pcLow": 63708
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 822.569796,
+        "audioSize": 13161.578,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC6F343827349",
+        "audioSavedKey": "3b3b944f5ae7005a9f3a4cfd257a99c6.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741595db",
+        "createdAt": "2017-02-21T17:36:14.449Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2e6",
+        "order": 4,
+        "hide": false,
+        "name": "化阶梯形求秩（一）",
+        "updatedAt": "2020-05-20T09:11:55.698Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 644.36,
+        "videoSize": {
+          "mobileLow": 49952,
+          "pcHigh": 49952,
+          "pcLow": 49952,
+          "mobileMid": 49952,
+          "pcMid": 49952
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 644.414694,
+        "audioSize": 10311.097,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4F45BFEB43B",
+        "audioSavedKey": "7dc7259a8ab788a6873fe11768398392.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741595dc",
+        "createdAt": "2017-02-21T17:36:14.452Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2e6",
+        "order": 5,
+        "hide": false,
+        "name": " 化阶梯形求秩（二）",
+        "updatedAt": "2020-05-20T09:22:49.458Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 526.76,
+        "videoSize": {
+          "mobileLow": 40808,
+          "pcLow": 40804,
+          "mobileMid": 40808,
+          "pcMid": 40804,
+          "pcHigh": 40808
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 526.811429,
+        "audioSize": 8429.444,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4F6E9FF63F1",
+        "audioSavedKey": "eab33cba2a562e28c4fa314a7b9f8ede.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741595dd",
+        "createdAt": "2017-02-21T17:36:14.454Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2e6",
+        "order": 6,
+        "hide": false,
+        "name": "化阶梯形求秩（三）",
+        "updatedAt": "2020-05-20T09:36:58.448Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 500.72,
+        "videoSize": {
+          "pcLow": 38796,
+          "pcHigh": 38796,
+          "mobileLow": 38800,
+          "pcMid": 38796,
+          "mobileMid": 38800
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 500.741224,
+        "audioSize": 8012.321,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC4FA3A008040",
+        "audioSavedKey": "d88ccb725edfbb7ff173b5ecc97f1784.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b2f8",
+    "createdAt": "2017-02-21T17:36:14.520Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 14,
+    "hide": false,
+    "name": "线性方程组",
+    "updatedAt": "2019-10-31T02:39:18.514Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "线性方程组,线性代数(线性方程组)",
+      "description": "万门教育大学数学课程分类下提供：线性代数，线性方程组等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988094！",
+      "title": "线性方程组，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f0712767415961b",
+        "createdAt": "2017-02-21T17:36:14.524Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2f8",
+        "order": 1,
+        "hide": false,
+        "name": "消元解法（一）",
+        "updatedAt": "2019-09-24T19:28:46.447Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 683.2,
+        "videoSize": {
+          "mobileLow": 52912,
+          "mobileMid": 52912,
+          "pcHigh": 52912,
+          "pcMid": 52912,
+          "pcLow": 52912
+        },
+        "audioDuration": 683.232625,
+        "audioSize": 10931.767,
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415961c",
+        "createdAt": "2017-02-21T17:36:14.527Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2f8",
+        "order": 2,
+        "hide": false,
+        "name": "消元解法（二）",
+        "updatedAt": "2019-09-24T19:33:38.934Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 354.32,
+        "videoSize": {
+          "mobileLow": 27480,
+          "mobileMid": 27480,
+          "pcLow": 27480,
+          "pcMid": 27480,
+          "pcHigh": 27480
+        },
+        "audioDuration": 354.377125,
+        "audioSize": 5670.079,
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415961d",
+        "createdAt": "2017-02-21T17:36:14.529Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2f8",
+        "order": 3,
+        "hide": false,
+        "name": "解的情况（一）",
+        "updatedAt": "2019-10-27T21:00:08.534Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 602.08,
+        "videoSize": {
+          "mobileLow": 46576,
+          "pcLow": 46572,
+          "mobileMid": 46576,
+          "pcMid": 46572,
+          "pcHigh": 46572
+        },
+        "isGeneratingAudio": true,
+        "audioPersistentId": "z1.0A1E1B437BDA1CF3F55DB60558CE1313",
+        "audioSavedKey": "8d3c5a4dd1e5f02e9f9fca12a3b596d9.mp3",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415961e",
+        "createdAt": "2017-02-21T17:36:14.531Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2f8",
+        "order": 4,
+        "hide": false,
+        "name": "解的情况（二）",
+        "updatedAt": "2020-05-20T12:09:11.715Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 428.36,
+        "videoSize": {
+          "mobileLow": 33204,
+          "pcLow": 33204,
+          "pcHigh": 33204,
+          "mobileMid": 33204,
+          "pcMid": 33204
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 428.434286,
+        "audioSize": 6855.41,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC51DE70B02B1",
+        "audioSavedKey": "9458bc3411552bd86189f7699c8615d4.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415961f",
+        "createdAt": "2017-02-21T17:36:14.534Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b2f8",
+        "order": 5,
+        "hide": false,
+        "name": "解的情况（三）",
+        "updatedAt": "2020-05-21T01:36:25.964Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 558.28,
+        "videoSize": {
+          "mobileMid": 43296,
+          "pcLow": 43288,
+          "pcMid": 43288,
+          "pcHigh": 43292,
+          "mobileLow": 43296
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 558.341224,
+        "audioSize": 8933.921,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5DB19366FBD",
+        "audioSavedKey": "a96a2ae8bdc48c49eae8661d727e95fb.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b31c",
+    "createdAt": "2017-02-21T17:36:14.772Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 15,
+    "hide": false,
+    "name": "向量",
+    "updatedAt": "2019-10-31T02:39:18.514Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "向量,线性代数(向量)",
+      "description": "万门教育大学数学课程分类下提供：线性代数，向量等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988097！",
+      "title": "向量，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f0712767415969b",
+        "createdAt": "2017-02-21T17:36:14.775Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b31c",
+        "order": 1,
+        "hide": false,
+        "name": "向量及其线性运算（一）",
+        "updatedAt": "2020-05-20T14:31:24.471Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 696.4,
+        "videoSize": {
+          "mobileLow": 53880,
+          "mobileMid": 53880,
+          "pcHigh": 53884,
+          "pcLow": 53880,
+          "pcMid": 53880
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 696.450612,
+        "audioSize": 11143.671,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC53F3C1CBE8C",
+        "audioSavedKey": "f478f95cbc0bf6158678c24d955387eb.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415969c",
+        "createdAt": "2017-02-21T17:36:14.777Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b31c",
+        "order": 2,
+        "hide": false,
+        "name": "向量及其线性运算(二）",
+        "updatedAt": "2020-05-20T14:43:02.416Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 626.52,
+        "videoSize": {
+          "mobileLow": 48512,
+          "mobileMid": 48512,
+          "pcMid": 48512,
+          "pcHigh": 48512,
+          "pcLow": 48512
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 626.546939,
+        "audioSize": 10025.213,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC541F61DFEC5",
+        "audioSavedKey": "9a2f5d601536feaeec795fc81ea2b8a1.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415969d",
+        "createdAt": "2017-02-21T17:36:14.780Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b31c",
+        "order": 3,
+        "hide": false,
+        "name": "向量的点积与叉积（一）",
+        "updatedAt": "2020-05-20T14:56:05.323Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1193.08,
+        "videoSize": {
+          "mobileLow": 92332,
+          "mobileMid": 92332,
+          "pcLow": 92328,
+          "pcMid": 92328,
+          "pcHigh": 92328
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1193.142857,
+        "audioSize": 19090.747,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC545051FCFC8",
+        "audioSavedKey": "6c931f6a16e6fd3cbcff92e17fbea84f.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415969e",
+        "createdAt": "2017-02-21T17:36:14.782Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b31c",
+        "order": 4,
+        "hide": false,
+        "name": "向量的点积与叉积（二）",
+        "updatedAt": "2020-05-21T02:55:17.430Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1109.2,
+        "videoSize": {
+          "mobileLow": 85820,
+          "pcHigh": 85816,
+          "mobileMid": 85820,
+          "pcMid": 85816,
+          "pcLow": 85816
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1109.263673,
+        "audioSize": 17748.68,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5ED953B8B83",
+        "audioSavedKey": "a7dc133ca6346e31ca80faf99cecaaa9.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415969f",
+        "createdAt": "2017-02-21T17:36:14.785Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b31c",
+        "order": 5,
+        "hide": false,
+        "name": " 空间中的直线与平面（一）",
+        "updatedAt": "2020-05-21T03:11:20.552Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1105.8,
+        "videoSize": {
+          "mobileMid": 85592,
+          "pcMid": 85588,
+          "mobileLow": 85592,
+          "pcHigh": 85588,
+          "pcLow": 85588
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1105.867755,
+        "audioSize": 17694.346,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5F1583CA16A",
+        "audioSavedKey": "212bffa954fc947b075e426a6fefc861.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741596a0",
+        "createdAt": "2017-02-21T17:36:14.787Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b31c",
+        "order": 6,
+        "hide": false,
+        "name": "空间中的直线与平面（二）",
+        "updatedAt": "2020-05-21T05:02:17.049Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 556.84,
+        "videoSize": {
+          "mobileLow": 43160,
+          "mobileMid": 43160,
+          "pcMid": 43152,
+          "pcLow": 43152,
+          "pcHigh": 43156
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 556.90449,
+        "audioSize": 8910.933,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC60B5942AEA0",
+        "audioSavedKey": "2942e79ef2150894fdeee728bca044ba.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b310",
+    "createdAt": "2017-02-21T17:36:14.608Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 16,
+    "hide": false,
+    "name": "向量组",
+    "updatedAt": "2019-10-31T02:39:18.514Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "向量组,线性代数(向量组)",
+      "description": "万门教育大学数学课程分类下提供：线性代数，向量组等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988095！",
+      "title": "向量组，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f0712767415966f",
+        "createdAt": "2017-02-21T17:36:14.611Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b310",
+        "order": 1,
+        "hide": false,
+        "name": "线性组合与线性表示（一）",
+        "updatedAt": "2020-05-21T05:34:47.711Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 658.08,
+        "videoSize": {
+          "mobileLow": 51004,
+          "mobileMid": 51004,
+          "pcMid": 51004,
+          "pcHigh": 51004,
+          "pcLow": 51004
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 658.12898,
+        "audioSize": 10530.525,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC612F7445A46",
+        "audioSavedKey": "9ab9536acc6644520eb53680e68e5440.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159670",
+        "createdAt": "2017-02-21T17:36:14.614Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b310",
+        "order": 2,
+        "hide": false,
+        "name": "线性组合与线性表示（二）",
+        "updatedAt": "2020-05-21T05:37:58.978Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 375.52,
+        "videoSize": {
+          "mobileLow": 29168,
+          "mobileMid": 29168,
+          "pcHigh": 29168,
+          "pcMid": 29168,
+          "pcLow": 29168
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 375.562449,
+        "audioSize": 6009.461,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC613B644846A",
+        "audioSavedKey": "cda1afd03dc6b9a354db178204c9fe7d.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159671",
+        "createdAt": "2017-02-21T17:36:14.618Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b310",
+        "order": 3,
+        "hide": false,
+        "name": "线性相关性",
+        "updatedAt": "2020-05-21T07:10:05.756Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 886.28,
+        "videoSize": {
+          "mobileLow": 68736,
+          "mobileMid": 68736,
+          "pcLow": 68736,
+          "pcMid": 68736,
+          "pcHigh": 68736
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 886.334694,
+        "audioSize": 14181.817,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC6294D49CA2D",
+        "audioSavedKey": "2e1fde3bfce893096db8b3f2e2596b52.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159672",
+        "createdAt": "2017-02-21T17:36:14.621Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b310",
+        "order": 4,
+        "hide": false,
+        "name": "相关性定理（一）",
+        "updatedAt": "2019-09-24T23:18:48.470Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 707.84,
+        "videoSize": {
+          "mobileLow": 54768,
+          "mobileMid": 54768,
+          "pcMid": 54768,
+          "pcLow": 54768,
+          "pcHigh": 54764
+        },
+        "audioDuration": 703.111813,
+        "audioSize": 11249.834,
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159673",
+        "createdAt": "2017-02-21T17:36:14.623Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b310",
+        "order": 5,
+        "hide": false,
+        "name": "相关性定理（二）",
+        "updatedAt": "2020-05-21T05:46:08.014Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 676.2,
+        "videoSize": {
+          "pcHigh": 52376,
+          "pcMid": 52372,
+          "mobileLow": 52372,
+          "pcLow": 52372,
+          "mobileMid": 52372
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 676.257959,
+        "audioSize": 10820.589,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC6159F44F0DE",
+        "audioSavedKey": "4f5af357b42ea7c808aebab913428181.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b311",
+    "createdAt": "2017-02-21T17:36:14.696Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 17,
+    "hide": false,
+    "name": "向量组的秩",
+    "updatedAt": "2019-10-31T02:39:18.514Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "向量组的秩,线性代数(向量组的秩)",
+      "description": "万门教育大学数学课程分类下提供：线性代数，向量组的秩等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988096！",
+      "title": "向量组的秩，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674159674",
+        "createdAt": "2017-02-21T17:36:14.699Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b311",
+        "order": 1,
+        "hide": false,
+        "name": "极大无关组（一）",
+        "updatedAt": "2020-05-20T18:18:19.207Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 948.12,
+        "videoSize": {
+          "mobileLow": 73372,
+          "pcLow": 73372,
+          "pcMid": 73372,
+          "pcHigh": 73372,
+          "mobileMid": 73372
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 948.166531,
+        "audioSize": 15171.126,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5746B2C60F5",
+        "audioSavedKey": "0b3b6551d63d041cd8770113c41fcd13.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159675",
+        "createdAt": "2017-02-21T17:36:14.702Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b311",
+        "order": 2,
+        "hide": false,
+        "name": "极大无关组（二）",
+        "updatedAt": "2020-05-21T00:34:26.292Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 475.76,
+        "videoSize": {
+          "mobileLow": 36828,
+          "mobileMid": 36828,
+          "pcLow": 36828,
+          "pcMid": 36828,
+          "pcHigh": 36828
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 475.820408,
+        "audioSize": 7613.588,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5CC92337B4B",
+        "audioSavedKey": "cc7c9d64c2dbc6ecd7ed783dedb175da.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159676",
+        "createdAt": "2017-02-21T17:36:14.704Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b311",
+        "order": 3,
+        "hide": false,
+        "name": "向量组的秩与矩阵的秩",
+        "updatedAt": "2020-05-21T00:44:16.511Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 693.44,
+        "videoSize": {
+          "mobileLow": 53712,
+          "mobileMid": 53712,
+          "pcHigh": 53712,
+          "pcMid": 53712,
+          "pcLow": 53712
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 693.472653,
+        "audioSize": 11096.024,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5CEE033EA2F",
+        "audioSavedKey": "ab1cbf1372caa568ce51e8eeef602c3a.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159677",
+        "createdAt": "2017-02-21T17:36:14.707Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b311",
+        "order": 4,
+        "hide": false,
+        "name": "关于秩的重要定理（一）",
+        "updatedAt": "2020-05-21T08:13:02.660Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 662.8,
+        "videoSize": {
+          "mobileLow": 51348,
+          "pcLow": 51348,
+          "mobileMid": 51348,
+          "pcHigh": 51352,
+          "pcMid": 51348
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 662.857143,
+        "audioSize": 10606.176,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC6380E4E15C8",
+        "audioSavedKey": "ffbf2159cc65ee6ef3efddeb361e7bb2.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159678",
+        "createdAt": "2017-02-21T17:36:14.709Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b311",
+        "order": 5,
+        "hide": false,
+        "name": "关于秩的重要定理（二）",
+        "updatedAt": "2020-05-21T21:41:14.279Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 670.2,
+        "videoSize": {
+          "mobileLow": 51832,
+          "pcMid": 51832,
+          "mobileMid": 51832,
+          "pcLow": 51832,
+          "pcHigh": 51836
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 670.249796,
+        "audioSize": 10724.458,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC6F57A82930F",
+        "audioSavedKey": "1ffd4e29e6ea0d0523d44907163df3fc.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b329",
+    "createdAt": "2017-02-21T17:36:14.855Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 18,
+    "hide": false,
+    "name": " 线性方程组解的结构 ",
+    "updatedAt": "2019-10-31T02:39:18.514Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": " 线性方程组解的结构 ,线性代数( 线性方程组解的结构 )",
+      "description": "万门教育大学数学课程分类下提供：线性代数， 线性方程组解的结构 等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988098！",
+      "title": " 线性方程组解的结构 ，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f071276741596c9",
+        "createdAt": "2017-02-21T17:36:14.858Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b329",
+        "order": 1,
+        "hide": false,
+        "name": "齐次线性方程组解的结构",
+        "updatedAt": "2020-05-20T12:09:20.709Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 470.92,
+        "videoSize": {
+          "mobileLow": 36460,
+          "pcLow": 36460,
+          "pcMid": 36460,
+          "pcHigh": 36460,
+          "mobileMid": 36460
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 470.987755,
+        "audioSize": 7536.266,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC51DF00ACEB5",
+        "audioSavedKey": "04537012c0b18f678f69f244c212df9c.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741596ca",
+        "createdAt": "2017-02-21T17:36:14.860Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b329",
+        "order": 2,
+        "hide": false,
+        "name": "基础解系（一）",
+        "updatedAt": "2020-05-20T10:18:42.631Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 644,
+        "videoSize": {
+          "mobileLow": 49876,
+          "pcLow": 49876,
+          "pcMid": 49876,
+          "mobileMid": 49876,
+          "pcHigh": 49880
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 644.075102,
+        "audioSize": 10305.663,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5040202D18E",
+        "audioSavedKey": "60059f70b74673f29670ae782f5e1a35.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741596cb",
+        "createdAt": "2017-02-21T17:36:14.863Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b329",
+        "order": 3,
+        "hide": false,
+        "name": "基础解系（二）",
+        "updatedAt": "2020-05-20T13:51:25.598Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 440.44,
+        "videoSize": {
+          "mobileLow": 34136,
+          "pcLow": 34136,
+          "pcHigh": 34136,
+          "pcMid": 34136,
+          "mobileMid": 34136
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 440.502857,
+        "audioSize": 7048.507,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC535DD176D76",
+        "audioSavedKey": "c9e5aee70c9941a33c95dc0dc6a9bf3a.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741596cc",
+        "createdAt": "2017-02-21T17:36:14.866Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b329",
+        "order": 4,
+        "hide": false,
+        "name": "非齐次线性方程组解的结构（一）",
+        "updatedAt": "2020-05-21T00:54:50.182Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 644.2,
+        "videoSize": {
+          "pcHigh": 49888,
+          "mobileLow": 49888,
+          "pcMid": 49888,
+          "pcLow": 49888,
+          "mobileMid": 49888
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 644.257959,
+        "audioSize": 10308.589,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5D15A34694B",
+        "audioSavedKey": "84a28f0b722068fb7a7605d014a4f9c6.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741596cd",
+        "createdAt": "2017-02-21T17:36:14.869Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b329",
+        "order": 5,
+        "hide": false,
+        "name": "非齐次线性方程组解的结构（二）",
+        "updatedAt": "2020-05-20T09:03:12.072Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 396.32,
+        "videoSize": {
+          "pcMid": 30728,
+          "mobileMid": 30728,
+          "pcHigh": 30728,
+          "mobileLow": 30728,
+          "pcLow": 30728
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 396.382041,
+        "audioSize": 6342.574,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4F250FE224E",
+        "audioSavedKey": "69d634e9c8801677904bdd40a5182684.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b33b",
+    "createdAt": "2017-02-21T17:36:14.964Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 19,
+    "hide": false,
+    "name": "特征值与特征向量",
+    "updatedAt": "2019-10-31T02:39:18.514Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "特征值与特征向量,线性代数(特征值与特征向量)",
+      "description": "万门教育大学数学课程分类下提供：线性代数，特征值与特征向量等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988099！",
+      "title": "特征值与特征向量，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674159704",
+        "createdAt": "2017-02-21T17:36:14.966Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b33b",
+        "order": 1,
+        "hide": false,
+        "name": "概念（一）",
+        "updatedAt": "2020-05-20T10:12:26.672Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 685.64,
+        "videoSize": {
+          "mobileLow": 53048,
+          "pcLow": 53048,
+          "mobileMid": 53048,
+          "pcHigh": 53048,
+          "pcMid": 53048
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 685.688163,
+        "audioSize": 10971.472,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5028A027169",
+        "audioSavedKey": "1866d4568216b4f745555ec8bf8ad38b.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159705",
+        "createdAt": "2017-02-21T17:36:14.969Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b33b",
+        "order": 2,
+        "hide": false,
+        "name": "概念（二）",
+        "updatedAt": "2020-05-20T16:47:29.178Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 499,
+        "videoSize": {
+          "mobileLow": 38628,
+          "pcMid": 38624,
+          "pcHigh": 38628,
+          "mobileMid": 38628,
+          "pcLow": 38624
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 499.069388,
+        "audioSize": 7985.572,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC55F21292EBF",
+        "audioSavedKey": "bb9a0506b2b969bdc1897b0617fe7d3b.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159706",
+        "createdAt": "2017-02-21T17:36:14.971Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b33b",
+        "order": 3,
+        "hide": false,
+        "name": "几个例子",
+        "updatedAt": "2020-05-21T21:43:47.770Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1014.4,
+        "videoSize": {
+          "mobileLow": 78252,
+          "pcHigh": 78252,
+          "pcLow": 78252,
+          "mobileMid": 78252,
+          "pcMid": 78252
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1014.439184,
+        "audioSize": 16231.488,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC6F613826450",
+        "audioSavedKey": "395ede160c4fcd1d93b6c865fddd0bce.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159707",
+        "createdAt": "2017-02-21T17:36:14.973Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b33b",
+        "order": 4,
+        "hide": false,
+        "name": "基本性质（一）",
+        "updatedAt": "2020-05-21T21:44:19.277Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 596.4,
+        "videoSize": {
+          "pcHigh": 46176,
+          "mobileLow": 46180,
+          "pcMid": 46176,
+          "pcLow": 46176,
+          "mobileMid": 46180
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 596.453878,
+        "audioSize": 9543.724,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC6F633829DB0",
+        "audioSavedKey": "1a70f4d33cdda2136f9f55b0c4a16f71.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159708",
+        "createdAt": "2017-02-21T17:36:14.976Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b33b",
+        "order": 5,
+        "hide": false,
+        "name": "基本性质（二）",
+        "updatedAt": "2020-05-21T21:44:42.664Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 809,
+        "videoSize": {
+          "pcHigh": 62668,
+          "pcMid": 62668,
+          "pcLow": 62668,
+          "mobileLow": 62668,
+          "mobileMid": 62668
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 809.038367,
+        "audioSize": 12945.075,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC6F64A829F15",
+        "audioSavedKey": "5085be49ddd3748df1a01fdae2625576.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159709",
+        "createdAt": "2017-02-21T17:36:14.978Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b33b",
+        "order": 6,
+        "hide": false,
+        "name": "基本性质（三）",
+        "updatedAt": "2019-09-24T22:16:41.933Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1073.2,
+        "videoSize": {
+          "pcLow": 83076,
+          "mobileMid": 83080,
+          "pcHigh": 83076,
+          "mobileLow": 83080,
+          "pcMid": 83076
+        },
+        "audioDuration": 1073.240813,
+        "audioSize": 17171.898,
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b33c",
+    "createdAt": "2017-02-21T17:36:15.050Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 20,
+    "hide": false,
+    "name": "相似矩阵与矩阵对角化 ",
+    "updatedAt": "2019-10-31T02:39:18.514Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "相似矩阵与矩阵对角化 ,线性代数(相似矩阵与矩阵对角化 )",
+      "description": "万门教育大学数学课程分类下提供：线性代数，相似矩阵与矩阵对角化 等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988100！",
+      "title": "相似矩阵与矩阵对角化 ，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f0712767415970a",
+        "createdAt": "2017-02-21T17:36:15.053Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b33c",
+        "order": 1,
+        "hide": false,
+        "name": "矩阵的相似（一）",
+        "updatedAt": "2020-05-21T21:45:35.997Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 472.56,
+        "videoSize": {
+          "mobileLow": 36604,
+          "pcHigh": 36604,
+          "pcLow": 36604,
+          "pcMid": 36604,
+          "mobileMid": 36604
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 472.607347,
+        "audioSize": 7562.179,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC6F67F826AD3",
+        "audioSavedKey": "452633f38d568f7b792a5facd8a9d6c0.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415970b",
+        "createdAt": "2017-02-21T17:36:15.055Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b33c",
+        "order": 2,
+        "hide": false,
+        "name": "矩阵的相似（二）",
+        "updatedAt": "2020-05-21T03:18:29.902Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 783.44,
+        "videoSize": {
+          "mobileLow": 60624,
+          "pcMid": 60624,
+          "pcLow": 60624,
+          "pcHigh": 60624,
+          "mobileMid": 60624
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 783.490612,
+        "audioSize": 12536.311,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5F3053CE4B0",
+        "audioSavedKey": "8baa786205318dcf119c48083817e3af.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415970c",
+        "createdAt": "2017-02-21T17:36:15.058Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b33c",
+        "order": 3,
+        "hide": false,
+        "name": "可对角化条件（一）",
+        "updatedAt": "2020-05-20T12:31:41.786Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 645.92,
+        "videoSize": {
+          "mobileLow": 49944,
+          "pcLow": 49944,
+          "pcMid": 49944,
+          "pcHigh": 49944,
+          "mobileMid": 49944
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 645.982041,
+        "audioSize": 10336.174,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5232D0D2D60",
+        "audioSavedKey": "e88deb6cc037a9f8b8f511b24fc4c52d.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415970d",
+        "createdAt": "2017-02-21T17:36:15.061Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b33c",
+        "order": 4,
+        "hide": false,
+        "name": "可对角化条件（二）",
+        "updatedAt": "2020-05-20T12:32:26.100Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 670.16,
+        "videoSize": {
+          "mobileLow": 51932,
+          "pcMid": 51932,
+          "mobileMid": 51932,
+          "pcHigh": 51932,
+          "pcLow": 51932
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 670.223673,
+        "audioSize": 10724.04,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5235A0D431E",
+        "audioSavedKey": "52aed715afa255b8fa0206a9eee8af8c.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415970e",
+        "createdAt": "2017-02-21T17:36:15.063Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b33c",
+        "order": 5,
+        "hide": false,
+        "name": "可对角化条件（三）",
+        "updatedAt": "2020-05-20T13:01:08.837Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 536.12,
+        "videoSize": {
+          "mobileLow": 41404,
+          "pcHigh": 41396,
+          "mobileMid": 41404,
+          "pcLow": 41396,
+          "pcMid": 41396
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 536.189388,
+        "audioSize": 8579.492,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC52A1410AE83",
+        "audioSavedKey": "b9df77e582692db56d7616a870a0fdcd.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415970f",
+        "createdAt": "2017-02-21T17:36:15.066Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b33c",
+        "order": 6,
+        "hide": false,
+        "name": "约当标准形简介",
+        "updatedAt": "2020-05-20T13:13:55.211Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 798.72,
+        "videoSize": {
+          "mobileMid": 61848,
+          "mobileLow": 61848,
+          "pcLow": 61848,
+          "pcMid": 61848,
+          "pcHigh": 61848
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 798.746122,
+        "audioSize": 12780.399,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC52D13127E88",
+        "audioSavedKey": "e5ed176324843c9b8e9ee4c397e82692.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b353",
+    "createdAt": "2017-02-21T17:36:15.137Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 21,
+    "hide": false,
+    "name": "实对称矩阵",
+    "updatedAt": "2019-10-31T02:39:18.514Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "实对称矩阵,线性代数(实对称矩阵)",
+      "description": "万门教育大学数学课程分类下提供：线性代数，实对称矩阵等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988101！",
+      "title": "实对称矩阵，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f0712767415975e",
+        "createdAt": "2017-02-21T17:36:15.139Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b353",
+        "order": 1,
+        "hide": false,
+        "name": "正交向量组",
+        "updatedAt": "2020-05-20T13:23:39.043Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 347.8,
+        "videoSize": {
+          "mobileLow": 27000,
+          "pcMid": 27000,
+          "mobileMid": 27000,
+          "pcLow": 27000,
+          "pcHigh": 26996
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 347.846531,
+        "audioSize": 5566.006,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC52F5A138579",
+        "audioSavedKey": "1c0ba4f3518afb2bf2a9f7926649020a.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415975f",
+        "createdAt": "2017-02-21T17:36:15.142Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b353",
+        "order": 2,
+        "hide": false,
+        "name": "施密特正交化（一）",
+        "updatedAt": "2020-05-21T15:36:03.935Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 532.12,
+        "videoSize": {
+          "mobileLow": 41216,
+          "pcLow": 41208,
+          "pcHigh": 41212,
+          "pcMid": 41208,
+          "mobileMid": 41216
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 532.166531,
+        "audioSize": 8515.126,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC69FE376E691",
+        "audioSavedKey": "c2186c4b8e415b6622f130182b4d48d1.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159760",
+        "createdAt": "2017-02-21T17:36:15.145Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b353",
+        "order": 3,
+        "hide": false,
+        "name": "施密特正交化（二）",
+        "updatedAt": "2020-05-21T21:56:13.509Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 837.84,
+        "videoSize": {
+          "mobileLow": 64852,
+          "pcMid": 64852,
+          "pcHigh": 64856,
+          "mobileMid": 64852,
+          "pcLow": 64852
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 837.877551,
+        "audioSize": 13406.502,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC6F8FD8291B3",
+        "audioSavedKey": "05ef386ed08fbc8ad2e1cadf140a939e.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159761",
+        "createdAt": "2017-02-21T17:36:15.147Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b353",
+        "order": 4,
+        "hide": false,
+        "name": "正交矩阵",
+        "updatedAt": "2020-05-21T16:12:54.868Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 761.36,
+        "videoSize": {
+          "mobileLow": 58948,
+          "pcLow": 58948,
+          "pcMid": 58948,
+          "mobileMid": 58948,
+          "pcHigh": 58948
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 761.417143,
+        "audioSize": 12183.136,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC6A88679E9E6",
+        "audioSavedKey": "3c3d3fb4cc5784d897475a935ad3de37.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159762",
+        "createdAt": "2017-02-21T17:36:15.150Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b353",
+        "order": 5,
+        "hide": false,
+        "name": "实对称矩阵（一）",
+        "updatedAt": "2020-05-21T16:24:57.604Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 600.8,
+        "videoSize": {
+          "pcMid": 46500,
+          "pcLow": 46500,
+          "pcHigh": 46500,
+          "mobileLow": 46504,
+          "mobileMid": 46504
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 600.842449,
+        "audioSize": 9613.941,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC6AB597AB260",
+        "audioSavedKey": "7ce67945edb7b0db6bfea708ce5ec2b3.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159763",
+        "createdAt": "2017-02-21T17:36:15.152Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b353",
+        "order": 6,
+        "hide": false,
+        "name": "实对称矩阵（二）",
+        "updatedAt": "2020-05-21T16:33:45.675Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 517.64,
+        "videoSize": {
+          "mobileMid": 40104,
+          "pcHigh": 40100,
+          "pcLow": 40100,
+          "mobileLow": 40104,
+          "pcMid": 40100
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 517.694694,
+        "audioSize": 8283.577,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC6AD697B71C1",
+        "audioSavedKey": "0e0dc63df95e568bc43e89106e818560.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b374",
+    "createdAt": "2017-02-21T17:36:15.214Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 22,
+    "hide": false,
+    "name": "二次型 ",
+    "updatedAt": "2019-10-31T02:39:18.514Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "二次型 ,线性代数(二次型 )",
+      "description": "万门教育大学数学课程分类下提供：线性代数，二次型 等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988102！",
+      "title": "二次型 ，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f071276741597d4",
+        "createdAt": "2017-02-21T17:36:15.216Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b374",
+        "order": 1,
+        "hide": false,
+        "name": "二次型及其矩阵表示",
+        "updatedAt": "2020-05-20T14:17:35.647Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 578.52,
+        "videoSize": {
+          "mobileLow": 44692,
+          "pcMid": 44688,
+          "mobileMid": 44692,
+          "pcHigh": 44688,
+          "pcLow": 44688
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 578.56,
+        "audioSize": 9257.422,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC53BFF1AECB4",
+        "audioSavedKey": "86c5b276b315d878d739b03a735b53bd.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741597d5",
+        "createdAt": "2017-02-21T17:36:15.219Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b374",
+        "order": 2,
+        "hide": false,
+        "name": "合同",
+        "updatedAt": "2020-05-20T14:27:52.081Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1066.28,
+        "videoSize": {
+          "mobileLow": 82244,
+          "pcMid": 82244,
+          "pcHigh": 82248,
+          "mobileMid": 82244,
+          "pcLow": 82244
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1066.318367,
+        "audioSize": 17061.555,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC53E681C482A",
+        "audioSavedKey": "b10299b1da199b413d077cdfcb83951e.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741597d6",
+        "createdAt": "2017-02-21T17:36:15.221Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b374",
+        "order": 3,
+        "hide": false,
+        "name": "二次型的标准形",
+        "updatedAt": "2020-05-22T00:29:52.542Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1470.8,
+        "videoSize": {
+          "mobileLow": 113416,
+          "pcLow": 113416,
+          "mobileMid": 113416,
+          "pcHigh": 113416,
+          "pcMid": 113416
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1470.902857,
+        "audioSize": 23534.907,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC71D0086A1F2",
+        "audioSavedKey": "8fe41575cfa7def6e667cd3e9c929430.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741597d7",
+        "createdAt": "2017-02-21T17:36:15.224Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b374",
+        "order": 4,
+        "hide": false,
+        "name": " 二次型的规范形",
+        "updatedAt": "2020-05-22T01:51:21.358Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 446.12,
+        "videoSize": {
+          "mobileMid": 34408,
+          "pcHigh": 34408,
+          "mobileLow": 34408,
+          "pcMid": 34408,
+          "pcLow": 34408
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 446.171429,
+        "audioSize": 7139.204,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC730198AD1CC",
+        "audioSavedKey": "0dd6691a0f358248105a7e99fd65131b.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b390",
+    "createdAt": "2017-02-21T17:36:15.289Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 23,
+    "hide": false,
+    "name": "正定二次型",
+    "updatedAt": "2019-10-31T02:39:18.514Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "正定二次型,线性代数(正定二次型)",
+      "description": "万门教育大学数学课程分类下提供：线性代数，正定二次型等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988103！",
+      "title": "正定二次型，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674159837",
+        "createdAt": "2017-02-21T17:36:15.292Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b390",
+        "order": 1,
+        "hide": false,
+        "name": "二次型的有定性",
+        "updatedAt": "2020-05-21T10:08:49.637Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 403.56,
+        "videoSize": {
+          "mobileLow": 31140,
+          "pcHigh": 31140,
+          "pcMid": 31140,
+          "pcLow": 31140,
+          "mobileMid": 31140
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 403.591837,
+        "audioSize": 6457.931,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC65331553B4C",
+        "audioSavedKey": "3d6b23d4c3685d53836f90b5f44eb870.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159838",
+        "createdAt": "2017-02-21T17:36:15.294Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b390",
+        "order": 2,
+        "hide": false,
+        "name": "正定性的判定",
+        "updatedAt": "2020-05-22T01:53:23.759Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1037.04,
+        "videoSize": {
+          "mobileLow": 79948,
+          "mobileMid": 79948,
+          "pcLow": 79948,
+          "pcMid": 79948,
+          "pcHigh": 79948
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1037.087347,
+        "audioSize": 16593.859,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC730938AB794",
+        "audioSavedKey": "33b6ff9605f96476bd67bae845bd0f18.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159839",
+        "createdAt": "2017-02-21T17:36:15.296Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b390",
+        "order": 3,
+        "hide": false,
+        "name": "正定性的应用",
+        "updatedAt": "2020-05-22T01:54:19.874Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 918.16,
+        "videoSize": {
+          "mobileLow": 70796,
+          "pcLow": 70796,
+          "mobileMid": 70796,
+          "pcHigh": 70796,
+          "pcMid": 70796
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 918.230204,
+        "audioSize": 14692.145,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC730CB8AC52F",
+        "audioSavedKey": "2f58fec99c25c25a481b0fac69506283.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b391",
+    "createdAt": "2017-02-21T17:36:15.363Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 24,
+    "hide": false,
+    "name": "线性空间（一）",
+    "updatedAt": "2019-10-31T02:39:18.514Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "线性空间（一）,线性代数(线性空间（一）)",
+      "description": "万门教育大学数学课程分类下提供：线性代数，线性空间（一）等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988104！",
+      "title": "线性空间（一），线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f0712767415983a",
+        "createdAt": "2017-02-21T17:36:15.365Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b391",
+        "order": 1,
+        "hide": false,
+        "name": "线性空间的定义",
+        "updatedAt": "2020-05-22T01:48:02.450Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 773.12,
+        "videoSize": {
+          "mobileLow": 59620,
+          "pcLow": 59620,
+          "pcMid": 59620,
+          "mobileMid": 59620,
+          "pcHigh": 59620
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 773.172245,
+        "audioSize": 12371.217,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC72F528A6AFF",
+        "audioSavedKey": "75b65fc407e2b01afe6aea6c558e655c.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415983b",
+        "createdAt": "2017-02-21T17:36:15.368Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b391",
+        "order": 2,
+        "hide": false,
+        "name": "维数、基与坐标",
+        "updatedAt": "2020-05-22T07:50:32.310Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 664.36,
+        "videoSize": {
+          "mobileLow": 51208,
+          "mobileMid": 51208,
+          "pcMid": 51208,
+          "pcLow": 51208,
+          "pcHigh": 51208
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 664.398367,
+        "audioSize": 10630.835,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC784489F724E",
+        "audioSavedKey": "ac054f857e219516583dceca30829ea5.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415983c",
+        "createdAt": "2017-02-21T17:36:15.370Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b391",
+        "order": 3,
+        "hide": false,
+        "name": "线性子空间",
+        "updatedAt": "2020-05-22T00:30:05.581Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 377.12,
+        "videoSize": {
+          "pcLow": 29096,
+          "mobileMid": 29096,
+          "pcMid": 29096,
+          "pcHigh": 29096,
+          "mobileLow": 29096
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 377.182041,
+        "audioSize": 6035.374,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC71D0D866D0F",
+        "audioSavedKey": "06ec9dee406e76c8dc74ff35e109cdcc.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b3af",
+    "createdAt": "2017-02-21T17:36:15.447Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 25,
+    "hide": false,
+    "name": " 线性空间（二）",
+    "updatedAt": "2019-10-31T02:39:18.514Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": " 线性空间（二）,线性代数( 线性空间（二）)",
+      "description": "万门教育大学数学课程分类下提供：线性代数， 线性空间（二）等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988105！",
+      "title": " 线性空间（二），线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f0712767415989e",
+        "createdAt": "2017-02-21T17:36:15.450Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b3af",
+        "order": 1,
+        "hide": false,
+        "name": "基变换与坐标变换（一）",
+        "updatedAt": "2020-05-22T07:50:56.278Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 602.64,
+        "videoSize": {
+          "mobileLow": 47224,
+          "pcLow": 47220,
+          "pcHigh": 47220,
+          "pcMid": 47220,
+          "mobileMid": 47224
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 602.697143,
+        "audioSize": 9643.616,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC784609FB0BC",
+        "audioSavedKey": "b67b68010422775a8a608f4f6d6545eb.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415989f",
+        "createdAt": "2017-02-21T17:36:15.452Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b3af",
+        "order": 2,
+        "hide": false,
+        "name": "基变换与坐标变换（二）",
+        "updatedAt": "2020-05-22T02:45:28.756Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 727.24,
+        "videoSize": {
+          "mobileLow": 56988,
+          "mobileMid": 56988,
+          "pcHigh": 56988,
+          "pcMid": 56988,
+          "pcLow": 56988
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 727.301224,
+        "audioSize": 11637.281,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC73CC88DF11A",
+        "audioSavedKey": "7214e756c3be254ecc998e2ac2c45b3f.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741598a0",
+        "createdAt": "2017-02-21T17:36:15.455Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b3af",
+        "order": 3,
+        "hide": false,
+        "name": "线性空间的同构（一）",
+        "updatedAt": "2020-05-22T02:45:47.232Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 898.56,
+        "videoSize": {
+          "mobileLow": 70364,
+          "pcLow": 70364,
+          "mobileMid": 70364,
+          "pcHigh": 70356,
+          "pcMid": 70364
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 898.612245,
+        "audioSize": 14378.257,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC73CDB8E2DC9",
+        "audioSavedKey": "1545f7eb8dafe7859f083d14d4f1c8e3.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741598a1",
+        "createdAt": "2017-02-21T17:36:15.457Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b3af",
+        "order": 4,
+        "hide": false,
+        "name": "线性空间的同构（二）",
+        "updatedAt": "2020-05-22T03:01:27.969Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 982.88,
+        "videoSize": {
+          "mobileLow": 76916,
+          "pcHigh": 76916,
+          "mobileMid": 76916,
+          "pcLow": 76916,
+          "pcMid": 76916
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 982.93551,
+        "audioSize": 15727.43,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC740878F32AC",
+        "audioSavedKey": "3015080192a304251da261aece861892.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b3ca",
+    "createdAt": "2017-02-21T17:36:15.527Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 26,
+    "hide": false,
+    "name": "线性变换",
+    "updatedAt": "2019-10-31T02:39:18.514Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "线性变换,线性代数(线性变换)",
+      "description": "万门教育大学数学课程分类下提供：线性代数，线性变换等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988106！",
+      "title": "线性变换，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f071276741598f9",
+        "createdAt": "2017-02-21T17:36:15.529Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b3ca",
+        "order": 1,
+        "hide": false,
+        "name": "定义与性质",
+        "updatedAt": "2020-05-20T08:51:11.741Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1012.72,
+        "videoSize": {
+          "mobileLow": 78104,
+          "pcMid": 78104,
+          "pcHigh": 78104,
+          "pcLow": 78104,
+          "mobileMid": 78104
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1012.741224,
+        "audioSize": 16204.321,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC4EF7FFD907A",
+        "audioSavedKey": "9b40dfd8299d897975659462455f90f9.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741598fa",
+        "createdAt": "2017-02-21T17:36:15.532Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b3ca",
+        "order": 2,
+        "hide": false,
+        "name": "线性变换的运算（一）",
+        "updatedAt": "2020-05-20T09:45:27.048Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 888.28,
+        "videoSize": {
+          "mobileLow": 68540,
+          "pcHigh": 68540,
+          "mobileMid": 68540,
+          "pcMid": 68540,
+          "pcLow": 68540
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 888.32,
+        "audioSize": 14213.582,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4FC3600CFFC",
+        "audioSavedKey": "d9dc8797a892e42e3b08734a9b86ef0c.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741598fb",
+        "createdAt": "2017-02-21T17:36:15.534Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b3ca",
+        "order": 3,
+        "hide": false,
+        "name": "线性变换的运算（二）",
+        "updatedAt": "2020-05-20T10:00:17.811Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 669.68,
+        "videoSize": {
+          "mobileLow": 51680,
+          "pcMid": 51680,
+          "pcLow": 51680,
+          "mobileMid": 51680,
+          "pcHigh": 51680
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 669.727347,
+        "audioSize": 10716.099,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC4FFB101EDAD",
+        "audioSavedKey": "260e1d166b3bdfc2878e1b1d121f9a86.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741598fc",
+        "createdAt": "2017-02-21T17:36:15.536Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b3ca",
+        "order": 4,
+        "hide": false,
+        "name": "线性变换的矩阵表示 (一）",
+        "updatedAt": "2020-05-20T10:11:29.670Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1103.44,
+        "videoSize": {
+          "mobileLow": 85104,
+          "mobileMid": 85104,
+          "pcMid": 85100,
+          "pcLow": 85100,
+          "pcHigh": 85100
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1103.490612,
+        "audioSize": 17656.311,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC502510262C7",
+        "audioSavedKey": "209bfafdbf2de1cceb1aa612f65438d0.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741598fd",
+        "createdAt": "2017-02-21T17:36:15.539Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b3ca",
+        "order": 5,
+        "hide": false,
+        "name": "线性变换的矩阵表示 (二）",
+        "updatedAt": "2020-05-20T10:29:55.377Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 636.36,
+        "videoSize": {
+          "mobileMid": 49140,
+          "pcMid": 49140,
+          "pcHigh": 49140,
+          "mobileLow": 49140,
+          "pcLow": 49140
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 636.421224,
+        "audioSize": 10183.201,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC506A303B3AE",
+        "audioSavedKey": "b982e65290f16f0e38796e6b65562d81.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741598fe",
+        "createdAt": "2017-02-21T17:36:15.541Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b3ca",
+        "order": 6,
+        "hide": false,
+        "name": "线性变换的矩阵表示 (三）",
+        "updatedAt": "2020-05-20T10:40:34.053Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 870.56,
+        "videoSize": {
+          "pcMid": 67152,
+          "mobileMid": 67152,
+          "pcHigh": 67152,
+          "pcLow": 67152,
+          "mobileLow": 67152
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 870.635102,
+        "audioSize": 13930.623,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC5092204238F",
+        "audioSavedKey": "5b34522f7927f3b459e3321cdee48394.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b3d4",
+    "createdAt": "2017-02-21T17:36:15.608Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 27,
+    "hide": false,
+    "name": "欧几里得空间",
+    "updatedAt": "2019-10-31T02:39:18.514Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "欧几里得空间,线性代数(欧几里得空间)",
+      "description": "万门教育大学数学课程分类下提供：线性代数，欧几里得空间等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988107！",
+      "title": "欧几里得空间，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674159922",
+        "createdAt": "2017-02-21T17:36:15.610Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b3d4",
+        "order": 1,
+        "hide": false,
+        "name": "广义内积（一）",
+        "updatedAt": "2020-05-20T10:55:06.942Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1015.36,
+        "videoSize": {
+          "mobileLow": 78268,
+          "pcMid": 78268,
+          "mobileMid": 78268,
+          "pcHigh": 78268,
+          "pcLow": 78268
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1015.405714,
+        "audioSize": 16246.953,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC50C8A05431E",
+        "audioSavedKey": "3f1cd28ea4549a3ab76e21e59ba480a2.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159923",
+        "createdAt": "2017-02-21T17:36:15.613Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b3d4",
+        "order": 2,
+        "hide": false,
+        "name": "广义内积（二）",
+        "updatedAt": "2020-05-20T11:12:04.454Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 811.32,
+        "videoSize": {
+          "mobileLow": 62668,
+          "pcLow": 62668,
+          "pcMid": 62668,
+          "pcHigh": 62668,
+          "mobileMid": 62668
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 811.363265,
+        "audioSize": 12982.274,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC51084065D54",
+        "audioSavedKey": "f410a5e22025df44b0f752338a8f51db.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159924",
+        "createdAt": "2017-02-21T17:36:15.615Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b3d4",
+        "order": 3,
+        "hide": false,
+        "name": "标准正交基",
+        "updatedAt": "2020-05-20T11:25:38.136Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 746.52,
+        "videoSize": {
+          "mobileLow": 57632,
+          "pcHigh": 57636,
+          "pcLow": 57632,
+          "pcMid": 57632,
+          "mobileMid": 57632
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 746.553469,
+        "audioSize": 11945.317,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC513B20717B4",
+        "audioSavedKey": "c704f7278869e9bab45a9024ad01afaf.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159925",
+        "createdAt": "2017-02-21T17:36:15.618Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b3d4",
+        "order": 4,
+        "hide": false,
+        "name": "正交变换",
+        "updatedAt": "2020-05-20T11:38:06.933Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1034.28,
+        "videoSize": {
+          "mobileMid": 79856,
+          "mobileLow": 79856,
+          "pcHigh": 79856,
+          "pcLow": 79856,
+          "pcMid": 79856
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1034.318367,
+        "audioSize": 16549.555,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5169E084381",
+        "audioSavedKey": "6c3c9a53eaaea8b681e7f1d8b6fcd3df.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b3d5",
+    "createdAt": "2017-02-21T17:36:15.686Z",
+    "courseId": "586d23485f07127674135d4d",
+    "order": 28,
+    "hide": false,
+    "name": "线性代数的应用举例 ",
+    "updatedAt": "2019-10-31T02:39:18.514Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "线性代数的应用举例 ,线性代数(线性代数的应用举例 )",
+      "description": "万门教育大学数学课程分类下提供：线性代数，线性代数的应用举例 等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988108！",
+      "title": "线性代数的应用举例 ，线性代数_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674159926",
+        "createdAt": "2017-02-21T17:36:15.689Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b3d5",
+        "order": 1,
+        "hide": false,
+        "name": "不相容方程组的最小二乘解",
+        "updatedAt": "2020-05-20T11:55:24.646Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1110.88,
+        "videoSize": {
+          "mobileLow": 85664,
+          "pcLow": 85656,
+          "mobileMid": 85664,
+          "pcHigh": 85656,
+          "pcMid": 85656
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1110.961633,
+        "audioSize": 17775.848,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC51AAC09B4BE",
+        "audioSavedKey": "12c1781b498827871f8472e8e7e6de13.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159927",
+        "createdAt": "2017-02-21T17:36:15.691Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b3d5",
+        "order": 2,
+        "hide": false,
+        "name": "多项式插值",
+        "updatedAt": "2020-05-21T06:01:58.982Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 235.08,
+        "videoSize": {
+          "mobileLow": 18204,
+          "pcHigh": 18204,
+          "mobileMid": 18204,
+          "pcMid": 18204,
+          "pcLow": 18204
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 235.128163,
+        "audioSize": 3762.512,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC6195645FC44",
+        "audioSavedKey": "e9c6fcee3f8bf3da76381a7e7534683f.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159928",
+        "createdAt": "2017-02-21T17:36:15.694Z",
+        "courseId": "586d23485f07127674135d4d",
+        "parentId": "586d23555f0712767415b3d5",
+        "order": 3,
+        "hide": false,
+        "name": "数值积分",
+        "updatedAt": "2020-05-21T03:17:55.748Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 931.72,
+        "videoSize": {
+          "mobileLow": 71872,
+          "pcHigh": 71872,
+          "pcMid": 71872,
+          "mobileMid": 71872,
+          "pcLow": 71872
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 931.787755,
+        "audioSize": 14909.066,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC5F2E33D12A7",
+        "audioSavedKey": "b758b33d766aa9c4533fa9e934caa731.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  }
+]

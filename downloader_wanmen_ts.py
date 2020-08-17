@@ -4,9 +4,10 @@ import urllib.request
 import re
 import os
 from utils.thread_utils import CountDownLatch
+from downloader_wanmen_constants import COURSE_ID
 
 
-def start_download(path, latch):
+def start_download(path, c_id, latch):
     files = os.listdir(path)
     for fi in files:
         fi_d = os.path.join(path, fi)
@@ -18,11 +19,11 @@ def start_download(path, latch):
             filename = fi_d
             print(filename)
 
-            elems = filename.split('_')
-            group_id = re.sub(r'[^G]*G', '', elems[0])
-            group_name = '第{0}讲 {1}'.format(group_id, elems[1])
-            course_id = re.sub(r'C', '', elems[2])
-            course_name = '{0}.{1}{2}'.format(group_id, course_id, elems[3])
+            elements = filename.split('_')
+            group_id = re.sub(r'[^G]*G', '', elements[0])
+            group_name = '第{0}讲 {1}'.format(group_id, elements[1]).strip()
+            course_id = re.sub(r'C', '', elements[2])
+            course_name = '{0}.{1}{2}'.format(group_id, course_id, elements[3]).strip()
 
             with open(filename, 'r', encoding='utf-8') as f:
                 json_obj = json.loads(f.read())
@@ -47,7 +48,7 @@ def start_download(path, latch):
                 for idx in range(0, 5000):
                     url = url_tmpl % idx
                     print(url)
-                    folder_name = 'video_cache_all\\' + group_name + '\\' + course_name + '\\'
+                    folder_name = 'video_cache_all\\' + c_id + '\\' + group_name + '\\' + course_name + '\\'
                     os.makedirs(folder_name, exist_ok=True)
                     filename = folder_name + filename_tmpl % idx
 
@@ -59,16 +60,19 @@ def start_download(path, latch):
 
     latch.count_down()
 
-def gather_batch(path):
+
+def gather_batch(c_id):
+    path = "download\\wanmen\\{0}".format(c_id)
     files = os.listdir(path)
     size = len(files)
     latch = CountDownLatch(size)
     for fi in files:
         folder_name = os.path.join(path, fi)
         if os.path.isdir(folder_name):
-            _thread.start_new_thread(start_download, (folder_name, latch,))
+            _thread.start_new_thread(start_download, (folder_name, c_id, latch,))
 
     latch.a_wait()
 
 
-gather_batch('download\\wanmen\\586d23485f07127674135d32')
+if __name__ == "__main__":
+    gather_batch(COURSE_ID)

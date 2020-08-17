@@ -1,0 +1,2902 @@
+[
+  {
+    "_id": "586d23555f0712767415b118",
+    "createdAt": "2017-02-21T17:36:03.758Z",
+    "courseId": "586d23485f07127674135d45",
+    "order": 1,
+    "hide": false,
+    "name": "管理与管理者",
+    "updatedAt": "2019-10-31T02:43:06.433Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "管理与管理者,管理学(管理与管理者)",
+      "description": "万门教育管理课程分类下提供：管理学，管理与管理者等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988206！",
+      "title": "管理与管理者，管理学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674158fbf",
+        "createdAt": "2017-02-21T17:36:03.761Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b118",
+        "order": 1,
+        "hide": false,
+        "name": "管理活动",
+        "updatedAt": "2020-05-20T08:50:04.115Z",
+        "actions": {
+          "download": true,
+          "watch": true
+        },
+        "isPreset": true,
+        "videoDuration": 1511,
+        "videoSize": {
+          "mobileLow": 116860,
+          "pcHigh": 116860,
+          "mobileMid": 116860,
+          "pcMid": 116860,
+          "pcLow": 116860
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1511.053061,
+        "audioSize": 24177.311,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4EF3CFD4627",
+        "audioSavedKey": "1f94fba819a7d7e87bd84c0cb6571209.m3u8",
+        "progress": 22,
+        "offset": 22,
+        "seconds": 332,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158fc0",
+        "createdAt": "2017-02-21T17:36:03.763Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b118",
+        "order": 2,
+        "hide": false,
+        "name": "管理者",
+        "updatedAt": "2020-05-20T09:26:12.444Z",
+        "actions": {
+          "download": true,
+          "watch": true
+        },
+        "isPreset": true,
+        "videoDuration": 1477.76,
+        "videoSize": {
+          "mobileLow": 114364,
+          "mobileMid": 114364,
+          "pcHigh": 114360,
+          "pcMid": 114364,
+          "pcLow": 114364
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1477.799184,
+        "audioSize": 23645.248,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4F7B4FF9AC7",
+        "audioSavedKey": "d8fc37d31613a2e7ccd0e6a2baf76aaf.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674158fc1",
+        "createdAt": "2017-02-21T17:36:03.765Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b118",
+        "order": 3,
+        "hide": false,
+        "name": "学习管理",
+        "updatedAt": "2020-05-20T09:27:37.179Z",
+        "actions": {
+          "download": true,
+          "watch": true
+        },
+        "isPreset": true,
+        "videoDuration": 1938.4,
+        "videoSize": {
+          "mobileMid": 149824,
+          "pcHigh": 149824,
+          "mobileLow": 149824,
+          "pcMid": 149824,
+          "pcLow": 149824
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1938.468571,
+        "audioSize": 31015.959,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC4F809FFE97E",
+        "audioSavedKey": "a97cff232c46a2482216b396bc3d45f7.m3u8",
+        "progress": 57,
+        "offset": 0,
+        "seconds": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b12a",
+    "createdAt": "2017-02-21T17:36:03.841Z",
+    "courseId": "586d23485f07127674135d45",
+    "order": 2,
+    "hide": false,
+    "name": "决策",
+    "updatedAt": "2019-10-31T02:43:06.433Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "决策,管理学(决策)",
+      "description": "万门教育管理课程分类下提供：管理学，决策等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988207！",
+      "title": "决策，管理学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674159001",
+        "createdAt": "2017-02-21T17:36:03.844Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b12a",
+        "order": 1,
+        "hide": false,
+        "name": "决策概述",
+        "updatedAt": "2020-05-20T09:05:23.802Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 2077.56,
+        "videoSize": {
+          "mobileLow": 160608,
+          "pcLow": 160608,
+          "pcMid": 160608,
+          "pcHigh": 160608,
+          "mobileMid": 160608
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 2077.622857,
+        "audioSize": 33242.427,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC4F2D3FE7E8D",
+        "audioSavedKey": "249cd84785fb7c07bbfc76455b2a217e.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159002",
+        "createdAt": "2017-02-21T17:36:03.846Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b12a",
+        "order": 2,
+        "hide": false,
+        "name": "决策过程",
+        "updatedAt": "2020-05-20T09:12:17.207Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1861.88,
+        "videoSize": {
+          "pcMid": 144016,
+          "pcHigh": 144016,
+          "pcLow": 144016,
+          "mobileMid": 144020,
+          "mobileLow": 144020
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1861.929796,
+        "audioSize": 29791.338,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4F471FEBA3C",
+        "audioSavedKey": "3bbb1dae695547a47ae4bf0d5167c0dc.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159003",
+        "createdAt": "2017-02-21T17:36:03.849Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b12a",
+        "order": 3,
+        "hide": false,
+        "name": "决策的影响因素",
+        "updatedAt": "2020-05-20T09:31:00.688Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 2032.08,
+        "videoSize": {
+          "pcHigh": 157276,
+          "pcMid": 157280,
+          "mobileMid": 157280,
+          "pcLow": 157280,
+          "mobileLow": 157280
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 2032.143673,
+        "audioSize": 32514.76,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4F8D4FFE818",
+        "audioSavedKey": "f4d3bde0d7435e8090936dc1ad0a72e0.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159004",
+        "createdAt": "2017-02-21T17:36:03.852Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b12a",
+        "order": 4,
+        "hide": false,
+        "name": "决策方法",
+        "updatedAt": "2020-05-20T09:31:59.951Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1499.6,
+        "videoSize": {
+          "pcHigh": 116072,
+          "mobileMid": 116072,
+          "mobileLow": 116072,
+          "pcLow": 116072,
+          "pcMid": 116072
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1499.663673,
+        "audioSize": 23995.08,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4F90FFFF7DC",
+        "audioSavedKey": "a64ca00df27f7b36b022033a08a24b34.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b13d",
+    "createdAt": "2017-02-21T17:36:03.927Z",
+    "courseId": "586d23485f07127674135d45",
+    "order": 3,
+    "hide": false,
+    "name": "计划",
+    "updatedAt": "2019-10-31T02:43:06.433Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "计划,管理学(计划)",
+      "description": "万门教育管理课程分类下提供：管理学，计划等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988208！",
+      "title": "计划，管理学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674159040",
+        "createdAt": "2017-02-21T17:36:03.930Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b13d",
+        "order": 1,
+        "hide": false,
+        "name": "计划概述",
+        "updatedAt": "2020-05-20T09:32:40.754Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1403.12,
+        "videoSize": {
+          "mobileLow": 108272,
+          "pcMid": 108272,
+          "mobileMid": 108272,
+          "pcLow": 108272,
+          "pcHigh": 108272
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1403.167347,
+        "audioSize": 22451.139,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4F938000310",
+        "audioSavedKey": "ddcdedba19a34352cf650ca92bcc2fc2.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159041",
+        "createdAt": "2017-02-21T17:36:03.933Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b13d",
+        "order": 2,
+        "hide": false,
+        "name": "制定计划",
+        "updatedAt": "2020-05-20T09:33:30.470Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1374.08,
+        "videoSize": {
+          "mobileLow": 106196,
+          "pcHigh": 106196,
+          "mobileMid": 106196,
+          "pcLow": 106196,
+          "pcMid": 106196
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1374.119184,
+        "audioSize": 21986.368,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4F96A00104C",
+        "audioSavedKey": "66425b73683ead627d9bd148d00363ec.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159042",
+        "createdAt": "2017-02-21T17:36:03.936Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b13d",
+        "order": 3,
+        "hide": false,
+        "name": "计划方法",
+        "updatedAt": "2020-05-20T09:34:11.992Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1519.84,
+        "videoSize": {
+          "pcHigh": 117568,
+          "mobileLow": 117568,
+          "mobileMid": 117568,
+          "pcLow": 117568,
+          "pcMid": 117568
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1519.908571,
+        "audioSize": 24318.999,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC4F99300534C",
+        "audioSavedKey": "d229d59867574b4fc9947a5f98b8aff2.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b161",
+    "createdAt": "2017-02-21T17:36:04.011Z",
+    "courseId": "586d23485f07127674135d45",
+    "order": 4,
+    "hide": false,
+    "name": "战略管理",
+    "updatedAt": "2019-10-31T02:43:06.433Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "战略管理,管理学(战略管理)",
+      "description": "万门教育管理课程分类下提供：管理学，战略管理等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988209！",
+      "title": "战略管理，管理学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f071276741590c0",
+        "createdAt": "2017-02-21T17:36:04.014Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b161",
+        "order": 1,
+        "hide": false,
+        "name": "战略管理概述",
+        "updatedAt": "2020-05-20T09:03:08.743Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 2296.56,
+        "videoSize": {
+          "mobileLow": 177488,
+          "pcLow": 177484,
+          "pcMid": 177484,
+          "pcHigh": 177484,
+          "mobileMid": 177488
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 2296.607347,
+        "audioSize": 36746.179,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC4F24CFE5909",
+        "audioSavedKey": "3ca7b84e7cf6819c114df3780d538c74.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741590c1",
+        "createdAt": "2017-02-21T17:36:04.017Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b161",
+        "order": 2,
+        "hide": false,
+        "name": "战略环境分析",
+        "updatedAt": "2020-05-20T09:36:07.555Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 2296.44,
+        "videoSize": {
+          "mobileLow": 177500,
+          "pcLow": 177496,
+          "pcMid": 177496,
+          "mobileMid": 177500,
+          "pcHigh": 177496
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 2296.502857,
+        "audioSize": 36744.507,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC4FA070072D5",
+        "audioSavedKey": "d7ae78adedceb70d65bba32a3805c27d.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741590c2",
+        "createdAt": "2017-02-21T17:36:04.020Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b161",
+        "order": 3,
+        "hide": false,
+        "name": "企业战略选择",
+        "updatedAt": "2020-05-20T09:37:08.939Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 2523.68,
+        "videoSize": {
+          "mobileLow": 195112,
+          "pcMid": 195112,
+          "pcHigh": 195112,
+          "mobileMid": 195112,
+          "pcLow": 195112
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 2523.742041,
+        "audioSize": 40380.334,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4FA44004BA9",
+        "audioSavedKey": "f7e4eb2bbe5dc90c0c5dca3331da770b.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b191",
+    "createdAt": "2017-02-21T17:36:04.101Z",
+    "courseId": "586d23485f07127674135d45",
+    "order": 5,
+    "hide": false,
+    "name": "组织设计",
+    "updatedAt": "2019-10-31T02:43:06.433Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "组织设计,管理学(组织设计)",
+      "description": "万门教育管理课程分类下提供：管理学，组织设计等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988210！",
+      "title": "组织设计，管理学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674159157",
+        "createdAt": "2017-02-21T17:36:04.104Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b191",
+        "order": 1,
+        "hide": false,
+        "name": "组织设计",
+        "updatedAt": "2020-05-20T09:38:35.515Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 2796,
+        "videoSize": {
+          "pcLow": 215768,
+          "pcMid": 215768,
+          "mobileLow": 215780,
+          "pcHigh": 215768,
+          "mobileMid": 215776
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 2796.068571,
+        "audioSize": 44737.559,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4FA9B00632A",
+        "audioSavedKey": "d09d21a43e209bb4dff4cbc64a5516a5.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159158",
+        "createdAt": "2017-02-21T17:36:04.107Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b191",
+        "order": 2,
+        "hide": false,
+        "name": "组织结构选择",
+        "updatedAt": "2020-05-20T09:39:27.841Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 2369.84,
+        "videoSize": {
+          "mobileLow": 182400,
+          "pcMid": 182396,
+          "mobileMid": 182400,
+          "pcHigh": 182396,
+          "pcLow": 182396
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 2369.880816,
+        "audioSize": 37918.555,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4FACF007140",
+        "audioSavedKey": "8e745b74938572ad45c2c72d49380cb6.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159159",
+        "createdAt": "2017-02-21T17:36:04.109Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b191",
+        "order": 3,
+        "hide": false,
+        "name": "组织部门化",
+        "updatedAt": "2020-05-20T09:40:18.523Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1378.32,
+        "videoSize": {
+          "pcLow": 105984,
+          "pcHigh": 105984,
+          "pcMid": 105984,
+          "mobileLow": 105984,
+          "mobileMid": 105984
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1378.377143,
+        "audioSize": 22054.496,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4FB02007E37",
+        "audioSavedKey": "cfbc86295c6c3627ebbd30af28dab287.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415915a",
+        "createdAt": "2017-02-21T17:36:04.112Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b191",
+        "order": 4,
+        "hide": false,
+        "name": "组织层级化",
+        "updatedAt": "2020-05-20T09:40:41.707Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1542.08,
+        "videoSize": {
+          "mobileLow": 118316,
+          "pcLow": 118316,
+          "pcHigh": 118312,
+          "pcMid": 118316,
+          "mobileMid": 118316
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1542.112653,
+        "audioSize": 24674.264,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4FB19008402",
+        "audioSavedKey": "f098342e2bb31b8d2e7497e9bd1b84e9.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b1cb",
+    "createdAt": "2017-02-21T17:36:04.175Z",
+    "courseId": "586d23485f07127674135d45",
+    "order": 6,
+    "hide": false,
+    "name": "人力资源管理",
+    "updatedAt": "2019-10-31T02:43:06.433Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "人力资源管理,管理学(人力资源管理)",
+      "description": "万门教育管理课程分类下提供：管理学，人力资源管理等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988211！",
+      "title": "人力资源管理，管理学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674159228",
+        "createdAt": "2017-02-21T17:36:04.177Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b1cb",
+        "order": 1,
+        "hide": false,
+        "name": "人力资源管理概述",
+        "updatedAt": "2020-05-20T09:41:07.487Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 2208,
+        "videoSize": {
+          "mobileLow": 170840,
+          "pcLow": 170836,
+          "pcHigh": 170836,
+          "mobileMid": 170840,
+          "pcMid": 170836
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 2208.052245,
+        "audioSize": 35329.297,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC4FB3300C27F",
+        "audioSavedKey": "5bf41e66f1ca643e6fd6b8e2f9569b4f.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159229",
+        "createdAt": "2017-02-21T17:36:04.180Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b1cb",
+        "order": 2,
+        "hide": false,
+        "name": "甄选与培训",
+        "updatedAt": "2020-05-20T09:42:08.121Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 2344.56,
+        "videoSize": {
+          "mobileLow": 181372,
+          "pcHigh": 181372,
+          "pcLow": 181368,
+          "pcMid": 181368,
+          "mobileMid": 181372
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 2344.594286,
+        "audioSize": 37513.97,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4FB70009AB2",
+        "audioSavedKey": "6820dda274257030836d3c97703da92e.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415922a",
+        "createdAt": "2017-02-21T17:36:04.183Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b1cb",
+        "order": 3,
+        "hide": false,
+        "name": "考核与薪酬",
+        "updatedAt": "2020-05-20T09:43:02.551Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 2498.839999,
+        "videoSize": {
+          "mobileLow": 193244,
+          "mobileMid": 193244,
+          "pcHigh": 193240,
+          "pcLow": 193240,
+          "pcMid": 193240
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 2498.873469,
+        "audioSize": 39982.437,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4FBA600A884",
+        "audioSavedKey": "2f4891e99308d4f0345c3ef76f27df5c.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b212",
+    "createdAt": "2017-02-21T17:36:04.271Z",
+    "courseId": "586d23485f07127674135d45",
+    "order": 7,
+    "hide": false,
+    "name": "群体与团队",
+    "updatedAt": "2019-10-31T02:43:06.433Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "群体与团队,管理学(群体与团队)",
+      "description": "万门教育管理课程分类下提供：管理学，群体与团队等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988212！",
+      "title": "群体与团队，管理学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674159307",
+        "createdAt": "2017-02-21T17:36:04.274Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b212",
+        "order": 1,
+        "hide": false,
+        "name": "群体与群体过程",
+        "updatedAt": "2020-05-20T09:44:15.790Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 2056.72,
+        "videoSize": {
+          "mobileLow": 159252,
+          "pcMid": 159252,
+          "pcLow": 159252,
+          "mobileMid": 159252,
+          "pcHigh": 159248
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 2056.777143,
+        "audioSize": 32908.896,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4FBEF00BC84",
+        "audioSavedKey": "6981e848bee20c7b899498c2d57223b7.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159308",
+        "createdAt": "2017-02-21T17:36:04.277Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b212",
+        "order": 2,
+        "hide": false,
+        "name": "工作团队",
+        "updatedAt": "2020-05-20T10:25:22.444Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1763.36,
+        "videoSize": {
+          "mobileLow": 136452,
+          "pcHigh": 136448,
+          "pcLow": 136448,
+          "pcMid": 136448,
+          "mobileMid": 136452
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1763.422041,
+        "audioSize": 28215.214,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC505920336ED",
+        "audioSavedKey": "0eaae4e7422b828d20bf494ce57db50b.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159309",
+        "createdAt": "2017-02-21T17:36:04.281Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b212",
+        "order": 3,
+        "hide": false,
+        "name": "建设高效团队",
+        "updatedAt": "2020-05-20T10:48:40.075Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 2238.56,
+        "videoSize": {
+          "mobileLow": 178496,
+          "pcLow": 178488,
+          "pcMid": 178488,
+          "mobileMid": 178496,
+          "pcHigh": 178488
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 2238.61551,
+        "audioSize": 35818.31,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC50B0804A420",
+        "audioSavedKey": "6f2b445776b0bdd3a3ae72c6a40711a1.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b22c",
+    "createdAt": "2017-02-21T17:36:04.377Z",
+    "courseId": "586d23485f07127674135d45",
+    "order": 8,
+    "hide": false,
+    "name": "理解个体行为",
+    "updatedAt": "2019-10-31T02:43:06.433Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "理解个体行为,管理学(理解个体行为)",
+      "description": "万门教育管理课程分类下提供：管理学，理解个体行为等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988213！",
+      "title": "理解个体行为，管理学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674159359",
+        "createdAt": "2017-02-21T17:36:04.380Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b22c",
+        "order": 1,
+        "hide": false,
+        "name": "工作行为",
+        "updatedAt": "2020-05-20T10:49:11.135Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 2026.76,
+        "videoSize": {
+          "mobileLow": 156812,
+          "pcHigh": 156816,
+          "pcMid": 156812,
+          "pcLow": 156812,
+          "mobileMid": 156812
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 2026.814694,
+        "audioSize": 32429.497,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC50B2704AC74",
+        "audioSavedKey": "27c1bb31f3ed980c69ae92da5a747a0f.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741593a0",
+        "createdAt": "2017-02-21T17:36:04.383Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b22c",
+        "order": 2,
+        "hide": false,
+        "name": "工作态度",
+        "updatedAt": "2020-05-20T10:49:47.432Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1828.08,
+        "videoSize": {
+          "pcLow": 141284,
+          "mobileMid": 141288,
+          "pcHigh": 141280,
+          "mobileLow": 141288,
+          "pcMid": 141284
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1828.127347,
+        "audioSize": 29250.499,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC50B4B04B654",
+        "audioSavedKey": "4cb2e3ff6edfe40f3370a717b7975526.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741593a1",
+        "createdAt": "2017-02-21T17:36:04.386Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b22c",
+        "order": 3,
+        "hide": false,
+        "name": "人格",
+        "updatedAt": "2020-05-20T10:50:19.240Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1724.52,
+        "videoSize": {
+          "mobileLow": 133316,
+          "pcMid": 133312,
+          "pcHigh": 133312,
+          "pcLow": 133312,
+          "mobileMid": 133316
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1724.551837,
+        "audioSize": 27593.291,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC50B6B04F661",
+        "audioSavedKey": "38e0ce123fc6bc9a51b3f9de60ba168e.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741593a2",
+        "createdAt": "2017-02-21T17:36:04.389Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b22c",
+        "order": 4,
+        "hide": false,
+        "name": "知觉",
+        "updatedAt": "2020-05-20T10:50:50.108Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1365.4,
+        "videoSize": {
+          "mobileLow": 105584,
+          "pcLow": 105584,
+          "mobileMid": 105584,
+          "pcMid": 105584,
+          "pcHigh": 105584
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1365.446531,
+        "audioSize": 21847.606,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC50B8904C6AD",
+        "audioSavedKey": "38894a91d8a7d29796a72f8ceb05d4f7.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b25c",
+    "createdAt": "2017-02-21T17:36:04.466Z",
+    "courseId": "586d23485f07127674135d45",
+    "order": 9,
+    "hide": false,
+    "name": "动机与激励",
+    "updatedAt": "2019-10-31T02:43:06.433Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "动机与激励,管理学(动机与激励)",
+      "description": "万门教育管理课程分类下提供：管理学，动机与激励等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988214！",
+      "title": "动机与激励，管理学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674159413",
+        "createdAt": "2017-02-21T17:36:04.470Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b25c",
+        "order": 1,
+        "hide": false,
+        "name": "经典动机理论",
+        "updatedAt": "2020-05-20T10:51:14.689Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 2054.2,
+        "videoSize": {
+          "pcMid": 159108,
+          "pcLow": 159108,
+          "mobileLow": 159108,
+          "mobileMid": 159108,
+          "pcHigh": 159108
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 2054.269388,
+        "audioSize": 32868.772,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC50BA204CDA1",
+        "audioSavedKey": "482c0ac76c9290970c76d71374fbc3fa.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159414",
+        "createdAt": "2017-02-21T17:36:04.474Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b25c",
+        "order": 2,
+        "hide": false,
+        "name": "当代动机理论",
+        "updatedAt": "2020-05-20T10:51:52.704Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1710.2,
+        "videoSize": {
+          "mobileMid": 132268,
+          "pcMid": 132260,
+          "mobileLow": 132268,
+          "pcHigh": 132264,
+          "pcLow": 132260
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1710.262857,
+        "audioSize": 27364.667,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC50BC804D757",
+        "audioSavedKey": "dd02f2cd4e02ebb73a6e7a02f866bc09.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159415",
+        "createdAt": "2017-02-21T17:36:04.477Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b25c",
+        "order": 3,
+        "hide": false,
+        "name": "工作激励",
+        "updatedAt": "2020-05-20T10:52:24.240Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1441.92,
+        "videoSize": {
+          "mobileMid": 111680,
+          "mobileLow": 111680,
+          "pcMid": 111680,
+          "pcHigh": 111680,
+          "pcLow": 111680
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1441.985306,
+        "audioSize": 23072.226,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC50BE8051789",
+        "audioSavedKey": "b44d09d8a89cae56c3dfe59afd5ffb81.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b27b",
+    "createdAt": "2017-02-21T17:36:04.546Z",
+    "courseId": "586d23485f07127674135d45",
+    "order": 10,
+    "hide": false,
+    "name": "领导力基础",
+    "updatedAt": "2019-10-31T02:43:06.433Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "领导力基础,管理学(领导力基础)",
+      "description": "万门教育管理课程分类下提供：管理学，领导力基础等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988215！",
+      "title": "领导力基础，管理学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674159472",
+        "createdAt": "2017-02-21T17:36:04.548Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b27b",
+        "order": 1,
+        "hide": false,
+        "name": "领导概述",
+        "updatedAt": "2020-05-20T09:48:54.075Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1328.64,
+        "videoSize": {
+          "pcHigh": 102724,
+          "mobileMid": 102720,
+          "pcLow": 102720,
+          "mobileLow": 102720,
+          "pcMid": 102720
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1328.692245,
+        "audioSize": 21259.537,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC4FD06013DDB",
+        "audioSavedKey": "e8e02ffef6f897add88854ae1ef4043c.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159473",
+        "createdAt": "2017-02-21T17:36:04.551Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b27b",
+        "order": 2,
+        "hide": false,
+        "name": "早期领导理论",
+        "updatedAt": "2020-05-20T09:48:55.951Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1196,
+        "videoSize": {
+          "mobileLow": 92348,
+          "pcHigh": 92344,
+          "pcMid": 92344,
+          "pcLow": 92344,
+          "mobileMid": 92348
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1196.042449,
+        "audioSize": 19137.141,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC4FD07013E70",
+        "audioSavedKey": "a1760a7b0a942bea1636cb91bab00f08.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159474",
+        "createdAt": "2017-02-21T17:36:04.554Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b27b",
+        "order": 3,
+        "hide": false,
+        "name": "权变领导理论",
+        "updatedAt": "2020-05-20T10:53:34.478Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1184.76,
+        "videoSize": {
+          "mobileLow": 91480,
+          "mobileMid": 91480,
+          "pcMid": 91476,
+          "pcHigh": 91476,
+          "pcLow": 91476
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1184.809796,
+        "audioSize": 18957.418,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC50C2E052A85",
+        "audioSavedKey": "7cbd6b1451295e96c2da55e99d5f8af7.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b295",
+    "createdAt": "2017-02-21T17:36:04.635Z",
+    "courseId": "586d23485f07127674135d45",
+    "order": 11,
+    "hide": false,
+    "name": "领导力发展",
+    "updatedAt": "2019-10-31T02:43:06.433Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "领导力发展,管理学(领导力发展)",
+      "description": "万门教育管理课程分类下提供：管理学，领导力发展等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988216！",
+      "title": "领导力发展，管理学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f071276741594c6",
+        "createdAt": "2017-02-21T17:36:04.637Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b295",
+        "order": 1,
+        "hide": false,
+        "name": "新领导理论",
+        "updatedAt": "2020-05-20T10:53:56.590Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1998.64,
+        "videoSize": {
+          "mobileLow": 154656,
+          "pcMid": 154656,
+          "pcHigh": 154660,
+          "mobileMid": 154656,
+          "pcLow": 154656
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1998.706939,
+        "audioSize": 31979.773,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC50C4404F89E",
+        "audioSavedKey": "0bd585fd3a0d50f55090b6788e5754b0.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741594c7",
+        "createdAt": "2017-02-21T17:36:04.640Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b295",
+        "order": 2,
+        "hide": false,
+        "name": "领导力新议题",
+        "updatedAt": "2020-05-20T10:54:33.475Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1841.68,
+        "videoSize": {
+          "mobileLow": 142660,
+          "pcMid": 142656,
+          "mobileMid": 142660,
+          "pcLow": 142656,
+          "pcHigh": 142656
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1841.737143,
+        "audioSize": 29468.256,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC50C69053A19",
+        "audioSavedKey": "ac73eb6eb3ec78d50788fae5ef08e182.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741594c8",
+        "createdAt": "2017-02-21T17:36:04.644Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b295",
+        "order": 3,
+        "hide": false,
+        "name": "领导力发展",
+        "updatedAt": "2020-05-20T10:55:09.258Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1380,
+        "videoSize": {
+          "mobileMid": 106884,
+          "mobileLow": 106884,
+          "pcMid": 106884,
+          "pcHigh": 106884,
+          "pcLow": 106884
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1380.075102,
+        "audioSize": 22081.663,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC50C8D050BDD",
+        "audioSavedKey": "8385a1c5532c38e0f6a0d5b2d1bffe18.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b2b1",
+    "createdAt": "2017-02-21T17:36:04.718Z",
+    "courseId": "586d23485f07127674135d45",
+    "order": 12,
+    "hide": false,
+    "name": "领导力访谈",
+    "updatedAt": "2019-10-31T02:43:06.433Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "领导力访谈,管理学(领导力访谈)",
+      "description": "万门教育管理课程分类下提供：管理学，领导力访谈等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988217！",
+      "title": "领导力访谈，管理学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f0712767415951e",
+        "createdAt": "2017-02-21T17:36:04.721Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b2b1",
+        "order": 1,
+        "hide": false,
+        "name": "认识领导力——你怎么看？",
+        "updatedAt": "2020-05-20T10:55:36.381Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1135.16,
+        "videoSize": {
+          "mobileLow": 90500,
+          "mobileMid": 90500,
+          "pcMid": 90492,
+          "pcLow": 90492,
+          "pcHigh": 90496
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1135.203265,
+        "audioSize": 18163.714,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC50CA805135E",
+        "audioSavedKey": "6c99508dad171aee79356458d5bc67c5.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415951f",
+        "createdAt": "2017-02-21T17:36:04.723Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b2b1",
+        "order": 2,
+        "hide": false,
+        "name": " 领导力开发——锦囊妙计",
+        "updatedAt": "2020-05-20T10:55:57.710Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1772.92,
+        "videoSize": {
+          "pcMid": 141412,
+          "mobileMid": 141416,
+          "pcLow": 141412,
+          "pcHigh": 141412,
+          "mobileLow": 141416
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1772.982857,
+        "audioSize": 28368.187,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC50CBD05507B",
+        "audioSavedKey": "b340b2e60ee1208e70603feedc58fa4c.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159520",
+        "createdAt": "2017-02-21T17:36:04.731Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b2b1",
+        "order": 3,
+        "hide": false,
+        "name": "和领导相处——沟通为王",
+        "updatedAt": "2020-05-20T10:56:29.414Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1623.84,
+        "videoSize": {
+          "mobileLow": 129516,
+          "mobileMid": 129516,
+          "pcMid": 129512,
+          "pcLow": 129512,
+          "pcHigh": 129512
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1623.902041,
+        "audioSize": 25982.894,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC50CDD0558FB",
+        "audioSavedKey": "f064795629044f56972c4f8a7d4bbef1.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b2be",
+    "createdAt": "2017-02-21T17:36:04.798Z",
+    "courseId": "586d23485f07127674135d45",
+    "order": 13,
+    "hide": false,
+    "name": "沟通",
+    "updatedAt": "2019-10-31T02:43:06.433Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "沟通,管理学(沟通)",
+      "description": "万门教育管理课程分类下提供：管理学，沟通等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988218！",
+      "title": "沟通，管理学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f0712767415954a",
+        "createdAt": "2017-02-21T17:36:04.801Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b2be",
+        "order": 1,
+        "hide": false,
+        "name": "沟通的基本原理",
+        "updatedAt": "2020-05-20T10:56:55.652Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1805,
+        "videoSize": {
+          "mobileLow": 139520,
+          "pcLow": 139516,
+          "pcHigh": 139516,
+          "mobileMid": 139520,
+          "pcMid": 139516
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1805.061224,
+        "audioSize": 28881.441,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC50CF705601D",
+        "audioSavedKey": "2a7958e42c5161343f0828051717882e.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415954b",
+        "createdAt": "2017-02-21T17:36:04.803Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b2be",
+        "order": 2,
+        "hide": false,
+        "name": "组织中的沟通",
+        "updatedAt": "2019-10-26T01:10:00.268Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1620.4,
+        "videoSize": {
+          "pcMid": 129252,
+          "pcLow": 129252,
+          "mobileMid": 129252,
+          "pcHigh": 129252,
+          "mobileLow": 129252
+        },
+        "isGeneratingAudio": true,
+        "audioPersistentId": "z1.0A1E1A1839F5633CB05DB39CE84E1C87",
+        "audioSavedKey": "2008d0afe6bfae5209c76c2ad4c84afe.mp3",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415954c",
+        "createdAt": "2017-02-21T17:36:04.807Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b2be",
+        "order": 3,
+        "hide": false,
+        "name": "有效沟通",
+        "updatedAt": "2020-05-20T09:12:50.085Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1749.44,
+        "videoSize": {
+          "mobileLow": 139512,
+          "pcMid": 139508,
+          "pcHigh": 139504,
+          "pcLow": 139508,
+          "mobileMid": 139512
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1749.498776,
+        "audioSize": 27992.442,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC4F492FEFA3C",
+        "audioSavedKey": "5ea525ed805128b1d483a9e1c7d954b7.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b2dc",
+    "createdAt": "2017-02-21T17:36:04.880Z",
+    "courseId": "586d23485f07127674135d45",
+    "order": 14,
+    "hide": false,
+    "name": "企业文化",
+    "updatedAt": "2019-10-31T02:43:06.433Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "企业文化,管理学(企业文化)",
+      "description": "万门教育管理课程分类下提供：管理学，企业文化等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988219！",
+      "title": "企业文化，管理学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f071276741595b5",
+        "createdAt": "2017-02-21T17:36:04.883Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b2dc",
+        "order": 1,
+        "hide": false,
+        "name": "认识组织文化",
+        "updatedAt": "2020-05-20T10:58:24.987Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1554.08,
+        "videoSize": {
+          "mobileLow": 123908,
+          "pcHigh": 123912,
+          "mobileMid": 123908,
+          "pcMid": 123908,
+          "pcLow": 123908
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1554.155102,
+        "audioSize": 24866.943,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC50D5005783F",
+        "audioSavedKey": "b0580c88cfe7f57091fe91a160be674e.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741595b6",
+        "createdAt": "2017-02-21T17:36:04.887Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b2dc",
+        "order": 2,
+        "hide": false,
+        "name": "组织文化建设",
+        "updatedAt": "2020-05-20T08:56:38.443Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1309.8,
+        "videoSize": {
+          "mobileMid": 104488,
+          "pcHigh": 104488,
+          "pcLow": 104488,
+          "mobileLow": 104488,
+          "pcMid": 104488
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1309.857959,
+        "audioSize": 20958.189,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4F0C6FDB405",
+        "audioSavedKey": "364b65cef4db9db77d8d117c733f1a17.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741595b7",
+        "createdAt": "2017-02-21T17:36:04.889Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b2dc",
+        "order": 3,
+        "hide": false,
+        "name": "组织文化变革",
+        "updatedAt": "2020-05-20T09:22:41.145Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1298.2,
+        "videoSize": {
+          "pcLow": 103576,
+          "mobileMid": 103576,
+          "pcHigh": 103576,
+          "mobileLow": 103576,
+          "pcMid": 103576
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1298.233469,
+        "audioSize": 20772.197,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4F6E1FF61C1",
+        "audioSavedKey": "b6f0e7bda04f64e8adf310275ffedaa8.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b2fd",
+    "createdAt": "2017-02-21T17:36:04.959Z",
+    "courseId": "586d23485f07127674135d45",
+    "order": 15,
+    "hide": false,
+    "name": "管理控制",
+    "updatedAt": "2019-10-31T02:43:06.434Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "管理控制,管理学(管理控制)",
+      "description": "万门教育管理课程分类下提供：管理学，管理控制等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988220！",
+      "title": "管理控制，管理学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f0712767415962a",
+        "createdAt": "2017-02-21T17:36:04.961Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b2fd",
+        "order": 1,
+        "hide": false,
+        "name": "控制概述",
+        "updatedAt": "2020-05-20T09:42:40.982Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 2158.36,
+        "videoSize": {
+          "mobileLow": 166252,
+          "pcHigh": 166252,
+          "pcLow": 166252,
+          "mobileMid": 166252,
+          "pcMid": 166252
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 2158.393469,
+        "audioSize": 34534.757,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4FB9000A2B9",
+        "audioSavedKey": "045cc810e485dee074d12c9215b546eb.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415962b",
+        "createdAt": "2017-02-21T17:36:04.964Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b2fd",
+        "order": 2,
+        "hide": false,
+        "name": "运营管控",
+        "updatedAt": "2020-05-20T10:30:21.599Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1471.68,
+        "videoSize": {
+          "mobileLow": 113436,
+          "pcMid": 113436,
+          "pcLow": 113436,
+          "mobileMid": 113436,
+          "pcHigh": 113432
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1471.712653,
+        "audioSize": 23547.864,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC506BD03BA85",
+        "audioSavedKey": "3d2e5d2b1415095779ba84fec5b46484.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415962c",
+        "createdAt": "2017-02-21T17:36:04.966Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b2fd",
+        "order": 3,
+        "hide": false,
+        "name": "危机管理",
+        "updatedAt": "2020-05-20T11:00:46.405Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1588.92,
+        "videoSize": {
+          "pcMid": 122388,
+          "pcHigh": 122388,
+          "mobileLow": 122388,
+          "mobileMid": 122388,
+          "pcLow": 122388
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1588.976327,
+        "audioSize": 25424.083,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC50DDE0567AA",
+        "audioSavedKey": "3dc4fc9cdcf28f08ae28199d3445dc5e.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b31f",
+    "createdAt": "2017-02-21T17:36:05.046Z",
+    "courseId": "586d23485f07127674135d45",
+    "order": 16,
+    "hide": false,
+    "name": "组织变革",
+    "updatedAt": "2019-10-31T02:43:06.434Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "组织变革,管理学(组织变革)",
+      "description": "万门教育管理课程分类下提供：管理学，组织变革等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988221！",
+      "title": "组织变革，管理学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f071276741596a7",
+        "createdAt": "2017-02-21T17:36:05.053Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b31f",
+        "order": 1,
+        "hide": false,
+        "name": "组织变革概述",
+        "updatedAt": "2020-05-20T11:01:15.911Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 804.8,
+        "videoSize": {
+          "mobileLow": 61956,
+          "pcLow": 61956,
+          "pcHigh": 61956,
+          "pcMid": 61956,
+          "mobileMid": 61956
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 804.832653,
+        "audioSize": 12877.784,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC50DFB056FFC",
+        "audioSavedKey": "bbfcdd76b219ae306a7bb64a788435c7.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741596a8",
+        "createdAt": "2017-02-21T17:36:05.062Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b31f",
+        "order": 2,
+        "hide": false,
+        "name": "变革管理",
+        "updatedAt": "2020-05-20T11:01:32.075Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1469.8,
+        "videoSize": {
+          "mobileLow": 113456,
+          "pcLow": 113456,
+          "pcHigh": 113456,
+          "pcMid": 113456,
+          "mobileMid": 113456
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1469.857959,
+        "audioSize": 23518.189,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC50E0C057408",
+        "audioSavedKey": "086af6ac8c01a92589032903385c8c84.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f071276741596a9",
+        "createdAt": "2017-02-21T17:36:05.067Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b31f",
+        "order": 3,
+        "hide": false,
+        "name": "变革实例",
+        "updatedAt": "2020-05-20T08:57:17.262Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1118.52,
+        "videoSize": {
+          "pcHigh": 86376,
+          "pcLow": 86376,
+          "mobileLow": 86384,
+          "pcMid": 86376,
+          "mobileMid": 86384
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1118.563265,
+        "audioSize": 17897.474,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC4F0EDFDF6DE",
+        "audioSavedKey": "574ba2c4804bd86c3fc557f59500201d.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b352",
+    "createdAt": "2017-02-21T17:36:05.141Z",
+    "courseId": "586d23485f07127674135d45",
+    "order": 17,
+    "hide": false,
+    "name": "创新管理",
+    "updatedAt": "2019-10-31T02:43:06.434Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "创新管理,管理学(创新管理)",
+      "description": "万门教育管理课程分类下提供：管理学，创新管理等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988222！",
+      "title": "创新管理，管理学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f0712767415975b",
+        "createdAt": "2017-02-21T17:36:05.147Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b352",
+        "order": 1,
+        "hide": false,
+        "name": "创新管理",
+        "updatedAt": "2020-05-20T11:02:22.631Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1840.64,
+        "videoSize": {
+          "mobileLow": 141752,
+          "pcHigh": 141748,
+          "pcLow": 141748,
+          "pcMid": 141748,
+          "mobileMid": 141752
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1840.692245,
+        "audioSize": 29451.537,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC50E3E0581BB",
+        "audioSavedKey": "147a1a5971be6f2d7b4439d9c1530f46.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415975c",
+        "createdAt": "2017-02-21T17:36:05.151Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b352",
+        "order": 2,
+        "hide": false,
+        "name": "技术创新",
+        "updatedAt": "2020-05-20T11:02:53.293Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1291.88,
+        "videoSize": {
+          "pcMid": 99516,
+          "mobileLow": 99516,
+          "pcHigh": 99516,
+          "pcLow": 99516,
+          "mobileMid": 99516
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1291.937959,
+        "audioSize": 20671.469,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC50E5D0589F2",
+        "audioSavedKey": "6a00a48623229d363e737310d2b8f7a8.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f0712767415975d",
+        "createdAt": "2017-02-21T17:36:05.154Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b352",
+        "order": 3,
+        "hide": false,
+        "name": "组织创新",
+        "updatedAt": "2020-05-20T11:03:12.561Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1630.6,
+        "videoSize": {
+          "mobileLow": 125552,
+          "mobileMid": 125552,
+          "pcMid": 125548,
+          "pcLow": 125548,
+          "pcHigh": 125548
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1630.667755,
+        "audioSize": 26091.146,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC50E70058F3D",
+        "audioSavedKey": "b059fe4054b9508548de5bef551eb773.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b381",
+    "createdAt": "2017-02-21T17:36:05.216Z",
+    "courseId": "586d23485f07127674135d45",
+    "order": 18,
+    "hide": false,
+    "name": "全球化与社会责任",
+    "updatedAt": "2019-10-31T02:43:06.434Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "全球化与社会责任,管理学(全球化与社会责任)",
+      "description": "万门教育管理课程分类下提供：管理学，全球化与社会责任等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988223！",
+      "title": "全球化与社会责任，管理学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674159802",
+        "createdAt": "2017-02-21T17:36:05.218Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b381",
+        "order": 1,
+        "hide": false,
+        "name": "全球化管理",
+        "updatedAt": "2020-05-20T08:49:57.102Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 2059.28,
+        "videoSize": {
+          "mobileMid": 158484,
+          "mobileLow": 158484,
+          "pcHigh": 158484,
+          "pcLow": 158484,
+          "pcMid": 158484
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 2059.337143,
+        "audioSize": 32949.856,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC4EF35FD7C14",
+        "audioSavedKey": "3e270f65fb8929f0b99711f292281647.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159803",
+        "createdAt": "2017-02-21T17:36:05.221Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b381",
+        "order": 2,
+        "hide": false,
+        "name": "企业社会责任",
+        "updatedAt": "2020-05-20T09:45:56.877Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1434.08,
+        "videoSize": {
+          "pcHigh": 110412,
+          "mobileLow": 110412,
+          "pcMid": 110412,
+          "mobileMid": 110412,
+          "pcLow": 110412
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1434.148571,
+        "audioSize": 22946.839,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC4FC5400D7A1",
+        "audioSavedKey": "8b1417724fd3dd2bb30a460313ec725c.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159804",
+        "createdAt": "2017-02-21T17:36:05.223Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b381",
+        "order": 3,
+        "hide": false,
+        "name": "道德与管理",
+        "updatedAt": "2020-05-20T11:04:54.496Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1623.2,
+        "videoSize": {
+          "mobileLow": 124980,
+          "pcHigh": 124976,
+          "pcMid": 124976,
+          "mobileMid": 124980,
+          "pcLow": 124976
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1623.24898,
+        "audioSize": 25972.445,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC50ED605E2C9",
+        "audioSavedKey": "e9e482ced48a061a67f63a0db7f67f9f.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b435",
+    "createdAt": "2017-02-21T17:36:05.294Z",
+    "courseId": "586d23485f07127674135d45",
+    "order": 19,
+    "hide": false,
+    "name": "嘉宾访谈",
+    "updatedAt": "2019-10-31T02:43:06.434Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "嘉宾访谈,管理学(嘉宾访谈)",
+      "description": "万门教育管理课程分类下提供：管理学，嘉宾访谈等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988224！",
+      "title": "嘉宾访谈，管理学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674159a4f",
+        "createdAt": "2017-02-21T17:36:05.297Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b435",
+        "order": 1,
+        "hide": false,
+        "name": "李圆",
+        "updatedAt": "2020-05-20T11:05:57.336Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1673.6,
+        "videoSize": {
+          "mobileLow": 133408,
+          "mobileMid": 133408,
+          "pcMid": 133400,
+          "pcLow": 133400,
+          "pcHigh": 133400
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1673.639184,
+        "audioSize": 26778.688,
+        "audioPersistentId": "z1.0A1E1B437FEB90678E5EC50F1505F465",
+        "audioSavedKey": "ee3943538da76088654f847cd0a02355.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159a50",
+        "createdAt": "2017-02-21T17:36:05.299Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b435",
+        "order": 2,
+        "hide": false,
+        "name": "田雷",
+        "updatedAt": "2020-05-20T11:06:41.314Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 2138.88,
+        "videoSize": {
+          "pcMid": 170568,
+          "pcLow": 170568,
+          "pcHigh": 170564,
+          "mobileMid": 170568,
+          "mobileLow": 170568
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 2138.932245,
+        "audioSize": 34223.377,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC50F4105C8D4",
+        "audioSavedKey": "b35a4e07509a8d7c7bd4234b38dc2284.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      },
+      {
+        "_id": "586d23535f07127674159a51",
+        "createdAt": "2017-02-21T17:36:05.302Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b435",
+        "order": 3,
+        "hide": false,
+        "name": "刘烨",
+        "updatedAt": "2020-05-20T11:07:23.369Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1841.36,
+        "videoSize": {
+          "mobileLow": 146808,
+          "mobileMid": 146808,
+          "pcMid": 146804,
+          "pcLow": 146804,
+          "pcHigh": 146804
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1841.397551,
+        "audioSize": 29462.822,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC50F6B05D4F7",
+        "audioSavedKey": "aba0efaf5d5a67fb27479053d3c34169.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "586d23555f0712767415b5cb",
+    "createdAt": "2017-02-21T17:36:05.370Z",
+    "courseId": "586d23485f07127674135d45",
+    "order": 20,
+    "hide": false,
+    "name": "结语",
+    "updatedAt": "2019-10-31T02:43:06.434Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "seo": {
+      "keywords": "结语,管理学(结语)",
+      "description": "万门教育管理课程分类下提供：管理学，结语等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008988225！",
+      "title": "结语，管理学_万门|大学"
+    },
+    "videoDuration": 0,
+    "videoSize": {
+      "pcHigh": 0,
+      "pcMid": 0,
+      "pcLow": 0,
+      "mobileMid": 0,
+      "mobileLow": 0
+    },
+    "children": [
+      {
+        "_id": "586d23535f07127674159fcc",
+        "createdAt": "2017-02-21T17:36:05.373Z",
+        "courseId": "586d23485f07127674135d45",
+        "parentId": "586d23555f0712767415b5cb",
+        "order": 1,
+        "hide": false,
+        "name": "结语",
+        "updatedAt": "2020-05-20T11:00:31.544Z",
+        "actions": {
+          "watch": true,
+          "download": true
+        },
+        "isPreset": true,
+        "videoDuration": 1653.903,
+        "videoSize": {
+          "mobileLow": 127364,
+          "pcMid": 127360,
+          "mobileMid": 127364,
+          "pcLow": 127360,
+          "pcHigh": 127360
+        },
+        "isGeneratingAudio": true,
+        "audioDuration": 1653.96898,
+        "audioSize": 26463.965,
+        "audioPersistentId": "z1.0A1E1A185C9055E7F15EC50DCF0562EF",
+        "audioSavedKey": "8cc3c286e8ac33207e19864e01f3a35c.m3u8",
+        "progress": 0,
+        "hasTopic": false,
+        "opDuration": 5,
+        "edDuration": 10,
+        "quizStatus": {
+          "has_quiz_pack": false,
+          "attempt_status": "Fresh",
+          "quiz_pack_id": "",
+          "attempt_id": ""
+        }
+      }
+    ]
+  }
+]
